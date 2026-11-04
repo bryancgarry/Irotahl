@@ -1,0 +1,7 @@
+{
+  "attachmentFolderPath": "00_System/Assets",
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": ["00_System/Templates/"]
+}

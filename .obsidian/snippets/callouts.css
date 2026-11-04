@@ -1,0 +1,11 @@
+/* DM secret callout: > [!secret] Title */
+.callout[data-callout="secret"] {
+  --callout-color: 150, 30, 30;
+  --callout-icon: lucide-eye-off;
+}
+
+/* Read-aloud boxed text: > [!readaloud] */
+.callout[data-callout="readaloud"] {
+  --callout-color: 90, 120, 90;
+  --callout-icon: lucide-scroll-text;
+}
