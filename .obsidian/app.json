@@ -3,5 +3,7 @@
   "newLinkFormat": "shortest",
   "useMarkdownLinks": false,
   "alwaysUpdateLinks": true,
-  "userIgnoreFilters": ["00_System/Templates/"]
+  "userIgnoreFilters": [
+    "00_System/Templates/"
+  ]
 }
