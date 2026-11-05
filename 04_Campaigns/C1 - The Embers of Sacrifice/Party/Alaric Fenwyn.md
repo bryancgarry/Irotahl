@@ -24,11 +24,14 @@ tags: [pc]
 > A slow-burn subplot, foreshadowed by unusual cold weather over Hollowmere.
 
 ## Abyssal Brand
-Branded at [[Oakhollow]] with the rest of the party. His way to break it is open.
+Branded at [[Oakhollow]] with Aalyn, Alaric, Thimble, and Wayne (Bogtrotter is the only one unbranded). His way to break it is open.
 
 ## Personal Quest Hooks
 - The stolen dragon egg.
 - He is best placed for Arcana and Religion reads, and knows the eladrin's seasonal blades.
+
+## Companions
+- **[[Rec]].** A summon Alaric calls with one of his wizard spells.
 
 ## Notable Items
 - **The Pale Codex.** A rare wondrous item themed around [[The Pale Goddess]] (Sehanine Moonbow). Includes the Moonlit Purification spell, and grants +1 Intelligence after 30 days of study.

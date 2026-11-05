@@ -32,7 +32,7 @@ tags: [pc]
 > Malcanthet loathes that he carries her Tome. If he takes it into the Reliquary's Soul trial, she feels it. All her menace goes to Thimble.
 
 ## Abyssal Brand
-Branded at [[Oakhollow]] with the rest of the party. His way to break it is open.
+Branded at [[Oakhollow]] with Aalyn, Alaric, Thimble, and Wayne (Bogtrotter is the only one unbranded). His way to break it is open.
 
 ## Personal Quest Hooks
 - Going home to Glimmerstone for the [[The Glimmerstone Arc|next arc]].

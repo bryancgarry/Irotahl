@@ -33,5 +33,5 @@ An Ember is not a temptation. It is a conclusion.
 > The five greatest Embers held the sealed essences of the five obyriths from [[The Sundering of Planes]]. All five have now found their matches.
 
 ## Known Embers
-- **The Oakhollow Ember.** Invoked by Baron Fern to save his daughter, which branded the party. Used days later in the Bridge King's ritual beneath the Grand Cathedral of [[Oakhollow]], where it found its match. See [[Graz'zt]].
+- **The Oakhollow Ember.** Invoked by Baron Fern to save his daughter, which branded the party (all but Bogtrotter). Used days later in the Bridge King's ritual beneath the Grand Cathedral of [[Oakhollow]], where it found its match. See [[Graz'zt]].
 - **The Reliquary Ember.** Found by [[Vashara]] inside [[The Hollow Reliquary]], and it corrupted her.

@@ -18,7 +18,8 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] Where and how the party learns of Memnor's betrayal.
 
 ## Party
-- [ ] Each party member's personal way to break their [[Abyssal Brands|Abyssal Brand]]. Wayne's is [[The Soul Armor]].
+- [ ] Why Bogtrotter is unbranded, and whether that matters later.
+- [ ] Each branded party member's personal way to break their [[Abyssal Brands|Abyssal Brand]]. Wayne's is [[The Soul Armor]].
 - [ ] Where the Soul Armor is.
 - [ ] Where the other [[The Void Heart|Void Heart]] fragments are, and what each adds.
 - [ ] The scene at the bottom of [[The Rikk Borgar]].

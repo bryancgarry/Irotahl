@@ -4,13 +4,16 @@ campaign: C1
 session: 52
 date:
 arc: "[[The Hollowmere Arc]]"
-status: prep
+status: in progress
 tags: [session]
 ---
 # Session 52: The Hollow Reliquary
 
 **Party:** Level 7 ([[Aalyn Ravaceran|Aalyn]], [[Alaric Fenwyn|Alaric]], [[Bogtrotter]], [[Thimblewick Danglesworth|Thimble]], [[Wayne Kerr|Wayne]])
 **Ref:** [[The Hollow Reliquary]], [[The First Hollow Vessel]], [[Wayne Kerr]]
+
+> [!important] Progress
+> Played through Part One, Part Two, the Turning, and the Chamber of Body. The party is just entering the Chamber of Mind (Section 8). Pick up there next session.
 
 > [!info] DM Note
 > This plan covers the entire Reliquary in case the session moves quickly. A natural stopping point is marked after each part. Everything inside the Reliquary is Abyssal scripture: glorious, certain, and one-sided. It honors the Hollow Vessel as he was made. Nothing in it hints that he ever turned.
@@ -158,7 +161,7 @@ Hollowing is Malcanthet's art, perfected by her hollowers in the Soul Sanctum. I
   - 4 Stone: petrified (stone from within)
 - **The Abyss leaks through it.** At the Apex, the seam to the Abyss is thin.
 
-**The Brands.** The party's Abyssal Brands react to the Reliquary: warm on the island, cold when a faithful path is taken, burning at the Apex (real pain, no damage).
+**The Brands.** The party's Abyssal Brands react to the Reliquary: warm on the island, cold when a faithful path is taken, burning at the Apex (real pain, no damage). Bogtrotter has no brand, so he feels none of this.
 
 **The Structure.** Outside, the Nave, the Turning (gravity flips), three trial chambers in the inverted spire (Body, Mind, Soul), then the Apex. Each trial awards one **sigil piece**. All three open the Apex.
 

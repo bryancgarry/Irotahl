@@ -12,7 +12,7 @@ tags: [npc]
 # Baron Fern
 
 > [!summary] At a Glance
-> Former ruler of [[Oakhollow]]. He invoked an Ember of Sacrifice to save his injured daughter and offered up the party, which branded them.
+> Former ruler of [[Oakhollow]]. He invoked an Ember of Sacrifice to save his injured daughter and offered up the party, which branded all of them but Bogtrotter.
 
 > [!secret] His daughter
 > revealed:: false

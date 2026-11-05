@@ -29,7 +29,7 @@ tags: [pc]
 > In the Reliquary's Soul trial, the void asks him first: *"You are already promised. To whom?"* Malcanthet calls him "Lolth's little songbird."
 
 ## Abyssal Brand
-Branded at [[Oakhollow]] with the rest of the party. His way to break it is open.
+Branded at [[Oakhollow]] with Aalyn, Alaric, Thimble, and Wayne (Bogtrotter is the only one unbranded). His way to break it is open.
 
 ## Personal Quest Hooks
 - Sumina's fate.
