@@ -7,6 +7,8 @@ tags: [dashboard]
 ## Quick Links
 - [[Campaign Hub|Campaign 1: The Embers of Sacrifice]]
 - [[DM Secrets]]
+- [[Open Threads]]
+- [[Timeline of Irotahl|Timeline]]
 - [[World Map]]
 - [[World Board.canvas|World Board]]
 
