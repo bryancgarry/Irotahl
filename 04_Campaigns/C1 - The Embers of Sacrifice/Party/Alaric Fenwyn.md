@@ -24,7 +24,7 @@ tags: [pc]
 > A slow-burn subplot, foreshadowed by unusual cold weather over Hollowmere.
 
 ## Abyssal Brand
-Branded at [[Oakhollow]] with Aalyn, Alaric, Thimble, and Wayne (Bogtrotter is the only one unbranded). His way to break it is open.
+Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]]. His way to break it is open.
 
 ## Personal Quest Hooks
 - The stolen dragon egg.

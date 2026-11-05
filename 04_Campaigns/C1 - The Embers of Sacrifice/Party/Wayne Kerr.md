@@ -65,7 +65,7 @@ The stone isn't evil. What matters is whose will holds it. Three ways it can res
 3. **Keep the stone by choice.** It grows into a strength over time, with resistances and similar benefits, opening a stone Kyn'Ruthar. Benefits are to be designed, preferably re-flavored from official features.
 
 ## Abyssal Brand
-Branded at [[Oakhollow]] with Aalyn, Alaric, Thimble, and Wayne (Bogtrotter is the only one unbranded). His way to break it is [[The Soul Armor]], which would also free him from the Void Heart's curse.
+Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]]. His way to break it is [[The Soul Armor]], which would also free him from the Void Heart's curse.
 
 ## Future Story Beats
 - **The Hollow Reliquary** (Session 52).
