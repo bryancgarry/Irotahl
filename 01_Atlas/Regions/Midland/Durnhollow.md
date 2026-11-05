@@ -13,7 +13,7 @@ tags: [location, dungeon]
 > A ruined dwarven city and steam-powered facility beneath [[Hollowmere]], built on silver mining and [[Soulvite]] refinement. A three-layer megadungeon calibrated for five players at levels 7 to 8. Inspired by Dwemer ruins, Destiny raids, Zelda dungeons, Dwarf Fortress, and Deep Rock Galactic.
 
 ## History
-Durnhollow was ruled by King Atul Stonemarch and his queen Vashara, a drow princess. Four elementals (air, water, fire, earth), drow diplomatic gifts to aid Soulvite research, were later amplified beyond control by Runeland energy. The city fell at the Fourth [[Moon Darkenings|Moon Darkening]], about 500 years ago. Obsidian Enclave mages helped seal it, and several died doing it.
+Durnhollow was ruled by King Atul Stonemarch and his queen Vashara, a drow princess. Four elementals (air, water, fire, earth), drow diplomatic gifts to aid Soulvite research, were later amplified beyond control by Runeland energy. The city fell at the Fourth [[Moon Darkenings|Moon Darkening]], about 1,000 years ago. Obsidian Enclave mages helped seal it, and several died doing it.
 
 Lore is delivered through the journals of chief metallurgist Clausius Clapeyron, with figures such as Foreman Bram Stonevein, floor worker Hera Dunwick, and the drow attaché Ambassador Ilyss. Players discover all lore cold.
 

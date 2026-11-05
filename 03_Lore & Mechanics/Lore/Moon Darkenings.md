@@ -23,7 +23,7 @@ Order weakens, and the barrier between [[The Abyss]], the material plane, and th
 | First | [[Lolth]] | After the Sundering ended | |
 | Second | ? | ? | |
 | Third | ? | ? | |
-| Fourth | ? | About 500 years ago | Coincides with [[Durnhollow]]'s fall |
+| Fourth | ? | About 1,000 years ago | Coincides with [[Durnhollow]]'s fall |
 | Fifth | [[Graz'zt]] | Recent | Completed the five seats |
 
 > [!info] DM Note
