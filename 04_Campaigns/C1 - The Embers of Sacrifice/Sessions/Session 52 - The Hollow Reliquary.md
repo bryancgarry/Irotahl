@@ -4,8 +4,9 @@ campaign: C1
 session: 52
 date:
 arc: "[[The Hollowmere Arc]]"
-status: in progress
-tags: [session]
+status: Done
+tags:
+  - session
 ---
 # Session 52: The Hollow Reliquary
 
