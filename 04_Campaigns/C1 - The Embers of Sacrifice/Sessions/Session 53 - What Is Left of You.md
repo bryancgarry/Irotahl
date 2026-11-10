@@ -3,8 +3,9 @@ type: session
 campaign: C1
 session: 53
 date:
+video: "https://www.youtube.com/watch?v=KM05spt7cPk"
 arc: "[[The Hollowmere Arc]]"
-status: prep
+status: Done
 tags:
   - session
 ---
@@ -22,6 +23,77 @@ tags:
 > - Malcanthet speaks **only after** the Remnant falls.
 > - **New lore:** the Shell was the Reliquary's anchor, the stitch that held it in the material plane. Once the Shell leaves the Seat, the Abyss reels its house home, the way it took the Godspire. Vistro's impossible task gets done, though not the way anyone pictured.
 > - **New:** the Collapse escape and the Vashara encounter.
+
+> [!important] Played: "Body, Mind, and Soul" (Episode 53)
+> [Watch on YouTube](https://www.youtube.com/watch?v=KM05spt7cPk). The party finished the Mind and Soul trials and reached the summit, where the Hollow Vessel Remnant rose. **Session 54 opens with initiative against the Remnant.** See *What Happened at the Table* below. Where the table differs from this plan, the table wins.
+
+## What Happened at the Table
+
+**Opening**
+- Aalyn's Rod of Resurrection is spent for now. He can swap its attunement slot for free, and he attuned to Papa Glabb's harp.
+- King Atul came into the Reliquary with the party and was with them through the Mind trial.
+
+**Mind trial (run differently from the plan)**
+- The spheres reacted to thoughts like ferrofluid. A sphere would form a needle and try to enter the mind of anyone thinking near it.
+- Murals:
+  - Wayne's dirty 20 History check on the birds' wings: the words are the Goliath chant **Tyrn'Haka**, the Endless Climb.
+  - Aalyn's natural 20 Investigation on the fourth panel, with Atul's knowledge helping, turned up new lore (see *New lore improvised at the table* below).
+  - Wayne found the pillar inscription: *"Pilgrim, don't trust your eyes... Trust only the voice that leads you, until you need no voice at all."*
+- Thimble got high, kept thinking, and was pulled in by force. Wayne tried to psionically link with him and got a glimpse of the mindscape before spectral needles broke the link (4 psychic). Wayne connected this to the agony he heard when he tried to link with Tiberius.
+- Bog punched the needle out of Thimble's head. It shattered like glass and Thimble came back.
+- Wayne cleared his mind on a dirty 20 Intelligence save. The needle **waited for his consent** and he entered willingly, then revealed his whole path with Investigation checks and was the first through.
+- The other four entered after a meditation led by Aalyn on Papa Glabb's harp.
+- Guide pairs that formed: Thimble could see Alaric's path, and Bog could see Aalyn's.
+  - Alaric revealed his own path on a 28 and finished second, then guided Bog with gestures.
+  - Aalyn pushed a watermelon onto tiles to test them. It worked, but the needles chewed it up as he went.
+  - Wayne went back in to guide Thimble, and Thimble finished last after a lot of falls.
+- Talking in the mindscape caused psychic damage. Everyone took a steady trickle of it.
+- Character moments:
+  - Bog hit Alaric with a thrown pebble, starting the Alaric and Bog beef.
+  - Alaric came out with a nosebleed.
+  - Thimble mooned Wayne, so **Wayne has disadvantage on his next ability check**, possibly still owed.
+  - Bog ate the watermelon and regained 4 HP.
+- Nobody took the faithful path in the Mind trial.
+- The five needles pierced the central sphere. The orb sank into the void and rose to the next floor.
+
+**Soul trial**
+- The sword was pale stone with abyssal chains from the turrets holding it, and the soul sphere was set in its hilt.
+- Thimble's natural 20 Investigation: the sphere is a soul, maybe many souls, drawn from pilgrims and made dark. It's his **first inkling that it's tied to the pale gemstones**: the Embers, Baron Fern's stone, and the one Wayne once carried.
+- Wayne read the five Soul murals.
+- Thimble ranted about the brands and wanting answers. He also secretly cast *message* to Alaric: "Don't worry, I don't like this either. We just got to play along."
+- Bog found he could stand on the void. The sword sank once Bog and Aalyn touched it.
+- Brands burned again on the descent.
+- **Choices:**
+  - **Thimble and Wayne became the blade.** Their lights went out, their brands darken, and Malcanthet knows their names. They get advantage on saves against being charmed or frightened and +1d6 necrotic on weapon attacks for the rest of the Reliquary. They **do not level up**.
+  - **Aalyn, Alaric, and Bog held on** through all three saves, with Bog failing two by 1.
+- **At the third depth, Aalyn used his one-year free natural 20.** He looked inward at the goal he set out with years ago and refused to give any more of himself.
+  - That gave Bog and Alaric super advantage. Alaric used heroic inspiration, and Bog couldn't be dropped to instant death.
+  - **Aalyn's golden bowstring blazed.** He heard a melody he hadn't heard in years, and **Sumina's glowing soul appeared** as the void retreated.
+  - Before she could speak, **Lolth erupted from a nest of spiders ("Insolent child") and pulled her back in.**
+- The three who held on regained full HP, effectively took a long rest, and **level up to 8**.
+- **King Atul couldn't pass the Soul trial.** He is only a mind with no soul, so he stayed behind in the Soul chamber with his last words "Good luck."
+
+**The summit (simplified from the plan)**
+- There was no Sealed Point or Field of a Thousand Wars. The party arrived at a final circular chamber at the summit.
+- In its center was a pedestal drowned in void, with calcified branches sprouting from it and a heartbeat of hollowing energy.
+- The darkened soul sphere sank into that beating heart. Lightning erupted, and **the Hollow Vessel Remnant rose**, blade in hand, void spiraling around it, lifeless behind the eyes.
+- The session ended there. Malcanthet, the Shell, the Collapse, and Vashara are all still ahead.
+
+> [!secret] New lore improvised at the table
+> revealed:: true
+> From Aalyn's natural 20 on the fourth Mind mural:
+> - The rift the giant walks through was torn during the Sundering Wars, when the borders between planes were weak and very powerful beings could slip between them. That knowledge is nearly lost today.
+> - At the giant's core are **three fragments, two filled and one empty**, which may be what lets him cross.
+> - A **spectral lattice** is woven into the mural's background.
+> - The whole Reliquary is likely propaganda for the Abyss's side.
+>
+> **Open:** what the three fragments mean (Body, Mind, Soul? Void Heart pieces?) and how much the party now suspects about the Lattice of Heaven.
+
+> [!warning] Changes that affect Session 54
+> - **Atul is inside the Reliquary**, stuck on the Soul floor and not on the island. His body will be inside when the Collapse begins unless someone carries him out. Vashara's scene needs reworking around this.
+> - **The Apex was simplified.** The Seat is now the summit chamber with the beating heart. The scripture wall, the Token panel (the warning that lifting the Shell sends the house home), and the true-name inscription need a new place, or have to come out of Malcanthet's mouth.
+> - **The party is three at level 8 and two at level 7.** Wayne and Thimble carry the blade perks into the Remnant fight.
+> - **Lolth knows Aalyn reached for Sumina.** That needs a reaction soon.
 
 ---
 
@@ -1062,14 +1134,17 @@ If the eighth box fills before Stage 6 is done, the doors slam shut with the par
 
 ## Post-Session Notes
 
-- [ ] Memories lost in the Mind trial's faithful path
-- [ ] Each character's Soul trial result (light out, dimmed, or held) and any brands that darkened
-- [ ] Whether the Tome went into the Soul trial
-- [ ] Whether Wayne learned the true name
-- [ ] Who took the Shell, or whether it fell home
-- [ ] Hollowing gained during the Collapse
-- [ ] Collapse Clock result, and whether a fire sage died
-- [ ] Whether the medallion was used, and Atul's words to Vashara
-- [ ] Vashara's price paid (Bastian or a Temple anchor), and whether she took Atul's statue
-- [ ] Wayne's answer to Vistro, and the boon given
-- [ ] Update vault notes: [[The Hollow Reliquary]] (now gone; flip "It can't be unmade"), [[Vashara]] (reveal secrets), [[King Atul Stonemarch]] (location), [[The Void Heart]] (Shell holder), [[The Fire Sages of Vistro]], [[Wayne Kerr]]
+- [x] Memories lost in the Mind trial's faithful path: none, since nobody took it
+- [x] Each character's Soul trial result: **Thimble and Wayne** light out, brands darkened, Malcanthet knows their names. **Aalyn, Alaric, and Bog** held. Bog has no brand.
+- [ ] Whether the Tome went into the Soul trial: presumably yes, since Thimble carries it. Confirm before Malcanthet's scene.
+- [ ] Whether Wayne learned the true name: not yet, the Seat hasn't been reached in that form
+- [ ] Who took the Shell, or whether it fell home: Session 54
+- [ ] Hollowing gained during the Collapse: Session 54
+- [ ] Collapse Clock result, and whether a fire sage died: Session 54
+- [ ] Whether the medallion was used, and Atul's words to Vashara: Session 54. Atul is inside, on the Soul floor.
+- [ ] Vashara's price paid, and whether she took Atul's statue: Session 54
+- [ ] Wayne's answer to Vistro, and the boon given: Session 54
+- [x] Aalyn used his one-year free natural 20. Sumina's soul appeared and Lolth took her back.
+- [x] Level up: Aalyn, Alaric, and Bog to 8. Wayne and Thimble stay 7.
+- [ ] Wayne's disadvantage on his next ability check (from Thimble mooning him), if not used yet
+- [ ] Update vault notes: [[Aalyn Ravaceran]] (Sumina's soul, Lolth's reaction, free natural 20 spent, level 8), [[Wayne Kerr]] and [[Thimblewick Danglesworth]] (blade choice, darkened brands), [[Alaric Fenwyn]] and [[Bogtrotter]] (level 8), [[King Atul Stonemarch]] (inside, on the Soul floor), [[The First Hollow Vessel]] (three fragments, the rift), [[The Hollow Reliquary]] (summit chamber), [[Verenestra]], [[Lolth]]

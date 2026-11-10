@@ -26,7 +26,7 @@ It lies in pieces, scattered. [[The Hollow Reliquary]] kept one fragment as a ho
 - The complete Void Heart would turn its bearer's blades to void and let Malcanthet reach them freely.
 
 > [!info] DM Note
-> Full item text for the first fragment is in Session 52, Section 15 (arrives in batch 4). Open: where the other fragments are, and what each adds.
+> The first fragment is [[Shell of the Void Heart]] (Session 54). Open: where the other fragments are, and what each adds.
 
 ## D&D Beyond Text
-See Session 52.
+See [[Shell of the Void Heart]].

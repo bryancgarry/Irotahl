@@ -2,14 +2,14 @@
 type: npc
 aliases: []
 status: active
-race: Summon
-role: Alaric's summon
+race: Familiar
+role: Alaric's familiar
 faction:
 location:
 campaigns: [C1]
-tags: [npc, ally, summon]
+tags: [npc, ally, familiar]
 ---
 # Rec
 
 > [!summary] At a Glance
-> A summon [[Alaric Fenwyn|Alaric]] calls to aid the party with one of his wizard spells.
+> [[Alaric Fenwyn|Alaric]]'s familiar, summoned with *Find Familiar*.

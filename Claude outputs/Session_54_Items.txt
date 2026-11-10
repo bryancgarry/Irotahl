@@ -1,0 +1,171 @@
+SESSION 54 ITEMS (D&D Beyond homebrew builder format)
+
+Each item lists the builder fields first, then the Description text to paste. Tooltips use DDB tags: [spell]Name[/spell], [condition]Name[/condition], [monster]Name[/monster], [magicitem]Name[/magicitem]. Anything DDB can't automate (Hollowing, study time, the Dark Stone vault) is plain text the player or DM tracks by hand.
+
+
+==================================================
+SHELL OF THE VOID HEART
+==================================================
+
+Base item: none (homebrew, disclosed in the description)
+Magic Item Type: Wondrous Item
+Rarity: Very Rare
+Requires Attunement: Yes
+Attunement Description: (leave blank)
+Has Charges: Yes
+Number of Charges: 3
+Charge Reset Condition: Dawn
+Charge Reset Description: Regains all expended charges daily at dawn.
+Modifiers: none
+Tags: Damage, Movement, Cursed
+
+Description:
+
+The broken shell of a giant's pendant, grey stone worn smooth by a climber's hand, its setting cracked wide open. Inside, a bead of black void moves on its own, rising into tiny spikes whenever someone nearby thinks too hard.
+
+Shade Step. As a Bonus Action, you can expend 1 charge to dissolve into living shadow and move up to your Speed in a straight line. During this move, you can pass through other creatures' spaces, and you don't provoke Opportunity Attacks. Each creature whose space you pass through must succeed on a DC 15 Dexterity saving throw or take 2d6 Necrotic damage. If the Shell has no charges left, you can still use Shade Step, but each use gives you 1 Hollowing.
+
+Kin of the Void. The Sea of Void doesn't bristle at you, and hollowed creatures hesitate before striking you. The first attack each hollowed creature makes against you in a combat has Disadvantage.
+
+Curse. Once you attune to the Shell, you can't remove it or end your attunement, and [spell]Remove Curse[/spell] has no effect on it. Only breaking Malcanthet's claim on you ends the curse.
+
+Hollowing. Each point of Hollowing costs you a memory of the DM's choosing. Hollowing doesn't go away when you finish a rest.
+- At 3 Hollowing, Malcanthet can whisper to you through the Shell at will. Her words are suggestions only. You can always refuse.
+- At 5 Hollowing, your mind is hollowed. Once per long rest, Malcanthet can cast [spell]Command[/spell] on you through the Shell, and you automatically fail the saving throw.
+
+Track Hollowing by hand: ____
+
+Homebrew note: Shade Step and Kin of the Void are homebrew, inspired by Hollow Knight's Shade Cloak, Sharp Shadow, and Void Heart. The curse follows the DMG's cursed item conventions.
+
+DM notes (don't paste):
+- Wayne starts at 0 Hollowing. Jack's memory kept the void from taking its first point.
+- DC 15 is fixed because DDB can't scale an item off proficiency bonus or Dexterity.
+- For anyone not marked by Malcanthet, the Shell is an inert, faintly warm stone with no properties and no curse.
+
+
+==================================================
+ROD OF (RES)ERECTION
+==================================================
+
+Base item: Rod of Resurrection (re-flavored and weakened)
+Magic Item Type: Rod
+Rarity: Very Rare
+Requires Attunement: Yes
+Attunement Description: by a Bard, Cleric, Druid, or Paladin
+Has Charges: Yes
+Number of Charges: 3
+Charge Reset Condition: Dawn
+Charge Reset Description: Regains 1 expended charge daily at dawn.
+Modifiers: none
+Spells (Add Spell):
+- Revivify: Charges 1 (min 1, max 1). Uses the rod's charges.
+- Raise Dead: Charges 3 (min 3, max 3). Uses the rod's charges.
+Tags: Healing, Revival
+
+Description:
+
+A rod of polished white ash capped with a gold knob, christened by Papa Glabb in a moment nobody involved will discuss. It was once a true [magicitem]Rod of Resurrection[/magicitem]. Most of that power has been spent, and what's left is temperamental. Whenever a creature within 30 feet of it is at 0 Hit Points, the rod springs bolt upright in its holder's hand, quivering with urgency.
+
+Spells. While holding the rod, you can expend charges to cast one of the following spells from it: [spell]Revivify[/spell] (1 charge) or [spell]Raise Dead[/spell] (3 charges).
+
+Regaining Charges. The rod regains 1 expended charge daily at dawn. If you expend the rod's last charge, roll 1d20. On a 1, the rod goes limp. It loses all its properties until someone plays it a song it likes, at the DM's discretion, after which it regains 1 charge and stands proudly once more.
+
+DM notes (don't paste):
+- This replaces Aalyn's spent Rod of Resurrection. Start it at whatever charge count fits the story. I'd say 1 charge, since it's "spent for now."
+- The official rod requires a Cleric, Druid, or Paladin. Letting a Bard attune is the trade-off for the weaker spells, and it fits a Papa Glabb item. Aalyn's attunement slots are full (Stormsong, Winged Boots, harp), so he'd have to swap one out to use it.
+
+
+==================================================
+THE PALE CODEX
+==================================================
+
+Base item: Tome of Clear Thought (re-flavored and weakened), plus spells
+Magic Item Type: Wondrous Item
+Rarity: Rare
+Requires Attunement: No
+Has Charges: Yes
+Number of Charges: 3
+Charge Reset Condition: Dawn
+Charge Reset Description: Regains 1d3 expended charges daily at dawn, or all of them if it spends the night under a full moon.
+Modifiers: (optional) Bonus > Intelligence Score > Fixed Value 1. Only add this once the 30 days of study are done.
+Spells (Add Spell):
+- Protection from Evil and Good: Charges 1. Uses the codex's charges.
+- Moonbeam: Charges 2. Uses the codex's charges. Save DC 15.
+- Remove Curse: Charges 3. Uses the codex's charges.
+Tags: Utility, Divine, Lore
+Add [FOCUS] to the description so it can be used as a spellcasting focus.
+
+Description:
+
+[FOCUS] A slim book bound in pale grey vellum that is always faintly cool to the touch. Its pages look blank by daylight. By moonlight or silver candlelight, script surfaces on them in silver ink, slowly, like something rising from deep water. It is a pre-Calamity text on the passage of souls, written by a scholar in the service of the Pale Goddess, and parts of it were clearly written in a hurry.
+
+Spellcasting Focus. A Wizard can use the codex as a spellcasting focus.
+
+Spells. While holding the codex, you can expend charges to cast one of the following spells from it (save DC 15): [spell]Protection from Evil and Good[/spell] (1 charge), [spell]Moonbeam[/spell] (2 charges), or [spell]Remove Curse[/spell] (3 charges). When cast from the codex, Remove Curse is called Moonlit Purification: it can be cast only under moonlight or silver candlelight, and it can suppress, but not end, an Abyssal Brand's effects for 1 hour.
+
+Regaining Charges. The codex regains 1d3 expended charges daily at dawn. If it spends the entire night under a full moon, it regains all of them instead.
+
+Study. If you spend 30 days, at least 4 hours a day, reading the codex by moonlight, your Intelligence score increases by 1, to a maximum of 21. The codex can grant this benefit to a creature only once.
+
+The Abyssal Lien. One passage is marked in the margin with a burned symbol identical to the brands of those offered to the Abyss. It reads: "A soul that bears the Abyssal Lien does not die as others die. The Pale Goddess cannot reach it. Her lantern finds no purchase."
+
+DM notes (don't paste):
+- I couldn't find the original text of the Moonlit Purification spell in our past chats, so I rebuilt it on top of Remove Curse. If you have the original, send it and I'll swap it in.
+- It has no attunement because Alaric's three slots are full.
+- The Intelligence bump is a modifier DDB applies the moment the item is equipped, so leave it off until the 30 days are done, or have Trevor add the +1 by hand.
+
+
+==================================================
+ATUL'S STONE FINGERS (only if Vashara takes Atul)
+==================================================
+
+Magic Item Type: Wondrous Item
+Rarity: Uncommon
+Requires Attunement: No
+Has Charges: No
+Modifiers: none
+Tags: Utility, Key
+
+Description:
+
+Two fingers of grey stone snapped from the hand of King Atul Stonemarch, rough at the break and heavy as iron for their size. One still wears the signet ring of House Stonemarch, fused to the stone, its seal a hammer crossed over a mountain.
+
+Stonemarch Hands. The fingers count as the hand of a Stonemarch king for any lock, ward, or seal in Durnhollow that answers only to that bloodline, including the Dark Stone vault.
+
+Remembering Stone. While holding the fingers, you can press them to worked stone in Durnhollow and cast [spell]Stone Shape[/spell] without expending a spell slot. Once used, this property can't be used again until the next dawn.
+
+DM notes (don't paste):
+- Stone Shape is optional. It gives the fingers a use after the vault and fits a dwarven king.
+- If the party saves Atul instead, skip this item. He opens the vault himself.
+
+
+==================================================
+THE MIND MEDALLION, NEARLY SPENT (only if the party saves Atul)
+==================================================
+
+Magic Item Type: Wondrous Item
+Rarity: Rare
+Requires Attunement: No
+Has Charges: Yes
+Number of Charges: 1
+Charge Reset Condition: None (Consumable)
+Tags: Utility
+
+Description:
+
+A medallion of dark dwarven silver set with a single pale stone, made by Queen Vashara of Durnhollow in the years before her fall. The stone is cracked now, and its glow is very faint.
+
+Waking. While the medallion rests against the brow of King Atul Stonemarch's stone body, his mind wakes and he can move and speak. One charge remains. When it is expended, Atul wakes for 1 hour, and then the stone in the medallion goes dark for good.
+
+DM notes (don't paste):
+- If he's already awake when you hand this over, the current waking counts as the start of that hour, or treat the hour as starting at the vault. Your call.
+- The medallion going dark forever is a strong reason for the party to look for a better answer: Vashara knows how she made it.
+
+
+==================================================
+THE WOLF CARD (trinket, optional; no DDB entry needed)
+==================================================
+
+A single playing card, stiff and old, its back worked in a pattern of shifting colors that never sit still. The face is blank. Tilted in the light, it shows, for just a moment, the silhouette of a great grey wolf.
+
+DM notes: no mechanics. It's from Fenmarel in Limbo, a tease for the Deck of Many Things and Alaric's future wolf companion. If you want a mechanical hook later, it can become one of the Deck's cards.

@@ -28,6 +28,10 @@ With the lawful planes gone and [[The Heart of Entropy|Tharizdun]] chained, the 
 > revealed:: false
 > Facing defeat, the five greatest obyriths sealed their essences into the most powerful [[Embers of Sacrifice]] as a failsafe. They have since been reborn as [[The Godhand]].
 
+> [!secret] Fenmarel's outcasts
+> revealed:: false
+> [[Fenmarel]], exiled to [[Limbo]] for his affair with Araushnee, came back during the war with a host of outcast elves and the wolves of Limbo. The courts of [[Arborea]] wouldn't let them fight under their banners, so they held a flank no one else would, possibly where dragons were saved. Arborea never took them back. They settled in [[Syfaeril]], and their distant descendants are [[House Fenwyn]].
+
 > [!secret] The Demonomicon was written here
 > revealed:: false
 > An ancient elven archmage of Arborea recorded each obyrith's true name and binding, then split the work into five volumes. See [[The Demonomicon]].

@@ -19,11 +19,15 @@ Her agents work through [[The Cult of the Dark Moon]]: sleeper cells, coded symb
 
 > [!secret] Her origin
 > revealed:: false
-> Lolth was once an Archfey of [[Arborea]], twin sister to Queen Titania. Her obyrith essence awoke in her after the Sundering had ended, at the First [[Moon Darkenings|Moon Darkening]]. Her fall draws on Araushnee: betrayal of her own court and a forbidden affair with Fenmarel. Details open.
+> Lolth was once an Archfey of [[Arborea]], twin sister to Queen Titania. Her obyrith essence awoke in her after the Sundering had ended, at the First [[Moon Darkenings|Moon Darkening]]. Her fall draws on Araushnee: betrayal of her own court and a forbidden affair with [[Fenmarel]], who was cast out into [[Limbo]] for it. Details open.
 
 > [!secret] Verenestra
 > revealed:: false
-> Lolth holds the Archfey [[Verenestra]] captive. Aalyn knows her as Sumina, his believed-dead childhood love.
+> Lolth holds the Archfey [[Verenestra]] captive. Aalyn knows her as Sumina, his believed-dead childhood love. Verenestra is Titania's daughter, which makes her Lolth's niece. Taking her is Lolth's revenge on the fey for casting her out, a feud far older than Aalyn.
+
+> [!secret] Fenmarel's descendants
+> revealed:: false
+> [[House Fenwyn]] descends, distantly, from Fenmarel. **Open:** whether Lolth takes an interest in [[Alaric Fenwyn|Alaric]] because of it.
 
 > [!secret] Her relics
 > revealed:: false

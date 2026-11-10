@@ -15,10 +15,10 @@ tags: [location, continent]
 The great council of Calenthia:
 - **Ruling house:** House Calen.
 - **Greater Houses:** Aelor and Nyth.
-- **Lesser Houses:** Fenwyn, Vyndor, Meylar, and Thalryn.
+- **Lesser Houses:** [[House Fenwyn|Fenwyn]], Vyndor, Meylar, and Thalryn.
 
 > [!info] DM Note
-> [[Alaric Fenwyn|Alaric]] is a Fenwyn.
+> [[Alaric Fenwyn|Alaric]] is a Fenwyn. See [[House Fenwyn]] for its origin and its Limbo vault.
 
 ## The Cradle of Ash
 A hostile valley of volcanic fog near Silath Shal, pointing east toward the Rikk Borgar. Home of the Ash Elves.
