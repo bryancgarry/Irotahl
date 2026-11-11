@@ -15,10 +15,11 @@ tags: [item]
 **Holder:** [[Wayne Kerr]]
 
 ## Flavor
-The first fragment of [[The Void Heart]], taken from the summit of [[The Hollow Reliquary]] in [[Session 54]]. Lifting it from its pedestal cut the stitch that held the Reliquary in the material plane.
+The first fragment of [[The Void Heart]], taken from the summit of [[The Hollow Reliquary]] in [[Session 54 - The Heart of the Void|Session 54]]. Wayne tore it out of the Remnant's chest, which cut the stitch that held the Reliquary in the material plane.
 
 > [!info] DM Note
-> - Wayne starts at 0 Hollowing. Jack's memory kept the void from taking its first point.
+> - Wayne starts at 0 Hollowing. Jack's memory kept the void from taking its first point. *(Played mid-fight in Session 54 as the mountaintop training, not the squire scene.)*
+> - Wayne's attunement slots were full when he took it. Decide what it displaces.
 > - DC 15 is fixed because DDB can't scale an item off proficiency bonus or Dexterity.
 > - For anyone not marked by Malcanthet, the Shell is an inert, faintly warm stone with no properties and no curse.
 

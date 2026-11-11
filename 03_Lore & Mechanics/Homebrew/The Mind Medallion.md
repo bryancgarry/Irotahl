@@ -15,7 +15,7 @@ tags: [item]
 **Holder:** None yet
 
 ## Flavor
-Made by [[Vashara]]. Wakes [[King Atul Stonemarch]]'s stone body while it rests on his brow. If the party saves Atul in [[Session 54]], it comes back nearly spent: one last charge.
+Made by [[Vashara]]. Wakes [[King Atul Stonemarch]]'s stone body while it rests on his brow. If the party saves Atul in [[Session 55]], it comes back nearly spent: one last charge.
 
 > [!info] DM Note
 > - If he's already awake when you hand this over, the current waking counts as the start of that hour, or treat the hour as starting at the vault. Your call.

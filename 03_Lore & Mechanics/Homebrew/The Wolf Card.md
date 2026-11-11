@@ -11,7 +11,7 @@ tags: [item]
 # The Wolf Card
 
 **Re-flavor of:** Trinket, no mechanics
-**Holder:** [[Alaric Fenwyn]] (if he picks it up in [[Session 54]])
+**Holder:** [[Alaric Fenwyn]] (if he picks it up in [[Session 55]])
 
 ## Flavor
 A single playing card, stiff and old, its back worked in a pattern of shifting colors that never sit still. The face is blank. Tilted in the light, it shows, for just a moment, the silhouette of a great grey wolf.

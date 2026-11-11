@@ -4,7 +4,7 @@ aliases: [Alaric]
 player: Trevor
 race: Elf
 class: Wizard
-level: 7
+level: 8
 status: active
 campaign: C1
 tags: [pc]
@@ -128,6 +128,13 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
   - Bog hit him with a thrown pebble, starting the Alaric and Bog beef. He came out with a nosebleed.
   - Thimble secretly messaged him: "Don't worry, I don't like this either. We just got to play along."
   - Held on through the Soul trial, using heroic inspiration plus super advantage from Aalyn's natural 20.
+
+- **Session 54, The Heart of the Void.**
+  - **Phantasmal Force:** the heavens rapturing the Remnant. It's immune to psychic, so it took the damage as radiant, and he found out it's **vulnerable to radiant**.
+  - Cast Silence around himself when the Remnant rose in his face. His Hypnotic Pattern failed against a creature immune to charm. Walked off through an opportunity attack and drank a greater healing potion.
+  - Perception: the Remnant's helm is a calcified copy. The real one is out there somewhere.
+  - Broke the **Vein of Mind** with a 4th-level Scorching Ray, with Rec lining up the shot.
+  - Held on to the silver dragon egg in his bag through the Soul trial. Leveled to 8 in his "dragon dad" era, with proficiency in Animal Handling.
 
 > [!info] DM Note
 > Open: Fenril's story, whether Alaric knows the egg is Vaelindra's, and how the Soulvite shards came to him.

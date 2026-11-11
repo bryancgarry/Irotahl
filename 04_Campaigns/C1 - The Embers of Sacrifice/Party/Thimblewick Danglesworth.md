@@ -4,7 +4,7 @@ aliases: [Thimble]
 player: Leszek
 race: Gnome
 class: Sorcerer
-level: 7
+level: 8
 status: active
 campaign: C1
 tags: [pc]
@@ -23,6 +23,14 @@ tags: [pc]
 > revealed:: false
 > Thimble was shaped out of raw chaos by his father, using the body of [[The Chaos Primordial]] (or a part of it). He does not know.
 
+> [!secret] What the chaos-born can do
+> revealed:: false
+> Like the Dragonborn of *Skyrim*, who alone can consume dragon souls, Thimble will be able to **consume demon souls**, or any soul tied to [[The Chaos Primordial]]. This is lore for the [[The Glimmerstone Arc|Glimmerstone arc]].
+
+> [!secret] The gallery memory (Session 54)
+> revealed:: false
+> At the bottom of the Soul trial, the void showed him the crystal gallery: the sneeze that burst every case, and his father's disgust and slap. The void tried to take the memory, and something inside him took it back. It shows him **holding on to the emotion, the hatred, and the strife**. He isn't ready to give them up, which is characteristic of the chaos-born.
+
 > [!secret] His father
 > revealed:: false
 > His father plays a villainous role in the Glimmerstone arc.
@@ -32,7 +40,7 @@ tags: [pc]
 > Malcanthet loathes that he carries her Tome. If he takes it into the Reliquary's Soul trial, she feels it. All her menace goes to Thimble.
 
 ## Abyssal Brand
-Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]]. His way to break it is open.
+Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]]. **Darkened** in the Soul trial (Session 53), where he chose to become the blade, and Malcanthet knows his name. His way to break it is open.
 
 ## Personal Quest Hooks
 - Going home to Glimmerstone for the [[The Glimmerstone Arc|next arc]].
@@ -41,3 +49,17 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 ## Notable Items
 - **The Tome of Malcanthet.**
 - **The Vistro seal.** A crimson summoning tattoo of the Vistro family on his palm. Summons a vestige of King Vistro. A 50 gp "dap" with Wayne summons a hybrid.
+
+## Future Planning
+- **Void-touched feat** *(to design)*. For the two blade-chosen, Thimble and Wayne: a small permanent buff with a small permanent drawback, kept after the Reliquary's temporary perks end.
+- **The Kindred Flame.** The 50 gp offering at the center of the dap with Wayne. The fused summon is still to be worked out.
+
+## Campaign Log
+- **Session 53, What Is Left of You.** Pulled into the mindscape by force and punched back out by Bog. Finished the Mind trial last, guided by Wayne. Natural 20 on Investigation in the Soul chamber: his first inkling that the soul sphere is tied to the pale stones. **Became the blade.** His brand darkened.
+- **Session 54, The Heart of the Void.**
+  - Cold open: the gallery memory, the slap, and the memory he refused to let go of.
+  - Kindred Flame dap with Wayne. King Vistro's vestige threw flame tridents at the Shades and the Vein of Mind.
+  - Investigation: the three stone faces siphon soul energy into the Remnant, and the Remnant is something made, not a fiend.
+  - The Shades drained 5 Strength from him. A wild magic surge gave him pink bubbles whenever he spoke for a minute.
+  - Cast Sickening Radiance on the Remnant, then went down to two blade strikes. Aalyn's Healing Word brought him back.
+  - Leveled to 8.

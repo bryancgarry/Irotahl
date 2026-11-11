@@ -70,6 +70,12 @@ Pilgrims step off the edge and fall. Halfway down, gravity flips, and they land 
 - **The Hollow Vestige.** The pre-turn Vessel, a re-flavored Stone Golem at CR 8. It attacks Wayne first.
 - **Malcanthet** speaks through the fragment: tender toward Wayne, sending him to the Soul Sanctum, furious at Thimble over the Tome.
 
+## What Actually Happened (Sessions 53 and 54)
+- The Mind and Soul trials ran as described in [[Session 53 - What Is Left of You]]. [[King Atul Stonemarch|Atul]] couldn't pass the Soul trial and stayed on the Soul floor.
+- The Apex was cut down to a single summit chamber: a crystallized heart in a mass of void, with calcified branches.
+- The **Hollow Vessel Remnant** pulled the party into its domain, an obsidian sphere fed by three stone faces (Body, Mind, Soul). It's vulnerable to radiant damage. Its helm is a calcified copy, and the real one is somewhere in the world.
+- [[Wayne Kerr|Wayne]] tore the [[Shell of the Void Heart]] out of the Remnant's chest. The anchor is gone, and the Reliquary is coming apart. See [[Session 54 - The Heart of the Void]].
+
 ## Loot
 - **Offering Hall:** about 1,500 gp in ancient mints and six 100 gp gems.
 - **Pilgrim's Kneeling Stone:** re-flavored Stone of Good Luck.
@@ -79,5 +85,6 @@ Pilgrims step off the edge and fall. Halfway down, gravity flips, and they land 
 - **[[The Void Heart|Fragment of the Void Heart]]:** cursed, very rare.
 
 ## Open Threads
+- The real helm of the Vessel.
 - The Ossuary of the Failed, cut for pacing.
 - The secret final chamber, paused.

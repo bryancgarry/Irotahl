@@ -4,7 +4,7 @@ aliases: [Aalyn, Aalyn Waeslamin, Ally, Allie]
 player: Spano
 race: Half-Elf
 class: Bard / Warlock
-level: 7
+level: 8
 status: active
 campaign: C1
 tags: [pc]
@@ -242,5 +242,13 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
   - Led the meditation into the mindscape on Papa Glabb's harp. Bog guided him, and he tested tiles with a watermelon.
   - Held on through the Soul trial and spent his free natural 20 at the third depth. Lolth's Bowstring blazed, Sumina's song played, her soul appeared, and Lolth took her back.
 
+- **Session 54, The Heart of the Void.**
+  - Nathair's Mischief on the Remnant (apple pie, both saved). Bardic Inspiration to Thimble.
+  - Broke the **Vein of Soul** with a twinned Eldritch Blast. It lashed back with necrotic, and **a gold cloak shimmered over him**, a carryover from his free natural 20, protecting him "from a very special someone." He turned the necrotic into radiant and filled the domain with light.
+  - The Remnant threw one of his Eldritch Blasts back at him. Unsettling Words: "You look like the Grim Reaper's aborted fetus."
+  - Healing Word at 2nd level brought Thimble back up.
+  - Leveled to 8: Font of Inspiration and third-level bard spells.
+
 > [!info] DM Note
+> The gold cloak is Sumina's protection, still with him after the Soul trial. Decide whether it lasts beyond the Reliquary.
 > Open: the Lilac Hollow scent, the name of his home village, and whether he knows the demon-room flowers match the lilacs on Sumina's grave.

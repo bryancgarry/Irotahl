@@ -24,5 +24,9 @@ The Goliaths' most sacred rite. Only warriors chosen by the Volkarr attempt it: 
 > revealed:: false
 > A remnant of the turned Vessel's last stand still fights back down there. It judges the trial-takers too, and can leave a spark of itself in them. Wayne carries one, which is why he can go either way.
 
+> [!secret] The first half of the Soul Armor
+> revealed:: false
+> The first half of [[The Soul Armor]] lies at the bottom. Wayne found it during his trial. The full memory of the bottom comes back to him in [[Session 55]], and with it the knowledge that he is the Kyn'Ruthar.
+
 > [!info] DM Note
-> The scene at the bottom is to be worked out when needed. It should be a mind-blowing reveal for Wayne. Optional: the floating mountain pieces could be fragments of [[Ysgard]] that fell when the world broke.
+> The scene at the bottom is played as a memory in Session 55. It should be a mind-blowing reveal for Wayne. Optional: the floating mountain pieces could be fragments of [[Ysgard]] that fell when the world broke.

@@ -2,13 +2,14 @@
 type: session
 campaign: C1
 session: 54
-date:
+date: 2026-11-10
+video: "https://www.youtube.com/watch?v=B-C3fRjw_Dg"
 arc: "[[The Hollowmere Arc]]"
-status: prep
+status: Done
 tags:
   - session
 ---
-# Session 54
+# Session 54: The Heart of the Void
 
 **Party:** [[Aalyn Ravaceran|Aalyn]] (7), [[Alaric Fenwyn|Alaric]] (7), [[Bogtrotter]] (7), [[Thimblewick Danglesworth|Thimble]] (7), [[Wayne Kerr|Wayne]] (7)
 **Ref:** [[Session 53 - What Is Left of You]], [[The Hollow Reliquary]], [[The First Hollow Vessel]], [[Malcanthet]], [[Lolth]], [[Vashara]], [[King Atul Stonemarch]]
@@ -25,6 +26,90 @@ tags:
 > - **Wayne's Jack memory** plays when he touches the Shell. **Thimble's memory** is the cold open.
 > - **Atul helps in the Collapse** and holds the doors. **Vashara ambushes him outside** and tears the Mind Medallion off his brow. The island scene is now a hostage negotiation.
 > - Leveling is on hold until called.
+
+> [!important] Played: "The Heart of the Void" (Episode 54)
+> [Watch on YouTube](https://www.youtube.com/watch?v=B-C3fRjw_Dg). Only the cold open and the Remnant were played. The fight ran very differently from this plan: the veins became three stone faces inside the Remnant's domain, Phase 2 became a three-save final stand, and **Wayne tore the Shell out of the Remnant's chest** instead of lifting it from a pedestal. The session ended with the Reliquary starting to come apart and **Malcanthet at Wayne's shoulder**. Sections 3 to 8 were not played. They stay here as the record, and [[Session 55]] picks up from Malcanthet. Where the table differs from this plan, the table wins.
+
+## What Happened at the Table
+
+**Cold open: Thimble's memory (changed from the plan)**
+- Six years old, walking beside his father through the crystal gallery of Glimmerstone. An anger was burning in his chest and he didn't know why.
+- A bit of dust, a sneeze, and the gallery burst: shattering glass, sparks from the crystals, gravity wells, shifting winds, glittering dust everywhere.
+- His father grabbed his wrist and led him out. Thimble rolled a natural 1 on Perception and missed the disgust on his father's face. Then his father slapped him.
+- The memory started slipping into the void, and **something inside him claimed it back**. "Perhaps there's something darker inside yourself yet to be realized."
+- The "Same color / let me take a look at you" beat was not used.
+
+**Blade-chosen effects named at the table**
+- Wayne's psionic link to Thimble now feels permanent.
+- Wayne and Thimble have **resistance to necrotic damage** while they're in this area, alongside the other blade perks.
+
+**The Remnant's domain (run differently from the plan)**
+- At the summit, a crystallized heart beat in a mass of void, bleeding and absorbing at once. The Remnant pulled bark off the calcified tree and stitched it onto void, white eyes burning behind its helm.
+- It drove a hand into the void and pulled everyone into its domain: a sphere of jagged obsidian, floor-to-ceiling pillars, and a central obsidian spire holding the darkened soul sphere. Dim light everywhere, "an eclipse in purgatory."
+- **The veins became three stone faces** with glowing spheres, roots pouring from their mouths and feeding soul energy into the spire: **Body, Mind, and Soul.**
+- Initiative: Wayne 24, Bog 18, Aalyn 14, Alaric 12, Thimble 10. Gabe was absent, so the DM ran Bog.
+
+**The fight**
+- The Remnant's head cracked toward Wayne and it attacked him first. He used Uncanny Dodge.
+- Wayne Cloud's Jaunted to Thimble and they completed the **Kindred Flame dap** as a reaction. The vestiges of Nerevath and King Vistro came out as separate creatures (see the ruling under *After the session*).
+- The Remnant's legendary actions raised **Void Shades** (Shadows) through the fight, six in all.
+- Bog jumped onto the central platform with his Ring of Jumping and used his lightning breath. His surge (rolled on Thimble's table) came up **92**: an extra 18 lightning damage that left scorch marks on the bark armor.
+- Aalyn flew up a pillar and cast Nathair's Mischief (apple pie, both targets saved), then gave Thimble Bardic Inspiration.
+- **Alaric's Phantasmal Force** showed the heavens rapturing the Remnant, and it failed the save at disadvantage. It's immune to psychic damage, but it took the damage as radiant, and **it turned out to be vulnerable to radiant damage.**
+- The Remnant sank into the void and rose in front of Alaric, who cast Silence around himself.
+- Thimble's Investigation: the faces siphon soul energy and surge whenever the Remnant should be taking damage. The Remnant is something made, not a fiend or a Godhand. Two Shade opportunity attacks drained **5 Strength** from him.
+- Wayne's Investigation 28, read through his void link: the faces are Mind, Soul, and Body, and the Remnant can't be subdued while they stand. The spheres are glass and can only be shattered.
+- **Vein of Body: Wayne**, with a natural 20 thrown dagger that cut clean through. The tendrils died, a beam of light split the eclipse, and the Remnant **lost one legendary action per round**. Wayne raised two walls of white light (cover and bright light; the party can pass through, the Shades can't), which also pulled a Shade out of invisibility.
+- Nerevath attacked the Vein of Mind, which is invisible to whoever attacks it. Wayne used his reaction to guide the strike.
+- Bog killed two Shades.
+- **Vein of Soul: Aalyn**, with a twinned Eldritch Blast. He had held on in the Soul trial, so the face lashed back with necrotic tendrils, and **a gold cloak shimmered over him**, a carryover from his free natural 20, protecting him "from a very special someone." Acrobatics 17 turned the necrotic into radiant and back into the face. The chamber filled with full light, and Aalyn raised two more light walls.
+- The Remnant used a reaction to hold one of Aalyn's Eldritch Blasts in place and throw it back at him. Aalyn's Unsettling Words: "You look like the Grim Reaper's aborted fetus."
+- Alaric's Hypnotic Pattern: the Remnant failed the save but is immune to being charmed, and casting it ended Alaric's Silence. He walked away through an opportunity attack and drank a greater healing potion.
+- Thimble's Vistro vestige threw a flame trident into the Vein of Mind. Thimble cast **Sickening Radiance** on the Remnant, which failed its save. A wild magic surge on his earlier Thunderwave: pink bubbles whenever he speaks for a minute.
+- **Thimble went down** to two blade strikes. The Vistro vestige and Sickening Radiance both ended. Aalyn brought him back with Healing Word.
+- Bog jumped down and flanked with Nerevath for about 43 damage in one turn, shattering a knee.
+- Alaric's Perception: the Remnant's helm is calcified stone and bark shaped to look like the original. **The real helm is still out there somewhere.**
+- **Vein of Mind: Alaric**, with a 4th-level Scorching Ray, made with advantage thanks to Rec's help and his illusion magic.
+
+**The final stand (in place of Phase 2)**
+- With all three faces broken, the domain cracked and something roared out of the void itself. The Remnant drove its sword into the void and the Stilling spread. Three saves, and passing any one is enough: Con 13, Str 15, Wis 17.
+- Everyone but Wayne passed the first. Wayne failed Strength, rolled a natural 1 on Wisdom, used his last luck point, and rolled **another natural 1**.
+- The DM played the natural 1 as a turning point. Wayne began to petrify a second time, with no mentor there to save him.
+
+**Jack's memory (in place of the section 4 version)**
+- Cold mountain wind on the Drak'mor peaks. Jack on a rock with his cane and a beard to his knees, drilling Wayne's parkour in his new stone body: "You bag of rocks, do it again." "Put some muscle into it."
+- He tapped Wayne's stance wider, tucked his stomach in, lifted his chin. Then he ate an apple and ladled out Drak'mor mountain goat stew by the fire.
+- "My boy, I found you for a reason, and we will find out what that reason is." "It's not up to me, Wayne. It's up to you. I can push, but you, son... one of these days, you will fly."
+- The Stilling's stone shattered off him. **His stone is now a deeper, darker ebony**, with a darker light coming off him, and he felt weightless, the best he'd ever felt. He rose out of the shadow and drove his hand into the Remnant's chest.
+- **The domain shattered, the Remnant was gone, and Wayne held the black heart: the [[Shell of the Void Heart]].** The DM framed it as causality: made in the image of the Hollow Vessel, but more than that. A Goliath, the Kyn'Ruthar. "You are free, and you can fly."
+- The evil pulse at the summit faded. With its anchor gone, the Reliquary began to rumble and crumble.
+- **Malcanthet, at Wayne's shoulder:** "Oh, how perfect you are. How glorious you are... You're even better than I could have imagined." End of session.
+
+**After the session**
+- Wayne resisted the Remnant's Stilling, "maybe because you are it, or maybe because you defy it." Left open on purpose.
+- **Everyone levels to 8**, Bog included.
+- Kindred Flame ruling: the 50 gp component has to be offered at the center of the dap, so the fusion hasn't happened yet. For now the vestiges act on their own, right after their summoner's turn. They don't count as concentration for now (the ritual ends if they take enough damage). That may change.
+- Under consideration: a house rule giving max HP on alternating levels. To be decided at a table pow-wow.
+
+> [!secret] New lore improvised at the table
+> revealed:: true
+> - The Remnant is **vulnerable to radiant damage**, and breaking each face floods the domain with walls of light.
+> - Aalyn's gold cloak, a carryover from his free natural 20, turns the void's necrotic into radiant. It protects him "from a very special someone."
+> - The Remnant's helm is a calcified copy. The **real helm of the Vessel** still exists somewhere.
+> - Wayne's stone darkened to ebony when he broke out of the Stilling.
+
+> [!secret] What Thimble's memory means
+> revealed:: false
+> Thimble is holding on to the anger, the hatred, the strife. He isn't ready to give them up, and that's characteristic of the chaos-born. The void tried to take the memory and something in him took it back. See [[Thimblewick Danglesworth]].
+
+> [!warning] Changes that affect Session 55
+> - **Wayne already holds the Shell.** No pedestal, no Token warning, no Naki-Uthai roll. Section 4 is used up. The scripted squire memory (the goat, "Kneel") wasn't played and can be saved for later.
+> - **The Collapse has begun.** The Reliquary lost its anchor the moment Wayne took the Shell.
+> - **Session 55 opens on Malcanthet.** It's the kickoff for Wayne: she sets him on the road to becoming a fully realized Hollow Vessel, and he learns he's the Kyn'Ruthar through the full memory of the bottom of his Void Trial, where he found the first half of [[The Soul Armor]].
+> - **The Godhand scene hasn't happened.** Lolth's lines, Thimble's "What did he make you out of?", the beats for Alaric and Bog, and Malcanthet's fury over the Tome are all still available.
+> - The party is level 8. Wayne and Thimble's blade perks and necrotic resistance end when they leave the area.
+> - Thimble is down 5 Strength from the Shades until he rests (per the Shadow statblock).
+> - **Atul is still on the Soul floor.**
 
 ---
 
@@ -1074,18 +1159,20 @@ Each item has its own note in `03_Lore & Mechanics/Homebrew`, with the D&D Beyon
 
 ## Post-Session Notes
 
-- [ ] Remnant: phases reached, who cut which Vein
-- [ ] Who took the Shell, or whether it fell home. Wayne's Hollowing.
+- [x] Remnant: run as a domain with three stone faces. Body: Wayne (natural 20 dagger). Soul: Aalyn (Eldritch Blast, gold cloak). Mind: Alaric (Scorching Ray, with Rec). Phase 2 became a final-stand Stilling. Wayne finished it.
+- [x] Wayne tore the Shell out of the Remnant's chest after Jack's memory. Hollowing: 0 *(confirm)*.
 - [ ] Collapse Clock result, and whether a fire sage died
 - [ ] Offering Hall items grabbed
 - [ ] Vashara: which demand, what was paid, and whether she took Atul
 - [ ] If she took Atul: the party has the Stone Fingers
 - [ ] Aalyn's answer to Lolth
 - [ ] Whether Alaric picked up the card
-- [ ] Wayne's Naki-Uthai roll
+- [ ] Wayne's Naki-Uthai roll: the pedestal was never reached. Find a new place for the name.
 - [ ] Atul's army: how many statues were saved
 - [ ] Vistro's boon chosen, and Wayne's answer to Vistro
 - [ ] Lava floor areas cleared: Foundry, Power Station, Forge, Merchant's Alliance
 - [ ] Forge ratio chosen (3:1 or 1:1), and what was crafted
 - [ ] Air compression mechanism: whole or cracked
 - [ ] Vaults opened, and whether the hearth-room circle was copied
+- [x] Level up: everyone to 8.
+- [x] Vault notes updated: party, [[Shell of the Void Heart]], [[The Soul Armor]], [[The Rikk Borgar]], [[The Hollow Reliquary]], [[Malcanthet]], [[Jackmerius Tacktheratrix]], Open Threads.

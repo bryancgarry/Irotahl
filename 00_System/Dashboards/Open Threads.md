@@ -7,10 +7,12 @@ tags: [dashboard]
 Undecided lore and loose ends. Check items off as they get settled, and move the answer into the relevant note.
 
 ## Next Up
+- [ ] **Session 55, Wayne's kickoff.** Malcanthet's dialogue that sets him toward becoming a fully realized Hollow Vessel, and the full memory of the bottom of his Void Trial: finding the first half of [[The Soul Armor]] and learning he is the Kyn'Ruthar.
 - [ ] [[The Soul Sanctum]]: Wayne's next destination after the Reliquary. Its interior, what remains inside, and whether its hollowers still labor there.
 
 ## Cosmology and History
 - [ ] Which Godhand rose at the Second, Third, and Fourth [[Moon Darkenings]], and when the first three happened.
+- [ ] Where the real helm of the Hollow Vessel is. The Remnant wore a calcified copy (Session 54).
 - [ ] Where the Godspire went when it vanished. See [[Lithoweaves]].
 - [ ] The details of [[Lolth]]'s fall.
 - [ ] The identity of the Arborean archmage and the author of the introductory volume. See [[The Demonomicon]].
@@ -20,10 +22,19 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 ## Party
 - [ ] Why Bogtrotter is unbranded, and whether that matters later.
 - [ ] Each branded party member's personal way to break their [[Abyssal Brands|Abyssal Brand]]. Wayne's is [[The Soul Armor]].
-- [ ] Where the Soul Armor is.
+- [x] Where the Soul Armor is. Two halves, like the Kingsoul: the first at the bottom of [[The Rikk Borgar]], the second found by walking the Tyrn'Haka.
+- [ ] Whether Wayne carried the first half of the Soul Armor out of the Rikk Borgar, and where the Tyrn'Haka ends.
+- [ ] **Feat of the Hollow Vessel** for Wayne: an ability befitting the Vessel and the Void Heart, like Shade Step. Design in a separate chat.
+- [ ] **Void-touched feat** for Wayne and Thimble: a small permanent buff and a small permanent drawback.
+- [ ] Whether Wayne's resistance to the Stilling (Session 54) becomes a trait, and what his ebony stone means.
+- [ ] Which item the Shell of the Void Heart displaces from Wayne's full attunement.
+- [ ] Aalyn's gold cloak: does Sumina's protection last beyond the Reliquary?
+- [ ] The Kindred Flame: what the 50 gp offering is, and what the fused Nerevath and Vistro summon becomes.
+- [ ] Hit points on level-up: maybe max HP on alternating levels. Decide at a table pow-wow.
 - [ ] Where the other [[The Void Heart|Void Heart]] fragments are, and what each adds.
 - [ ] The scene at the bottom of [[The Rikk Borgar]].
 - [ ] The Glimmerstone arc: Thimble as chaos-born, his father's role, and how the city's politics, the World Games, and the Luminarch's event connect.
+- [ ] How and when Thimble learns he can consume demon souls (souls tied to the Chaos Primordial), like Skyrim's Dragonborn.
 
 ## Setting
 - [ ] Hollowmere's and Vermillion Bay's exact place on the map.

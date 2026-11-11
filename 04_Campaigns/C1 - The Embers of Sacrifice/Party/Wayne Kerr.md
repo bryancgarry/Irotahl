@@ -4,7 +4,7 @@ aliases: [Wayne, The Stone God]
 player: Kevin
 race: Goliath
 class: Rogue (Soulknife)
-level: 7
+level: 8
 status: active
 campaign: C1
 tags: [pc]
@@ -12,17 +12,18 @@ tags: [pc]
 # Wayne Kerr
 
 **Player:** Kevin
-**Race / Class:** Goliath (Cloud Giant ancestry) Rogue (Soulknife) 7
+**Race / Class:** Goliath (Cloud Giant ancestry) Rogue (Soulknife) 8
 **Background:** Wayfarer. Age 25, 8 ft.
 **Sheet:** [D&D Beyond](https://www.dndbeyond.com/characters/136284983)
 
 > [!summary] Quick Reference
 > - **Theme:** Body, Mind, and Soul.
-> - **Body:** Fully stone. Malcanthet's hollowing has begun.
+> - **Body:** Fully stone, now a deeper **ebony** since he broke out of the Remnant's Stilling (Session 54). Malcanthet's hollowing has begun.
 > - **Mind:** Sharp. Soulknife, honed by Jack. This is what keeps him himself.
 > - **Soul:** Branded at Oakhollow. **Darkened** in the Reliquary's Soul trial, where he chose to become the blade. Malcanthet knows his name.
 > - **Core conflict:** Malcanthet wants him as her next Hollow Vessel. He can become that, or a true Kyn'Ruthar.
-> - **Endgame item:** [[The Soul Armor]].
+> - **Holds:** the [[Shell of the Void Heart]], torn from the Remnant's chest in Session 54.
+> - **Endgame item:** [[The Soul Armor]], in two halves. The first lies at the bottom of the Rikk Borgar. The second is found by walking the Tyrn'Haka.
 > - **Personal goals:** Continue Jack's journey, cure the stone curse, and break his brand.
 
 > [!quote]- Backstory (written by Kevin)
@@ -135,12 +136,20 @@ tags: [pc]
 **The Kyn'Ruthar path:** The Soul Armor breaks the brand and his body returns to life. His mind holds the line in between.
 
 ## The Void Heart
-[[The Void Heart]] is Othea's pendant, broken open and filled with the Sea of Void: the leash that kept the First Vessel's mind hollow. It lies in fragments. The first, the **Shell of the Void Heart**, sits at the Reliquary's summit, and Malcanthet tells Wayne it was always his.
+[[The Void Heart]] is Othea's pendant, broken open and filled with the Sea of Void: the leash that kept the First Vessel's mind hollow. It lies in fragments. The first, the **[[Shell of the Void Heart]]**, is his: in Session 54 he drove his hand into the Remnant's chest and took it. Malcanthet appeared at his shoulder the moment he held it.
 - **The temptation.** Real void power: **Shade Step** (dashing through enemies as living shadow) and **Kin of the Void** (hollowed things hesitate against him).
 - **The leash.** Once attuned, he can't remove it. Every use beyond his free ones costs **Hollowing**, and each point costs a memory.
   - **3 Hollowing:** Malcanthet can whisper suggestions at will. He can always refuse.
   - **5 Hollowing:** his mind is hollowed, and she can *command* him once per long rest with no save.
 - **The full Void Heart** would turn his psychic blades into blades of void dealing necrotic damage, make hollowed creatures stop treating him as an enemy, and let Malcanthet reach him without any Hollowing at all.
+
+## The Soul Armor: Two Halves
+> [!secret] The Kingsoul
+> revealed:: false
+> [[The Soul Armor]] works like the Kingsoul charm in *Hollow Knight*: it comes in two halves.
+> - **The first half** is at the bottom of [[The Rikk Borgar]]. Wayne found it during his Void Trial and has no memory of it. That memory comes back in full in Session 55.
+> - **The second half** is found by walking the **Tyrn'Haka**, the Endless Climb. The climb itself is the Kyn'Ruthar's journey: the second half is earned by embodying it.
+> - When the two halves come together, they make the Soul Armor.
 
 ## The Stone Body
 The stone isn't evil. What matters is whose will holds it. Three ways it can resolve:
@@ -173,23 +182,26 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 > Long-term plans for Wayne: gear, abilities, companions, and story beats. Nothing here has happened yet.
 
 ### Story Arcs and Beats
-- **Finish the Hollow Reliquary** (Session 54). The Remnant, then Malcanthet speaks to him and offers the Shell of the Void Heart. Vistro reacts if he takes it.
+- **Session 55: the kickoff of his true journey.** Malcanthet's dialogue sets him on the road to becoming another fully realized Hollow Vessel, now that he holds the Shell. In the same scene he learns he is the **Kyn'Ruthar**, through the full memory of the bottom of his Void Trial, where he found the first half of the Soul Armor. Vistro reacts to the Shell.
 - **Return to the Soul Sanctum**, now knowing what it is.
 - **The other Void Heart fragments.** Each one stronger, each one tightening the leash.
 - **Malcanthet reaches through the mark**, at a moment of your choosing.
 - **Learn the name Naki-Uthai**, and what it means that his god was the Vessel.
-- **Return to the Rikk Borgar** for the mind-blowing reveal of what happened at the bottom, and the Kyn'Ruthar's final stage of enlightenment.
+- **Return to the Rikk Borgar** for the Kyn'Ruthar's final stage of enlightenment. (The memory of the bottom, and the first half of the Soul Armor, surfaces in Session 55.)
 - **Jack.** Continuing his journey, and finding out where he really came from.
-- **The Soul Armor quest**, and breaking the brand.
+- **The Tyrn'Haka**, the Endless Climb: the journey to the second half of the Soul Armor, and breaking the brand.
 - **Confronting Malcanthet.** One route to undoing his petrification.
 - **The final choice.** Hollow Vessel, Kyn'Ruthar, or a stone Kyn'Ruthar of his own.
 
 ### Weapons, Armor, and Items
-- **[[The Soul Armor]].** The endgame item. It holds the souls or echoes of past Kyn'Ruthar.
+- **[[The Soul Armor]].** The endgame item. It holds the souls or echoes of past Kyn'Ruthar. Two halves, like the Kingsoul.
 - **[[The Void Heart]] fragments.** Power on a leash. The full Heart turns his blades to void.
 
 ### Abilities and Boons
 - **Feat of the Kyn'Ruthar.** Currently *Telekinetic Shove* and *Weightless Movement*. The feat says it "can be improved upon further training and enlightenment." Grow it as he walks the Kyn'Ruthar path, with the final stage at the bottom of the Rikk Borgar.
+- **Feat of the Hollow Vessel** *(new, to design in a separate chat)*. Sits beside the Feat of the Kyn'Ruthar and grows along the Vessel path. It grants an ability befitting the Hollow Vessel and the Void Heart, in the vein of the Shell's **Shade Step**.
+- **Void-touched feat** *(to design)*. For the two blade-chosen, Wayne and Thimble: a small permanent buff with a small permanent drawback. It's what stays with them after the Reliquary's temporary perks (including necrotic resistance) end when they leave the area.
+- **Resisting the Stilling.** He broke out of the Remnant's Stilling in Session 54, "maybe because you are it, or maybe because you defy it." Whether this becomes a trait is open.
 - **Stone body benefits.** If he keeps the stone by choice: resistances and similar benefits, preferably re-flavored from official features.
 
 ### Companions and Summons
@@ -216,5 +228,13 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
   - Thimble mooned him: **he owes one ability check at disadvantage**, if not yet used.
   - Read the five Soul murals. **Became the blade:** his light went out, his brand darkened, and Malcanthet knows his name. Advantage on saves against charm and fear, and +1d6 necrotic on weapon attacks, for the rest of the Reliquary.
 
+- **Session 54, The Heart of the Void.**
+  - The Remnant attacked him first. He did the Kindred Flame dap with Thimble as a reaction, and Nerevath's vestige fought beside them.
+  - Investigation 28 through his void link: the three stone faces are Mind, Soul, and Body. Cut the **Vein of Body** with a natural 20 thrown dagger and raised two walls of light.
+  - Failed the final Stilling, with two natural 1s on Wisdom. Began to petrify a second time, and **Jack's memory** pulled him out: mountaintop parkour, "You bag of rocks, do it again," goat stew, "One of these days, you will fly."
+  - Came out as **ebony stone**, weightless, and drove his hand into the Remnant's chest. **Took the Shell of the Void Heart.** The Reliquary began to fall apart, and Malcanthet appeared at his shoulder: "You're even better than I could have imagined."
+  - Learned he has Reliable Talent. Leveled to 8. The DM offered to let him swap *identify*.
+
 > [!info] DM Note
-> Open: what exactly is at the bottom of the Rikk Borgar, what still labors in the Soul Sanctum, where the other Void Heart fragments and the Soul Armor are, when he learns the name Naki-Uthai, and confirming his tribe as the Kerr'Athrai.
+> Attunement is full (Cloak of Protection, Blowgun of Warning, Silver Wings of Nerevath). Decide what the Shell displaces, since it attunes itself.
+> Open: what exactly is at the bottom of the Rikk Borgar, what still labors in the Soul Sanctum, where the other Void Heart fragments are, where the Tyrn'Haka leads, when he learns the name Naki-Uthai, and confirming his tribe as the Kerr'Athrai.
