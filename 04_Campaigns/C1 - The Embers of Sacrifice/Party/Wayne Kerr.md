@@ -246,6 +246,15 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
   - Took the Rat Lord's Hat. It hasn't answered him yet, though the Rat Lord's blood made it feel more connected.
   - Turned in the contract to Silas for 50 gp and the name **Calder**. Paid for new tokens by cutting his hand four times.
   - First battle use of his bagpipe darts: 24 to kill a drone.
+- **Session 15, Here We Go Again.**
+  - Licked the Rat Lord's blood and woke the hat: a live rat, then a BoomRat.
+  - Told the bartender Bog killed the girl. Threw the hidden dagger into Kagra and won 10 gp on Aalyn.
+  - Dove in front of Aalyn's rapier to save Calder.
+- **Session 16, Action and Apologies.** Got Calder's story: Edith Veilheart and her butler Buro. Natural 20 Perception found "WATCH THEM" hidden in the Enclave note. His egg is close to hatching (Keith, or Thimblewick Jr. III).
+- **Session 17, The Vault.**
+  - Showed Tiberius the note. Broke into the Veilheart estate invisible and completed the heart key.
+  - Crossed the pressure tiles with a rolling torch, which set off a silent alarm.
+  - Opened the vault with 1497 and took 400 gp, the wooden mask (Volkarr work), a Fern pendant and Malrik's logs.
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **The salamanders.** Claimed the title Kyn'Ruthar to them. The fire sages traced Nerevath's silhouette into his stone.
 - **Session 52, The Hollow Reliquary.**

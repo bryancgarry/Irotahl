@@ -76,6 +76,14 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
   - Thunderwave cleared the grate. Surged and blinked.
   - Fell off Alaric's ice slide, and walked away from Bog's knife riot.
   - Surged again in the Solarium, wreathing himself in flame.
+- **Session 15, Here We Go Again.**
+  - Recognized the House Fenwyn crest.
+  - Cast *Suggestion* to put Ellie to sleep for Bog. Wild magic took away his reading, then tripled his nose.
+  - Heard Aalyn's screams and saw the guards storm in.
+- **Session 16, Action and Apologies.**
+  - Sent "The feds are coming" through the floor.
+  - Fed the unconscious Bog, dropped the dinner plates, and found **Jud** alive. Jud got Bog off the roof and Thimble past the guards.
+- **Session 17, The Vault.** Lied about checking Bog was alive, and got caught. Made friends with Bog. Suggested the Enclave note's member ID as the vault code.
 - **Session 53, What Is Left of You.** Pulled into the mindscape by force and punched back out by Bog. Finished the Mind trial last, guided by Wayne. Natural 20 on Investigation in the Soul chamber: his first inkling that the soul sphere is tied to the pale stones. **Became the blade.** His brand darkened.
 - **Session 54, The Heart of the Void.**
   - Cold open: the gallery memory, the slap, and the memory he refused to let go of.

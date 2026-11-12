@@ -53,6 +53,11 @@ Bogtrotter is the only member of the party **not** branded. The Reliquary's bran
   - Ate the Rat Lord's brain and carried off his torso.
   - Armed two children with daggers, and a boy was slashed across the eye.
   - Made the Rat Lord's skull into a codpiece.
+- **Session 15, Here We Go Again.** Bound to his Rat Lord's Skullcup. Romanced Ellie the waitress, then had Thimble put her to sleep thinking she'd spent the night with the Rat Lord's corpse. Made Thimble his first friend.
+- **Session 16, Action and Apologies.** *(Gabe absent.)* Blasted onto the roof by Aalyn's swing and knocked out. Thimble and Jud rolled him into a haystack.
+- **Session 17, The Vault.**
+  - Dreamed of being a hungry gecko who planted trees, and woke in the hay with 4 temporary hit points.
+  - Revealed his wings, which he flies on every morning. Flew Wayne's rope to the estate's chimney.
 - **Session 53, What Is Left of You.** Punched the needle out of Thimble's head, guided Aalyn through the mindscape, threw a pebble at Alaric (the start of the beef), and ate the watermelon. Found he could stand on the void. Held on through the Soul trial.
 - **Session 54, The Heart of the Void.** *(Gabe absent. The DM ran Bog.)*
   - Jumped onto the central platform with his Ring of Jumping and breathed lightning. His surge (92) added 18 lightning damage.

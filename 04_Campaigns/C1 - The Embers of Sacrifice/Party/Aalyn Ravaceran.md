@@ -269,6 +269,14 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
   - Reported to Sir Romulus and denied the bribe with a natural 20 Deception. Muttered "Prince Cuckold" on the way out.
   - Healed the slashed boy's eye with Papa Glabb's lute and gave him Birdolomew's trick coin.
   - Was shot out of the air by a Solarium drone and fed a chewed mushroom by Thimble.
+- **Session 15, Here We Go Again.**
+  - Won the pit fight against Kagra the Butcher by torpedoing through him with his boots (natural 20).
+  - Pacified Calder's fighter in plain sight, then stabbed at Calder. Cornered and beaten by the crowd; his eyes went black and he cut a man's hand off.
+- **Session 16, Action and Apologies.**
+  - Took the figure's hand and relived the grave, the office, the walk home and the instrument room. Accepted a new deal: when Wayne fights to keep his artifact, don't aid him.
+  - She poured inky red energy into his rapier. Burning runes appeared on his neck, and one swing blew a hole through the Orchid. His hair now has black roots.
+  - Apologized to Alaric and Wayne, and promised no more killing.
+- **Session 17, The Vault.** Caught Thimble's lie about Bog. Played the distraction in Noble's Rise with a natural 20 country song, holding up the butler and earning 80 gp.
 - **Hollowmere.** *(To fill in from earlier sessions: Talia and the rest.)*
 - **Session 52, The Hollow Reliquary.** Entered the Reliquary with [[King Atul Stonemarch|Atul]].
 - **Session 53, What Is Left of You.**

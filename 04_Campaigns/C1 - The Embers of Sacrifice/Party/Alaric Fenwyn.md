@@ -145,6 +145,15 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
   - The party couldn't pick him out from three cosplayers.
   - A natural 20 Persuasion got the Solarium key from Magister Pelen. Set off the glyph of warding, and caught Aalyn with *Feather Fall*.
   - **Found a hidden chest with a letter and a cloak from his parents:** the Cloak of Thalanir's Echo.
+- **Session 15, Here We Go Again.**
+  - Put on the Cloak of Thalanir's Echo and attuned to it. His parents want the party to visit.
+  - Found Malrik's healing potions. Took the new battery, which isn't in the Solarium's catalog.
+  - His cloak's double fooled the pit bouncers. Offered his cloak as a stake in the bet with Calder.
+- **Session 16, Action and Apologies.**
+  - Hid the escape with *Major Image*, and swore for the first time.
+  - Paid for rooms at the Dirty Stump. Summoned a three-eyed space guppy by mistake.
+  - Sensed that Aalyn's magic comes from another source. Says he only ever worked *with* the Enclave.
+- **Session 17, The Vault.** Romulus knows who he is. Cast *Invisibility* on Wayne and Bog for the heist, and remembered the vault code (1497).
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **Session 53, What Is Left of You.**
   - Revealed his own path through the mindscape on a 28 and finished second, then guided Bog home with nothing but gestures.
