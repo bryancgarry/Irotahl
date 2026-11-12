@@ -280,10 +280,10 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 18, The Stage is Set.**
   - Reached Rosalie with *Message*: "Pain. It hurts." Promised her he'd save her. "I know you will."
   - The words he first heard in Session 1 made sense through the mask: "Come save me. I am beneath the cathedral." He kept the exact words to himself.
-  - Put on the mask in the chamber and saw Tula inside the demon. Told her about Rosalie, and she showed the party her memories.
-- **Session 19, The Fight Begins.** Flew up to confront Malrik and held onto the mask when Malrik tried to pull it away. Called on Tula to help save Rosalie. Went down to frost and abyssal lightning; Thimble pulled him out and healed him.
+  - Put on the mask in the chamber and saw Talula inside the demon. Told her about Rosalie, and she showed the party her memories.
+- **Session 19, The Fight Begins.** Flew up to confront Malrik and held onto the mask when Malrik tried to pull it away. Called on Talula to help save Rosalie. Went down to frost and abyssal lightning; Thimble pulled him out and healed him.
 - **Session 20, The Ascension.**
-  - Begged the party through the link to give Tula the gemstone, and asked them not to kill her.
+  - Begged the party through the link to give Talula the gemstone, and asked them not to kill her.
   - Once she had it, he smirked, told his patron "I hope it was worth it," and dropped his rapier.
   - Stayed behind to tie up the unconscious Malrik.
 - **Session 21, The Godhand.**

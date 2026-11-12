@@ -258,9 +258,9 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 18, The Stage is Set.**
   - Finished the vault: 500 more gp, six potions, navigational charts and two jade daggers. Left the vault door open.
   - Repaid Aalyn with a greater healing potion. The daggers feel like his psionic blades.
-  - Took Tiberius's sending stone. Bragthar calls him "My king." The Pendant of the Ferns opened Tula's tomb.
+  - Took Tiberius's sending stone. Bragthar calls him "My king." The Pendant of the Ferns opened Talula's tomb.
 - **Session 19, The Fight Begins.** Went Large and invisible, cracked Malrik's ward with a thrown jade dagger, and threw the gemstone to Alaric.
-- **Session 20, The Ascension.** Destroyed the last golem. Tried to grapple Malrik, then cloud jaunted after Tula and touched the gemstone with his fingertips, but couldn't take it. Thrown back by a wall of force when he tried to cut it out of the Bridge King.
+- **Session 20, The Ascension.** Destroyed the last golem. Tried to grapple Malrik, then cloud jaunted after Talula and touched the gemstone with his fingertips, but couldn't take it. Thrown back by a wall of force when he tried to cut it out of the Bridge King.
 - **Session 21, The Godhand.** Called Tiberius on the sending stone. The woman who turned him to stone called him "my hollow vessel." Linked minds with Tiberius and heard screams that weren't his. Threw Aalyn through the rift.
 - **Session 22, A Long Night Ends.** **His egg hatched: Pebbles,** a female stone goose dragon. Got the ring of water walking. Malrik's charts mark another gemstone between Midland and Syfaeril.
 - **Session 24, Nerevath, The Feathered Scourge.** Learning to count. Pebbles pooped a gold coin. **Natural 20 Animal Handling: traded rations to Nerevath for Pebbles.**

@@ -13,7 +13,7 @@ tags: [location, city]
 
 ## Notable Places
 - **The Grand Cathedral.** Beneath it, the Bridge King's ascension took place. Purple lilacs grow in the ascension room.
-- **The Fern catacombs** beneath the Grand Cathedral. Family tombs with sockets; Tula Fern's opens a calcified tunnel past traps to a ley line chamber where Tula was chained, and below that a chamber of plant life. See [[Session 18 - The Stage is Set]] to [[Session 20 - The Ascension]].
+- **The Fern catacombs** beneath the Grand Cathedral. Family tombs with sockets; Talula Fern's opens a calcified tunnel past traps to a ley line chamber where Talula was chained, and below that a chamber of plant life. See [[Session 18 - The Stage is Set]] to [[Session 20 - The Ascension]].
 - **The chasm.** The Grand Cathedral is gone, leaving a chasm 100 to 200 ft deep at the city's heart. Ash scars around it form the party's brand sigil, and the ley line beneath is burnt out. See [[Session 21 - The Godhand]].
 - **Commander Seth's house.** His magic bean became a beer geyser, which the party stole ([[Session 24 - Nerevath, The Feathered Scourge]]). The guard **Bob** at the west gate soiled himself in front of the town.
 - **A non-denominational temple** on the outskirts, with two priests who speak of the Wild Mother ([[Session 23 - Magic and Religion]]).

@@ -24,5 +24,5 @@ tags: [npc]
 - Charged the lithoweave's purple ring and vanished, cutting Wayne's psionic link ([[Session 7 - The Goose is Loose]]). He fell back out of the sky in the same spot after the machine collapsed ([[Session 8 - Gnomes and Fireballs]]).
 - Hasted by Alaric, he killed Muzzle. The guard Bob refused him entry to Oakhollow, so he waits at the stables outside the south gate with Sheila ([[Session 9 - The Off-Branded Misfits]]).
 - Possibly his ex: Heladur, a slam poet at the Orchid whose poem "Hurt" mentions a "mossy queen" and "the fungal bloom." Not confirmed.
-- Weakened since Sessions 18 to 20. Called Wayne "My king." Told Aalyn that Heladur wasn't very good at slam poetry, which suggests she is his ex. Fought the golems and Tula beneath the Grand Cathedral and is badly hurt ([[Session 20 - The Ascension]]).
+- Weakened since Sessions 18 to 20. Called Wayne "My king." Told Aalyn that Heladur wasn't very good at slam poetry, which suggests she is his ex. Fought the golems and Talula beneath the Grand Cathedral and is badly hurt ([[Session 20 - The Ascension]]).
 - **Killed** by Graz'zt with *power word kill* in his abyssal domain: "You abandoned me for them." See [[Session 21 - The Godhand]].

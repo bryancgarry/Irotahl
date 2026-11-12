@@ -22,4 +22,4 @@ tags: [npc]
 > Open: his current state, and the proposed Fern and Darken marriage alliance.
 
 ## Played
-- **Session 18.** In Tula Fern's memories he grew possessive and abusive toward her after Queen Daffy died, and locked her away. He came home from the cathedral with a pale gemstone and used it at Rosalie's birth beneath the cathedral. Demons devoured the handmaidens and the adviser Gormar, Tula became the chained demon, and he fled with the baby. See [[Session 18 - The Stage is Set]].
+- **Session 18.** In Talula Fern's memories he grew possessive and abusive toward her after Queen Daffy died, and locked her away. He came home from the cathedral with a pale gemstone and used it at Rosalie's birth beneath the cathedral. Demons devoured the handmaidens and the adviser Gormar, Talula became the chained demon, and he fled with the baby. See [[Session 18 - The Stage is Set]].

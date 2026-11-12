@@ -15,7 +15,7 @@ tags:
 **Ref:** [[Session 17 - The Vault]], [[Tiberius Blackfang]], [[Malrik Greene]], [[Baron Fern]], [[Bragthar]], [[House Fenwyn]], [[The Volkarr]], [[Oakhollow]]
 
 > [!important] Played: "The Stage is Set" (Episode 18)
-> [Watch on YouTube](https://www.youtube.com/watch?v=oD7LdtZtcQM). Bog bluffed Buro out of the vault room while Wayne finished the job. Back at the keep the mask split open around Thimble's wild magic. Malrik was spotted at the Grand Cathedral, and the party went down into the Fern catacombs with Bragthar and Sheila. Beneath them they found a chained demon, and through the mask Aalyn saw who she was: Tula Fern, Rosalie's mother. Ends with Malrik rising into the chamber.
+> [Watch on YouTube](https://www.youtube.com/watch?v=oD7LdtZtcQM). Bog bluffed Buro out of the vault room while Wayne finished the job. Back at the keep the mask split open around Thimble's wild magic. Malrik was spotted at the Grand Cathedral, and the party went down into the Fern catacombs with Bragthar and Sheila. Beneath them they found a chained demon, and through the mask Aalyn saw who she was: Talula Fern, Rosalie's mother. Ends with Malrik rising into the chamber.
 
 ## What Happened at the Table
 
@@ -61,7 +61,7 @@ tags:
 
 **The catacombs**
 - Fern family tombs line the catacombs, each with a socket. Wayne's egg is close to hatching (Animal Handling 12).
-- **The Pendant of the Ferns** fit the empty socket on the tomb of **Tula Fern**, Rosalie's mother. It opened a dark, calcified tunnel like the stone trees. Their brands tingled, and a roar came through the stone.
+- **The Pendant of the Ferns** fit the empty socket on the tomb of **Talula Fern**, Rosalie's mother. It opened a dark, calcified tunnel like the stone trees. Their brands tingled, and a roar came through the stone.
 - **The first trap.** A mage-hand door over a pit. Alaric froze water from the pit into a bridge and jammed the gears with ice (Arcana 23). A voice said, "It's rude to open the door without asking," so they knocked.
 - **The anti-magic pillars.** A room of pillars over inky goop. People kept falling in and making Con saves. Aalyn and Thimble pulled two levers together to shut the field off. Alaric found a maintenance lever (Investigation 27) that extends a walkway, so Sheila and Bragthar could cross. The ink washes off at the next door.
 - Their brands bled for 1 damage. Beyond lies a huge chamber over a ley line.
@@ -69,13 +69,13 @@ tags:
 **The chained demon**
 - An abyssal demon is chained in the center of the chamber.
 - The party finally read Malrik's logs. They mention the mother's pregnancy and the Baron's preparations.
-- Aalyn put on the mask (natural 20 Arcana). With truesight he saw a young auburn-haired woman inside the demon: **Tula**. He told her about Rosalie and how good a person she is.
-- **Tula's memories, shown to everyone.**
-  - Her mother, Queen **Daffy**, died. The Baron grew possessive and abusive toward Tula, who resembled her mother, and locked her away.
-  - Tula fell pregnant and learned she wouldn't survive it. An Obsidian Enclave adviser was present.
+- Aalyn put on the mask (natural 20 Arcana). With truesight he saw a young auburn-haired woman inside the demon: **Talula**. He told her about Rosalie and how good a person she is.
+- **Talula's memories, shown to everyone.**
+  - Her mother, Queen **Daffy**, died. The Baron grew possessive and abusive toward Talula, who resembled her mother, and locked her away.
+  - Talula fell pregnant and learned she wouldn't survive it. An Obsidian Enclave adviser was present.
   - The Baron came home from the cathedral wearing a new **pale gemstone**.
   - The birth took place on an altar beneath the cathedral and went wrong. The Baron used the gemstone and summoned demons. The sigil branded the handmaidens and the old Enclave adviser **Gormar**, and the demons devoured them.
-  - Rosalie was born healthy. Tula turned into the demon, and the chains bound her as the Baron ran off with the baby.
+  - Rosalie was born healthy. Talula turned into the demon, and the chains bound her as the Baron ran off with the baby.
 - **Malrik Greene** rose from below on a pedestal at the back of the chamber. Only Aalyn, with truesight, could see him.
 
 **After the session**
@@ -84,10 +84,10 @@ tags:
 
 > [!secret] Links to later lore
 > revealed:: false
-> The pale gemstone in Tula's memory is the Oakhollow [[Embers of Sacrifice|Ember of Sacrifice]], the same one Wayne carries.
+> The pale gemstone in Talula's memory is the Oakhollow [[Embers of Sacrifice|Ember of Sacrifice]], the same one Wayne carries.
 
 > [!warning] Changes that affect Session 19
-> - The party is in the chamber with Tula chained in the center and Malrik at the back. Aalyn is wearing the mask.
+> - The party is in the chamber with Talula chained in the center and Malrik at the back. Aalyn is wearing the mask.
 > - Bragthar and Sheila are with them, both weakened. Tiberius waits outside; Wayne has his sending stone.
 > - Wayne has the jade daggers, 600 gp, two greater healing potions and the three resistance potions.
 

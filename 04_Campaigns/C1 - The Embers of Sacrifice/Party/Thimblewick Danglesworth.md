@@ -87,7 +87,7 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 18, The Stage is Set.** Wild magic surged near the mask. As the catalyst, he split it open into a wild magic card.
 - **Session 19, The Fight Begins.**
   - The ley line energy feeds back to him. Opened with *Shatter*, and a surge gave him a ghostly shield.
-  - Thunder Stepped Aalyn to safety and healed him. Took the mask, and talked Tula into breaking loose (Persuasion 25).
+  - Thunder Stepped Aalyn to safety and healed him. Took the mask, and talked Talula into breaking loose (Persuasion 25).
 - **Session 20, The Ascension.** Shattered Malrik's ward with a *Fireball*. His Ring of Mind Shielding blocked a surge of talking objects. Recognized the flayed former Bridge King.
 - **Session 21, The Godhand.**
   - Spotted the Godhand. Malcanthet called him "a chaos born." Graz'zt: "I told you I would remember that."

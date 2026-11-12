@@ -15,7 +15,7 @@ tags:
 **Ref:** [[Session 18 - The Stage is Set]], [[Malrik Greene]], [[Bragthar]], [[The Godhand]], [[Laws of Causality]], [[Oakhollow]]
 
 > [!important] Played: "The Fight Begins" (Episode 19)
-> [Watch on YouTube](https://www.youtube.com/watch?v=xu3ifb-tEHU). Malrik demanded his mask and the gemstone on Wayne's neck, explained himself, and woke the chamber's guardians. A long fight followed against animated armor, flying swords, two stone golems and a bone naga, under Malrik's storm cloud. Aalyn went down and Thimble saved him. Alaric hid the gemstone in his bag of holding, and Thimble, now wearing the mask, begged Tula for help. Ends with Tula's chains snapping off the wall.
+> [Watch on YouTube](https://www.youtube.com/watch?v=xu3ifb-tEHU). Malrik demanded his mask and the gemstone on Wayne's neck, explained himself, and woke the chamber's guardians. A long fight followed against animated armor, flying swords, two stone golems and a bone naga, under Malrik's storm cloud. Aalyn went down and Thimble saved him. Alaric hid the gemstone in his bag of holding, and Thimble, now wearing the mask, begged Talula for help. Ends with Talula's chains snapping off the wall.
 
 ## What Happened at the Table
 
@@ -25,13 +25,13 @@ tags:
 - About two hours have passed since the estate. Wayne's psionic link dropped, and he re-cast it on Aalyn, Alaric and Bog, leaving Thimble out this time.
 
 **Before the fight**
-- Everyone has now seen Tula's memories. The player confirmed with the DM that the figure in the flashback was the city's former Obsidian Enclave adviser.
-- Aalyn told the link that Malrik is here, that he doesn't trust Tula in this form but doesn't want to hurt her yet. He flew up on his boots to Malrik's eye level, 15 ft up.
+- Everyone has now seen Talula's memories. The player confirmed with the DM that the figure in the flashback was the city's former Obsidian Enclave adviser.
+- Aalyn told the link that Malrik is here, that he doesn't trust Talula in this form but doesn't want to hurt her yet. He flew up on his boots to Malrik's eye level, 15 ft up.
 - Alaric cast *Invisibility* on Wayne. Wayne ordered Bragthar to take the big one in the middle if it breaks free.
 - Thimble climbed 10 ft up a wall to watch (Perception 11) and spotted worn depressions in the floor on either side of the central pedestal.
 - Aalyn found lit gaps in the side tunnels and relayed what he saw (Perception 20). The chamber is about 90 ft high, with alcoves for statues along the walls and pillars.
 - With his eyes flaring, Aalyn shouted at Malrik: who is he, why is he here, what has he done.
-- Aalyn noticed Tula's chains straining toward Wayne, likely toward what he's wearing (Perception 19).
+- Aalyn noticed Talula's chains straining toward Wayne, likely toward what he's wearing (Perception 19).
 
 **Malrik speaks**
 - "You're wearing my mask. Give it back." He tried to pull it off Aalyn's face with magic. Aalyn held it on (Sleight of Hand 22).
@@ -45,7 +45,7 @@ tags:
 
 **Round one**
 - Thimble activated Innate Sorcery and hit a golem and an armor with an upcast *Shatter* for 19 thunder each. His wild magic surged (the DM chose the timing after an earlier Tides of Chaos): a ghostly shield, **+2 AC and immunity to magic missile for a minute.**
-- Aalyn told Wayne through the link to slip the necklace onto a golem, since Tula goes after whoever holds it. He cast *At Your Side* on Sheila, Bog and Bragthar and gave Wayne Bardic Inspiration.
+- Aalyn told Wayne through the link to slip the necklace onto a golem, since Talula goes after whoever holds it. He cast *At Your Side* on Sheila, Bog and Bragthar and gave Wayne Bardic Inspiration.
 - A golem hit Sheila with a force bolt and pulsed *slow*.
 - Malrik shouted to Aalyn that it was foolish to attack him in a place he's spent more time than they can fathom.
 - **Malrik's lair action.** Black chains burst from the walls. Aalyn, Wayne and Alaric were restrained. *(Bog has heroic inspiration for his player's birthday.)*
@@ -57,7 +57,7 @@ tags:
 
 **Round two**
 - Thimble asked about the raw ley line energy (Arcana 24). It feeds back to him the way the mask did, and the DM invited him to use it. He *Shatter*ed again and destroyed an armor.
-- Aalyn misty stepped out of the chains and called to Tula, "We can fight it. We can save Rosalie together." The woman inside cracked her neck, trying to resist, while the demon strained harder.
+- Aalyn misty stepped out of the chains and called to Talula, "We can fight it. We can save Rosalie together." The woman inside cracked her neck, trying to resist, while the demon strained harder.
 - Malrik's lightning ran through the cracks at everyone who rolled even.
 - A golem crit Sheila for 45.
 - Wayne threw a jade dagger at Malrik from invisibility. It cracked a spectral **arcane ward** around him for 14.
@@ -76,10 +76,10 @@ tags:
 - Sheila's heat aura kept burning whatever stood next to her.
 
 **Round four, Thimble's turn**
-- Thimble took the mask off Aalyn and put it on. With the gemstone hidden away, **Tula no longer goes for it.** She now goes for anyone branded.
+- Thimble took the mask off Aalyn and put it on. With the gemstone hidden away, **Talula no longer goes for it.** She now goes for anyone branded.
 - Thimble shouted to her that the thing angering the demon inside her is hidden, and asked for help against the one behind her (Persuasion 25).
 - He fed Aalyn the potion (13 HP): "We are not your enemy. Help us. That is your true enemy."
-- The woman inside stood, black tears streaming down her face. Tula roared, and **her chains began snapping off the wall.**
+- The woman inside stood, black tears streaming down her face. Talula roared, and **her chains began snapping off the wall.**
 
 **After the session**
 - The DM had labeled the session "TPK imminent."
@@ -90,7 +90,7 @@ tags:
 > The gemstone Malrik wants is the Oakhollow [[Embers of Sacrifice|Ember of Sacrifice]]. The "vessel" he has ready is the former Bridge King, who becomes [[Graz'zt]].
 
 > [!warning] Changes that affect Session 20
-> - Mid-combat, start of round four. Tula is breaking loose.
+> - Mid-combat, start of round four. Talula is breaking loose.
 > - The gemstone is in Alaric's bag of holding. Thimble wears the mask.
 > - Aalyn is up at 13 HP. Wayne is Large and invisible. Bragthar and Sheila are badly hurt.
 > - Malrik's storm cloud is still overhead.
@@ -99,4 +99,4 @@ tags:
 > - Malrik's vision of the future and the destruction he says he is preventing.
 > - "The vessel."
 > - The Godhand, named for the first time.
-> - Whether Malrik is the adviser from Tula's memory, or followed him.
+> - Whether Malrik is the adviser from Talula's memory, or followed him.

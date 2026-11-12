@@ -21,14 +21,14 @@ tags:
 
 **Opening**
 - The party is now **level 6.**
-- **DM reframing of Session 20.** Same events, softer intent. Tula broke free and hurt Alaric. Aalyn saw that giving up the relic she was after might soothe her and save his friend. Losing the gemstone was an honest attempt to fix a situation going sour, not a betrayal.
+- **DM reframing of Session 20.** Same events, softer intent. Talula broke free and hurt Alaric. Aalyn saw that giving up the relic she was after might soothe her and save his friend. Losing the gemstone was an honest attempt to fix a situation going sour, not a betrayal.
 - Alaric (Investigation 27) and Aalyn (19) grabbed things off Malrik before following. The DM held back what they were. Nothing in it could stop what was happening.
 
 **The ascension**
-- Alaric ran in first while Aalyn tied up Malrik. Tula sat idle beside the flayed Bridge King. The gemstone "was delivered to who it was meant to always find its way to."
+- Alaric ran in first while Aalyn tied up Malrik. Talula sat idle beside the flayed Bridge King. The gemstone "was delivered to who it was meant to always find its way to."
 - Bog (Perception 18) spotted a husk at the back of the chamber: skeletal, with papery skin and its chest torn open. Dark energy like Rosalie's poured out of it into the Bridge King's back, where the gemstone was.
 - **Wayne used the sending stone.** "Things are getting bad, man." Tiberius understood the urgency.
-- Tula sat in awe. Thimble saw the woman inside her fading, not from wounds but in spirit, as if she was settling into the demon form for good.
+- Talula sat in awe. Thimble saw the woman inside her fading, not from wounds but in spirit, as if she was settling into the demon form for good.
 - Alaric, terrified, told the others they had no chance and should run. Aalyn arrived and grabbed him by the shoulders to pull him out.
 - Aalyn recognized the flowers in the room but can't place where he saw them (History 10).
 - Wayne felt waves of fear and terror in his head, from a source he couldn't place.
@@ -43,7 +43,7 @@ tags:
 - The Bridge King floated 30 ft up in a ball of black light ringed in white and finished becoming a demon lord.
 - "So weak. How am I supposed to have fun with this?" He healed the fallen for 10.
 - He pulled a jagged obsidian blade from the ground, purple flecks running along it. "I'm going to have fun with this." A gravity slash dropped the same three again. Wayne halved it. Bog deflected it entirely. He healed them again.
-- Sheila, Bragthar, the chained Malrik and Tula had all been pulled in too (Bog and Wayne, Perception 10 and 12). Wayne felt a familiar presence.
+- Sheila, Bragthar, the chained Malrik and Talula had all been pulled in too (Bog and Wayne, Perception 10 and 12). Wayne felt a familiar presence.
 - **Bog asked for a minute.** He pointed out the unconscious wizard he'd been planning to deal with. The Bridge King looked at Malrik with disgust and vengeance, then saw his own scepter in Bog's hand. "You dare talk to me wielding my belongings?" He flung Bog 60 ft (21 force). Bog got back up, which earned a sliver of respect, and was pulled back in.
 - "You're annoying me." He **disintegrated Sheila**, countering Alaric's counterspell.
 - To Bragthar: "You abandoned me for them." A whispered **power word kill. Bragthar is dead.**
