@@ -50,6 +50,9 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **The Tome of Malcanthet.**
 - **The Vistro seal.** A crimson summoning tattoo of the Vistro family on his palm. Summons a vestige of King Vistro. A 50 gp "dap" with Wayne summons a hybrid.
 
+## Wild Magic: the Chaos Die
+- Every time he could surge (each leveled spell), he rolls his chaos die. It steps down d20, d12, d10, d8, d6, d4 until he finally surges, then resets to a d20.
+
 ## Future Planning
 - **Void-touched feat** *(to design)*. For the two blade-chosen, Thimble and Wayne: a small permanent buff with a small permanent drawback, kept after the Reliquary's temporary perks end.
 - **The Kindred Flame.** The 50 gp offering at the center of the dap with Wayne. The fused summon is still to be worked out.
@@ -62,7 +65,7 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 7, The Goose is Loose.** War gong on the rings. Shattered an illusory guardian. Played the purple ring in sync with Aalyn.
 - **Session 8, Gnomes and Fireballs.**
   - Found the inverted ruins, a blue sapphire and the shrine to "the Architect" (natural 20s). Planted a bean, got pink toads and two owlbears (8 beans left).
-  - Out-ranged Alaric's Fireball with a Distant Spell one. Bought three blunts from Greece.
+  - Out-ranged Alaric's Fireball with a Distant Spell one. Bought three blunts from Grease.
   - Muzzle recognized him and blamed him for his sister Zenina's death at the Luminox Convergence gala. Muzzle swung a bat.
 - **Session 53, What Is Left of You.** Pulled into the mindscape by force and punched back out by Bog. Finished the Mind trial last, guided by Wayne. Natural 20 on Investigation in the Soul chamber: his first inkling that the soul sphere is tied to the pale stones. **Became the blade.** His brand darkened.
 - **Session 54, The Heart of the Void.**

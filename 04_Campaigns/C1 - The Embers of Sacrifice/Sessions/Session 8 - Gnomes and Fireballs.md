@@ -52,12 +52,12 @@ tags:
   - **Chunks:** big for a gnome (about 4 feet), in scrappy plate.
   - **Dipple:** the beatboxer, Chunks's partner.
   - **Fizzle:** a twitchy woman.
-  - **Muzzle** and **Greece:** up front.
+  - **Muzzle** and **Grease:** up front.
 - Aalyn told them that wasn't real music. The exchange got personal, and his jabs led Chunks to call him a homophobe. Aalyn decided he wanted the wagon and challenged Chunks to a **rap battle** for it.
 - Bog, Aalyn, Wayne, Alaric and Bragthar all climbed in. Alaric's Mending restored the wagon, kicking on underglow lights and a bouncier suspension.
-- Greece sold Thimble three blunts of Glimmerstone "Hello Glint" for 27 gp (9 each), then quietly asked him to hang back at the front.
+- Grease sold Thimble three blunts of Glimmerstone "Hello Glint" for 27 gp (9 each), then quietly asked him to hang back at the front.
 - The battle: round one a wash (15 each). Round two to Aalyn (21 to 18). In round three Chunks rolled a natural 20 with a verse of pity for Aalyn; Aalyn's final verse (24) was punctuated by a Pocket Phoenix. **Tied.** It goes to sudden death next session.
-- Meanwhile Bog told Fizzle that Greece had been going through her bag, and the two of them hooked up under the wagon.
+- Meanwhile Bog told Fizzle that Grease had been going through her bag, and the two of them hooked up under the wagon.
 
 **Muzzle**
 - At the front, Muzzle recognized **Thimblewick Danglesworth** by his House Danglesworth robe. He grew up downwind of the uplifts in Glimmerstone. His grandmother kept a portrait of the Danglesworths over the sink, called them "the jewels of Glimmerstone," and said Thimble's father was the smartest man ever to step into the council hall.
