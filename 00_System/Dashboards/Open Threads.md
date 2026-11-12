@@ -109,9 +109,9 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] Alaric's letter to his parents (Session 22).
 - [ ] Bog and the dead maid (Session 22).
 - [ ] Session 23 has no transcript; fill in details from the video.
-- [ ] The prophecy in the solar refractory (Session 23).
-- [ ] The grimoire's other volumes (Session 23).
-- [ ] The dwarven smith Bog knows (Session 23).
+- [ ] Malrik's prophecy: darkness, rifts in the skies, demons from above and below (Session 23).
+- [ ] Malrik's grimoire is the introductory volume to the Godhand tomes (Session 23).
+- [ ] Doran, the dwarven smith Bog knows (Session 23).
 - [ ] The Wild Mother (Session 23).
 - [ ] The genie Aalyn named (Session 23).
 - [ ] Why the brands burned at midnight on the road (Session 24).

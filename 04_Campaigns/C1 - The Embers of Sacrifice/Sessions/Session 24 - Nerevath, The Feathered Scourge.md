@@ -62,14 +62,14 @@ tags:
 - Pebbles climbed out and ran ahead honking.
 - **Nerevath, the Feathered Scourge**, crashed down behind her: the giant goose that burst out of Wayne's bag in [[Session 7 - The Goose is Loose]]. Initiative.
   - Nerevath's honk blast hit Alaric for 16 force and knocked Aalyn and Wayne back 10 ft (5 each).
-  - **Nerevath scooped Pebbles into her mouth.**
-  - Aalyn put **Hexblade's Curse** on her (a black-and-orange half note appeared on her neck, and her honk dropped an octave) and missed with two *Eldritch Blasts*.
+  - **Nerevath scooped Pebbles into his mouth.**
+  - Aalyn put **Hexblade's Curse** on him (a black-and-orange half note appeared on his neck, and his honk dropped an octave) and missed with two *Eldritch Blasts*.
   - Wayne cloud jaunted up, held out rations and said, "You came back to me, my goose." **Natural 20 Animal Handling.**
-  - Nerevath coiled her neck around him, opened her mouth, and **traded Pebbles for five rations.** The rations held pear slices, which resonate with her origin.
+  - Nerevath coiled his neck around Wayne, opened his mouth, and **traded Pebbles for five rations.** The rations held pear slices, which resonate with his origin.
 - **Nerevath flew off in the direction of Hollowmere.** The combat ended.
 
 **After the session**
-- The DM had planned a Pebbles kidnapping arc, which the natural 20 skipped. "That's not the last time we're seeing her."
+- The DM had planned a Pebbles kidnapping arc, which the natural 20 skipped. The party hasn't seen the last of Nerevath.
 - Nerevath has a full stat block.
 
 > [!secret] Links to later lore

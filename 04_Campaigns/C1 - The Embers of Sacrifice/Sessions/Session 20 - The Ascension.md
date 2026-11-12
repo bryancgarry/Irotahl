@@ -91,6 +91,7 @@ tags:
 > [!secret] Links to later lore
 > revealed:: false
 > The Bridge King's ascension is the Fifth [[Moon Darkenings|Moon Darkening]]. He becomes [[Graz'zt]], completing [[The Godhand]].
+> The ritual was Malrik's. Tula placing the Ember inside the Bridge King was its final piece.
 
 > [!warning] Changes that affect Session 21
 > - The former Bridge King has just risen as a demon lord in the lower chamber. Wayne, Bog, Alaric and Thimble are there with Tula. Aalyn is tying up the unconscious Malrik in the chained chamber.

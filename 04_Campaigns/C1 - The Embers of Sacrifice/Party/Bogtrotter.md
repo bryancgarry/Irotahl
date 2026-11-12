@@ -69,7 +69,7 @@ Bogtrotter is the only member of the party **not** branded. The Reliquary's bran
   - Saw Aalyn's patron's true form (natural 20). Baphomet wants to know who made a dragonborn.
   - Freed a man from under a burning beam.
 - **Session 22, A Long Night Ends.** Stopped the looters with a lightning breath warning shot (natural 20). Spent the night in a keep bedroom with the dead maid. Got the ring of jumping (tabled).
-- **Session 23, Magic and Religion.** *(From the recap only.)* Knows of a dwarven smith who makes armor like Tiberius's.
+- **Session 23, Magic and Religion.** *(From the recap only.)* Knows of a dwarven smith, Doran, who makes armor like Tiberius's.
 - **Session 24, Nerevath, The Feathered Scourge.** Spat beer at Commander Seth and stole his beer geyser. Got Alaric's 60 ft of rope.
 - **Session 25, Boobs and Bodies.** Snorted Oak Greens. Stripped for the bandits' pat-down. Breathed lightning on both captains and punched one to death.
 - **Session 53, What Is Left of You.** Punched the needle out of Thimble's head, guided Aalyn through the mindscape, threw a pebble at Alaric (the start of the beef), and ate the watermelon. Found he could stand on the void. Held on through the Soul trial.

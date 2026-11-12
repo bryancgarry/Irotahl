@@ -35,6 +35,7 @@ During [[The Sundering of Planes]], an ancient elven archmage of [[Arborea]] set
 
 ## The Introductory Volume
 A small volume, loosely modeled on the Tome of Zyx, started the party's journey. Its author is not yet settled.
+- In [[Session 23 - Magic and Religion]] Thimble partly read it through the Volkarr mask. It was Malrik's Abyssal grimoire.
 
 > [!secret] The Tome of Malcanthet
 > revealed:: false
