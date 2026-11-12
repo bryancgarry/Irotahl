@@ -94,6 +94,9 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
   - Channeled the ley lines into a doubled *Shatter* that broke the domain open. Enjoyed the power: "I like that power. We should look for some more."
   - A wild magic surge is pending.
 - **Session 22, A Long Night Ends.** Found a ring of feather falling and turned into a potted plant for the third time. Helped name Pebbles. Explained the Bronzebottoms and aetherstone. The mask is stuck on his face.
+- **Session 23, Magic and Religion.** *(From the recap only.)* The mask was pried off. Unlocked part of Malrik's grimoire.
+- **Session 24, Nerevath, The Feathered Scourge.** Bought Oak Greens. Natural 20 Intimidation with a handheld fireball: Bob soiled himself.
+- **Session 25, Boobs and Bodies.** Skated on Rec. Remembers school 250 years ago. His Oak Greens make his magic mark targets. Shattered the guard post's overpass with two bandits on it.
 - **Session 53, What Is Left of You.** Pulled into the mindscape by force and punched back out by Bog. Finished the Mind trial last, guided by Wayne. Natural 20 on Investigation in the Soul chamber: his first inkling that the soul sphere is tied to the pale stones. **Became the blade.** His brand darkened.
 - **Session 54, The Heart of the Void.**
   - Cold open: the gallery memory, the slap, and the memory he refused to let go of.

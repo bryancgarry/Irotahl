@@ -11,6 +11,10 @@ tags: [adventure]
 ## Premise
 The party's current arc, in the city of mists and the ruins beneath it.
 
+## The Road to Hollowmere
+- [[Session 24 - Nerevath, The Feathered Scourge]]
+- [[Session 25 - Boobs and Bodies]]
+
 ## Threads
 - **The city.** V's Lounge, the Temple of 1000 Candles, the Cult of the Dark Moon, the missing patrons, and Vaelindra's egg. See [[Hollowmere]].
 - **[[Durnhollow]].** The three-layer megadungeon beneath the city. The party needs an air compression device for airship repair.

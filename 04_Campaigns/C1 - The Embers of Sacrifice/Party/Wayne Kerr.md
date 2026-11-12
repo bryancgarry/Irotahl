@@ -263,6 +263,8 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 20, The Ascension.** Destroyed the last golem. Tried to grapple Malrik, then cloud jaunted after Tula and touched the gemstone with his fingertips, but couldn't take it. Thrown back by a wall of force when he tried to cut it out of the Bridge King.
 - **Session 21, The Godhand.** Called Tiberius on the sending stone. The woman who turned him to stone called him "my hollow vessel." Linked minds with Tiberius and heard screams that weren't his. Threw Aalyn through the rift.
 - **Session 22, A Long Night Ends.** **His egg hatched: Pebbles,** a female stone goose dragon. Got the ring of water walking. Malrik's charts mark another gemstone between Midland and Syfaeril.
+- **Session 24, Nerevath, The Feathered Scourge.** Learning to count. Pebbles pooped a gold coin. **Natural 20 Animal Handling: traded rations to Nerevath for Pebbles.**
+- **Session 25, Boobs and Bodies.** Remembers being 25; doesn't know how long he was stone. Heard the bandits plotting in thieves' cant, stole potatoes, and boomratted the overpass from inside a tower.
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **The salamanders.** Claimed the title Kyn'Ruthar to them. The fire sages traced Nerevath's silhouette into his stone.
 - **Session 52, The Hollow Reliquary.**

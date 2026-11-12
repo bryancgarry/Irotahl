@@ -108,6 +108,18 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] The Bloodlancer army at Oakhollow; stay or leave (Session 22).
 - [ ] Alaric's letter to his parents (Session 22).
 - [ ] Bog and the dead maid (Session 22).
+- [ ] Session 23 has no transcript; fill in details from the video.
+- [ ] The prophecy in the solar refractory (Session 23).
+- [ ] The grimoire's other volumes (Session 23).
+- [ ] The dwarven smith Bog knows (Session 23).
+- [ ] The Wild Mother (Session 23).
+- [ ] The genie Aalyn named (Session 23).
+- [ ] Why the brands burned at midnight on the road (Session 24).
+- [ ] Nerevath, flying toward Hollowmere (Session 24).
+- [ ] Pebbles turning copper into gold (Session 24).
+- [ ] The Fenwyns' Tylenol (Session 25).
+- [ ] Oak Greens and their marking effect (Session 25).
+- [ ] The bandit guard post: the Deceiver's wolves and the bandits in the tower (Session 25).
 
 ## Setting
 - [ ] Hollowmere's and Vermillion Bay's exact place on the map.

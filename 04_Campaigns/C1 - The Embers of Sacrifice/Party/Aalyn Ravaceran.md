@@ -294,6 +294,9 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
   - Found Rosalie dead. Told Ino Silvertone's mother he's glad he put a dagger through her son's hand.
   - Told Tiberius what happened. Said goodbye to Rosalie: "I did love you."
   - Sang the city through the night at the triage stations. On the spire: "Compassion may be a weapon, but it's the only thing that keeps me going."
+- **Session 23, Magic and Religion.** *(From the recap only.)* Got his lute back from the music shop for free. Asked two priests at a temple about the brand and heard only of the Wild Mother. Forged an evacuation order from Prince Darken.
+- **Session 24, Nerevath, The Feathered Scourge.** Warned Bob the guard. Taught Alaric to make ramen. Cursed Nerevath with Hexblade's Curse.
+- **Session 25, Boobs and Bodies.** Spotted the bandits' illusions and warned Alaric. Shrugged off *Hold Person*. Hit the Deceiver with *Toll the Dead* and the captain with *Unsettling Words*.
 - **Hollowmere.** *(To fill in from earlier sessions: Talia and the rest.)*
 - **Session 52, The Hollow Reliquary.** Entered the Reliquary with [[King Atul Stonemarch|Atul]].
 - **Session 53, What Is Left of You.**

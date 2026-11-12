@@ -38,3 +38,4 @@ Everything after the party returned to [[Oakhollow]] from the stone trees. Princ
 - [[Session 20 - The Ascension]]
 - [[Session 21 - The Godhand]]
 - [[Session 22 - A Long Night Ends]]
+- [[Session 23 - Magic and Religion]]

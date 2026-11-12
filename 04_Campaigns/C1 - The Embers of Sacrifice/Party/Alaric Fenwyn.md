@@ -164,6 +164,9 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
   - First *Summon Beast* and *Summon Fey*. His fey killed a looting maid. Returned the keep's loot to its vault with *Tenser's Floating Disc*. Chased Mibo off a dropped bag.
   - Went through Malrik's bag: refractory schematics, the Bronzebottom order and a rune of recall, which he kept. Wrote to his parents.
   - Summoned Rec, a living demiplane. His augury showed blood and a rainbow leading away.
+- **Session 23, Magic and Religion.** *(From the recap only.)* Repaired the solar refractory with Malrik's blueprints and saw his prophecy. Couldn't read the grimoire through the mask.
+- **Session 24, Nerevath, The Feathered Scourge.** Sold two bloodstones (300 gp), enchanted Pebbles' bell, started teaching Wayne to count. Rides a ritual *Phantom Steed*. Led the party into the woods. Took Nerevath's honk blast.
+- **Session 25, Boobs and Bodies.** Graduated college at 13. The Fenwyns helped develop the world's Tylenol. Snared upside down by bandits, he laughed and fireballed them for 39.
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **Session 53, What Is Left of You.**
   - Revealed his own path through the mindscape on a 28 and finished second, then guided Bog home with nothing but gestures.
