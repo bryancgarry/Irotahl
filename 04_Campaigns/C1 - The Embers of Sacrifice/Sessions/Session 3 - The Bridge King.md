@@ -11,7 +11,7 @@ tags:
 ---
 # Session 3: The Bridge King
 
-**Party:** [[Aalyn Ravaceran|Aalyn]], [[Alaric Fenwyn|Alaric]], [[Bogtrotter]], [[Thimblewick Danglesworth|Thimble]], [[Wayne Kerr|Wayne]]
+**Party:** Level 4 ([[Aalyn Ravaceran|Aalyn]], [[Alaric Fenwyn|Alaric]], [[Bogtrotter]], [[Thimblewick Danglesworth|Thimble]], [[Wayne Kerr|Wayne]])
 **Ref:** [[Oakhollow]], [[The Tall Oak Forest]], [[Graz'zt]] (the Bridge King), [[Bragthar]], [[Malrik Greene]]
 
 > [!important] Played: "The Bridge King" (Episode 3)
@@ -24,7 +24,7 @@ tags:
 
 **Leaving Oakhollow**
 - Alaric's brand, on his elbow, tingled in Oakhollow, and he heard a faint echo of the Baron's roar. He kept it to himself.
-- Darkstone guards in black and gray held the south gate, brought in by Sir Romulus.
+- Darkstone guards in black and gray held the south gate, brought in by Sir Romulus Darken, Prince of Darkstone and Rosalie's betrothed.
 - Wayne showed his wedding invitation, table number and all, and rolled a natural 1 on Persuasion.
 - Aalyn invoked Princess Rosalie (18). The guards said Rosalie's orders and Romulus's orders conflicted.
 - Under cover of Alaric's Minor Illusion, Thimble forged a royal decree from Romulus in Aalyn's name (natural 20 on Sleight of Hand, 25 total). The guards let them through.

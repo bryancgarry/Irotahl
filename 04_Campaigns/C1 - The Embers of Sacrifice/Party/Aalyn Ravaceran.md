@@ -137,7 +137,7 @@ tags: [pc]
 - **The night in the woods.** Under the tree he and Sumina used to sit beneath, in falling snow, he thought about staying there to freeze. Then he heard her voice: make the world better, and she could come back to him, forever. He promised to bring her back no matter the cost. That's all he remembers.
 - He wandered and played for years, always feeling watched or followed. In the town of **Silverwind** he met **Rosalie**, Princess of [[Oakhollow]] and daughter of [[Baron Fern]], who gave him her heirloom winged boots. He ran away from her.
 - In Oakhollow he crossed paths with **Ino Silvertone**, a rival bard he has beef with.
-- He came back for her wedding to **Prince Darkin of Darkstone**, met the party there, and got branded when Fern turned. Rosalie was stabbed during the attack and did not survive.
+- He came back for her wedding to **Sir Romulus Darken, Prince of Darkstone** (Prince Darkin), met the party there, and got branded when Fern turned. Rosalie was stabbed during the attack and did not survive.
 - His ex, [[Talia]], works at V's Lounge in Hollowmere.
 - In the void beneath the Reliquary, he heard **Sumina's song** and saw her soul before Lolth erupted from a nest of webs, hissed "*Insolent child*," and dragged her back.
 
@@ -186,7 +186,7 @@ tags: [pc]
 - **The night he can't remember.** The winter tree, the rope, and the thread. Revealing the true terms of his contract.
 - **Bring Sumina back.** Where Lolth keeps her, and learning she is [[Verenestra]]. Through her, the old feud between Lolth and the fey (Titania's court) catches him in the middle.
 - **His mother.** Alive, her voice damaged by what he did. A future arc, and the question of where her songs really came from.
-- **Oakhollow and Darkin.** What became of Oakhollow after Rosalie's death.
+- **Oakhollow and Romulus Darken.** What became of Oakhollow after Rosalie's death.
 - **Ino Silvertone.** His rival bard from Oakhollow.
 
 ### Weapons, Armor, and Items
@@ -206,7 +206,7 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - Bring Sumina back. Where is Lolth keeping her?
 - What his pact really cost, and the night he can't remember.
 - His mother, and the home he fled.
-- What becomes of Oakhollow and Darkin after Rosalie's death.
+- What becomes of Oakhollow and Romulus Darken after Rosalie's death.
 - His rivalry with Ino Silvertone.
 
 ## Notable Items
@@ -239,7 +239,7 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 4, Mushrooms & Trees.** Bottled mushroom water. The pool gave him Shroomly, a mimic mushroom, which he fed to Bragthar. Charmed the Bloodlancer scout "Geralt," then stabbed him. Healed Bragthar through the Tree Blight fight.
 - **Session 5, Bluelock and Bloodlancers.**
   - Grabbed Thimble by the throat over the necklace.
-  - On dawn watch, a figure appeared: the one from his nightmare, or the princess. He plucked a string of light from it, now a golden string on his lute (+2 healing). Wrote the mushroom grove song and gave heroic inspiration to Bog and Alaric.
+  - On dawn watch, a figure appeared: the one from his nightmare, or the princess. He plucked a string of light from it, now a golden string on his lute (+1 per healing die). The vision came from Lolth and Sumina. Wrote the mushroom grove song and gave heroic inspiration to Bog and Alaric.
   - At the camp: card trick into Spray of Cards, flew above the fight, and healed Wayne twice with Healing Word, the second time bringing him back up.
 - **Hollowmere.** *(To fill in from earlier sessions: Talia and the rest.)*
 - **Session 52, The Hollow Reliquary.** Entered the Reliquary with [[King Atul Stonemarch|Atul]].

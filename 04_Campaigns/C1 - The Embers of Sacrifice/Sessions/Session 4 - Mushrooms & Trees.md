@@ -11,7 +11,7 @@ tags:
 ---
 # Session 4: Mushrooms & Trees
 
-**Party:** [[Aalyn Ravaceran|Aalyn]], [[Alaric Fenwyn|Alaric]], [[Bogtrotter]], [[Thimblewick Danglesworth|Thimble]], [[Wayne Kerr|Wayne]]
+**Party:** Level 4 ([[Aalyn Ravaceran|Aalyn]], [[Alaric Fenwyn|Alaric]], [[Bogtrotter]], [[Thimblewick Danglesworth|Thimble]], [[Wayne Kerr|Wayne]])
 **Ref:** [[Session 3 - The Bridge King]], [[The Tall Oak Forest]], [[Bragthar]], [[Papa Glabb]], [[Lithoweaves]]
 
 > [!important] Played: "Mushrooms & Trees" (Episode 4)

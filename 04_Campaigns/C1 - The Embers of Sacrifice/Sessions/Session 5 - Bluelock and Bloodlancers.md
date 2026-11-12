@@ -11,8 +11,8 @@ tags:
 ---
 # Session 5: Bluelock and Bloodlancers
 
-**Party:** [[Aalyn Ravaceran|Aalyn]], [[Alaric Fenwyn|Alaric]], [[Bogtrotter]], [[Thimblewick Danglesworth|Thimble]], [[Wayne Kerr|Wayne]]
-**Ref:** [[Session 4 - Mushrooms & Trees]], [[The Tall Oak Forest]], [[Bragthar]], [[Lithoweaves]]
+**Party:** Level 4 ([[Aalyn Ravaceran|Aalyn]], [[Alaric Fenwyn|Alaric]], [[Bogtrotter]], [[Thimblewick Danglesworth|Thimble]], [[Wayne Kerr|Wayne]])
+**Ref:** [[Session 4 - Mushrooms & Trees]], [[The Tall Oak Forest]], [[Bragthar]], [[Lithoweaves]], [[Lolth]]
 
 > [!important] Played: "Bluelock and Bloodlancers" (Episode 5)
 > [Watch on YouTube](https://www.youtube.com/watch?v=chsiG9CE7JM). The tree's core went into Wayne, Aalyn had a vision on watch, and the party took the Bloodlancer camp the hard way. The session ended before the camp was looted.
@@ -28,12 +28,17 @@ tags:
 - **Wayne's vision.** The black goo went into Wayne through his brand, and he blacked out. He saw what played as a flashback: a ball game across floating rock islands, Blue Lock style. He teleported between islands, passed, vaulted off the last defender's shoulders, and scored with a scissor kick (19). He seemed to know the people there.
 - He woke on the ground holding a gemstone with a symbol floating in it. The tree now looks exactly like Wayne's own stone. Aalyn: "Whatever you do, don't give that back to Thimblewick."
 - Wayne pulled on the tree where his stone had gone in, testing how durable it is.
-- Wayne's goose came out of the bag. Thimble fed it one of his magic mushrooms, and they checked whether it was branded.
+- The goose came out of the bag: Salvatore Pearcetti, who laid the egg Pebbles hatched from (see [[Wayne Kerr]]). Thimble fed it one of his magic mushrooms, and they checked whether it was branded.
 - They took a chip of the tree as a "receipt." Alaric flew up and saw no other stone trees nearby.
 
 **The night**
 - Camp by the pond. Bog slept on a rock. Aalyn took the last watch.
 - **Aalyn's vision.** At dawn, writing a song on the rock with his lute, a figure appeared. He asked whether it was the figure from his nightmare or the princess. He wept: "Why must you give me impossible choices?" He reached out and plucked a string of light from it, which became a **golden string** on his lute. As the figure faded he begged it not to leave again, and fell off the rock.
+
+> [!secret] Aalyn's vision
+> revealed:: false
+> The vision came from [[Lolth]] and Sumina.
+
 - In the morning he played a new song about the mushroom grove and gave heroic inspiration to Bog and Alaric (Encouraging Song, from his Entertainer feat). Wayne felt no different. Aalyn snapped at Thimble again.
 
 **Morning**
@@ -69,7 +74,7 @@ tags:
 - Heroic inspiration (Encouraging Song): after a short or long rest, Aalyn can give it to up to two allies who hear him play, and he can count himself. It lasts until used.
 - Aalyn is flavored as a half-elf. He ignores Trance and needs a full night's sleep.
 - Thimble has two luck points a day.
-- Aalyn's golden string adds +2 to his healing.
+- Aalyn's golden string adds +1 to each healing die he rolls.
 
 > [!warning] Changes that affect Session 6
 > - Loot from the commander's tent and the camp hasn't been resolved.
@@ -78,5 +83,4 @@ tags:
 
 > [!warning] Open from Session 5
 > - What Wayne's vision was: whose game, where, and whether it is his own memory. What the symbol in the gemstone means.
-> - Who the figure in Aalyn's vision was, and what the golden string does beyond healing.
 > - Whether the goose is affected by the mushroom.

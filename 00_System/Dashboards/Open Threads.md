@@ -42,7 +42,6 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] The mushroom "housekeepers" and the fungal network (Session 4).
 - [ ] The black ichor and wagon grooves on the forest road (Session 4).
 - [ ] Wayne's vision when the stone tree's core went into him, and the symbol in his gemstone (Session 5).
-- [ ] The figure in Aalyn's dawn vision, and his golden string (Session 5).
 - [ ] The Bloodlancer camp: the man in black robes, his note, the goblin in the crate, the commander's tent, and the three patrol pairs still out (Session 5).
 
 ## Setting
