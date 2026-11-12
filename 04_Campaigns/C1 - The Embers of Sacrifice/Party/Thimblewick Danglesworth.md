@@ -48,6 +48,7 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 
 ## Notable Items
 - **The Tome of Malcanthet.**
+- **Air elemental gem.** The blue sapphire from the Session 8 shrine. One use: break it to summon an air elemental (Session 28).
 - **The Vistro seal.** A crimson summoning tattoo of the Vistro family on his palm. Summons a vestige of King Vistro. A 50 gp "dap" with Wayne summons a hybrid.
 
 ## Wild Magic: the Chaos Die
@@ -97,6 +98,9 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 23, Magic and Religion.** *(From the recap only.)* The mask was pried off. Unlocked part of Malrik's grimoire.
 - **Session 24, Nerevath, The Feathered Scourge.** Bought Oak Greens. Natural 20 Intimidation with a handheld fireball: Bob soiled himself.
 - **Session 25, Boobs and Bodies.** Skated on Rec. Remembers school 250 years ago. His Oak Greens make his magic mark targets. Shattered the guard post's overpass with two bandits on it.
+- **Session 26, The Straight Arrow.** *Lightning Bolt* killed two bandits. Planted a bean at the guard post (shrieking mushrooms). Low on gold: his savings are locked up at home. Played war gong for the heist and got lucky in the alley. Dreamed of his **two brothers** and going home to Glimmerstone. Planted another bean: the pyramid. Four beans left.
+- **Session 27, The Pyramid.** Sensed no malice in the sundial room. Walked the wrong serpent path. Grappled by a constrictor; *Thunderwave* and *Dissonant Whispers*. Swapped his 4th-level feat to **Fey Touched**. Found a rusted iron dagger in a snake.
+- **Session 28, Emperor Hawk Tuah and The Goon Generals.** Taken for "the bean god." Fireballed Sokatoa to ash; wild magic made him throw up four frogs. **Cursed** by the mummy's fist until he long rested. Learned stepping into Rec would destroy him. Wild magic teleported him to the entrance. Found a potion of fire breath, a potion of greater healing and 100 gp. **His blue sapphire is an air elemental gem.** Smitten with the rider.
 - **Session 53, What Is Left of You.** Pulled into the mindscape by force and punched back out by Bog. Finished the Mind trial last, guided by Wayne. Natural 20 on Investigation in the Soul chamber: his first inkling that the soul sphere is tied to the pale stones. **Became the blade.** His brand darkened.
 - **Session 54, The Heart of the Void.**
   - Cold open: the gallery memory, the slap, and the memory he refused to let go of.

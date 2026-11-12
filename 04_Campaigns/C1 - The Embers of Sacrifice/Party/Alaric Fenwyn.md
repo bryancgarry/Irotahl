@@ -167,6 +167,9 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 23, Magic and Religion.** *(From the recap only.)* Repaired the solar refractory with Malrik's blueprints and saw his prophecy. Couldn't read the grimoire through the mask.
 - **Session 24, Nerevath, The Feathered Scourge.** Sold two bloodstones (300 gp), enchanted Pebbles' bell, started teaching Wayne to count. Rides a ritual *Phantom Steed*. Led the party into the woods. Took Nerevath's honk blast.
 - **Session 25, Boobs and Bodies.** Graduated college at 13. The Fenwyns helped develop the world's Tylenol. Snared upside down by bandits, he laughed and fireballed them for 39.
+- **Session 26, The Straight Arrow.** Fireballed the Deceiver's wolves from the snare. Was in the bath during the heist. His brother **Fenril** came up in the recap.
+- **Session 27, The Pyramid.** Remembered a laser-and-mirrors board game from his youth among the high elves. Overfilled the scale with *Shape Water*, then leveled it. Solved the chime acrostic ("Golden cinders guide brave souls west"). Cast *Fly* on Aalyn.
+- **Session 28, Emperor Hawk Tuah and The Goon Generals.** Illusory blanket for the lullaby. *Rageful Nimbus* on Thimble, and a *Fire Bolt* Sokatoa blamed on Thimble. *Summon Beast* (a shadow wolf). Hid in *Rope Trick* with Thimble. Found a wand of magic missiles and 150 gp, and lent it to Wayne. Now teaching Wayne magic. Saw the grove four times and said so.
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **Session 53, What Is Left of You.**
   - Revealed his own path through the mindscape on a 28 and finished second, then guided Bog home with nothing but gestures.

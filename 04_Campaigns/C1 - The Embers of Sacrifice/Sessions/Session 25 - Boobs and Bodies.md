@@ -27,6 +27,7 @@ tags:
 - **Rec as a skateboard.** For overland travel, Thimble can ride Rec like a skateboard (no flying). His first ollie was scrappy but counts (Acrobatics 13).
 - **School days** (a DM travel question, d100).
   - **Alaric's greatest achievement:** he graduated college at 13. The **Fenwyns helped develop the world's version of Tylenol**, testing it on him. Canon. The DM says it may prove crucial.
+  - Alaric has a brother, [[Fenril Fenwyn|Fenril]] (named in the Session 26 recap).
   - Alaric is about 22, young for an elf. For Thimble, school was about 250 years ago, and he remembers "a lot more candles back then."
   - Wayne remembers being 25. He doesn't know how long he was stone, or whether he ages. He told the others the woman in the demon realm turned him to stone. Wayne and Thimble have traveled together two or three years.
   - Thimble conjured a small fireball display without spending a slot (Arcana 16 at disadvantage). Alaric shaped it into a little flame Thimble.

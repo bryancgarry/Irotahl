@@ -14,6 +14,9 @@ The party's current arc, in the city of mists and the ruins beneath it.
 ## The Road to Hollowmere
 - [[Session 24 - Nerevath, The Feathered Scourge]]
 - [[Session 25 - Boobs and Bodies]]
+- [[Session 26 - The Straight Arrow]]
+- [[Session 27 - The Pyramid]]
+- [[Session 28 - Emperor Hawk Tuah and The Goon Generals]]
 
 ## Threads
 - **The city.** V's Lounge, the Temple of 1000 Candles, the Cult of the Dark Moon, the missing patrons, and Vaelindra's egg. See [[Hollowmere]].

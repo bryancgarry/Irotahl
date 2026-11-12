@@ -297,6 +297,12 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 23, Magic and Religion.** *(From the recap only.)* Got his lute back from the music shop for free. Asked two priests at a temple about the brand and heard only of the Wild Mother. Forged an evacuation order from Prince Darken.
 - **Session 24, Nerevath, The Feathered Scourge.** Warned Bob the guard. Taught Alaric to make ramen. Cursed Nerevath with Hexblade's Curse.
 - **Session 25, Boobs and Bodies.** Spotted the bandits' illusions and warned Alaric. Shrugged off *Hold Person*. Hit the Deceiver with *Toll the Dead* and the captain with *Unsettling Words*.
+- **Session 26, The Straight Arrow.** Triple crit killed a bandit captain. Intimidated the Deceiver into stripping, then blasted him. Found 150 gp in the keep. Stayed out of the Broken Arrow heist. Healed Kalisar ("Elmo"), but his *Cure Wounds* couldn't hold Kalisar's mother.
+  - **Called Lolth by name.** She called him her needle. He offered his cooperation for a breadcrumb trail. Her hint: it's the sickness that took his love.
+  - Gave Kalisar 20 gold and left him a note: look for the bard with the bright orange hair.
+- **Session 27, The Pyramid.** Moved the mirrors and turned the sundial. His *Unseen Servant* pulled the sand-trap lever and was buried. Flew (Alaric's *Fly*) to hold the snake hatches shut. Natural 20 initiative against the snakes; Bardic Inspiration to Thimble.
+- **Session 28, Emperor Hawk Tuah and The Goon Generals.** Sang the mummy's lullaby. Hexed and blasted the generals ("I goon with my left hand") and talked Sokatoa into wanting to die (Persuasion 28). Found a wand of conducting and 100 gp. Healed Wayne for 29.
+  - Led the party across the plains. Noticed the burning grove gives off no smoke and couldn't say it. Recognized the same two oak trees on night two and asked Alaric for a map.
 - **Hollowmere.** *(To fill in from earlier sessions: Talia and the rest.)*
 - **Session 52, The Hollow Reliquary.** Entered the Reliquary with [[King Atul Stonemarch|Atul]].
 - **Session 53, What Is Left of You.**

@@ -170,7 +170,8 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Psionic Jade Daggers.** Rare. Jade daggers that replace his Psychic Blades, physical or psychic. +1, psychic or piercing, with Finesse, Thrown, Vex, Nick and Light. Once per short rest, *Overload* (DC 15 Intelligence save or 2d10 psychic and stunned).
 - **Silver Wings of Nerevath (tattoo).** Rare, attuned. Traced into his stone in molten silver by the fire sages. Summons the Vestige of Nerevath once per day. **Kindred Flame:** a 50 gp "dap" with Thimble's Vistro's Seal fuses both tattoos. The result is "yet to be fully realized."
 - **The Rat Lord's Hat.** Uncommon. From Tuggknuckle the First, self-proclaimed Rat Lord of the Oakhollow sewers. *Speak with Animals* once per day and 3 rat charges (BoomRat, FlashRat, StinkRat, GoldRat, VoidRat). **Rat Cannon:** team-up with Bog's Rat Lord's Skullcup.
-- **Sun Blade.** Rare.
+- **Sun Blade.** Rare. From Sokatoa's sarcophagus (Session 28).
+- **Air elemental gem.** A blue sapphire, from the sarcophagus's forehead. One use.
 - Cloak of Protection, Blowgun of Warning (with Walloping needles), Gloves of Thievery, Goggles of Night, Periapt of Health, Ring of Water Walking, Wand of the War Mage +1, two +1 darts, Dust of Disappearance.
 - **Egg care for Pebbles:** Humidifier Orb, Egg Shelter Charm, Incubation Rod.
 - **Symbol of the Off-Branded Misfits.**
@@ -265,6 +266,9 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 22, A Long Night Ends.** **His egg hatched: Pebbles,** a female stone goose dragon. Got the ring of water walking. Malrik's charts mark another gemstone between Midland and Syfaeril.
 - **Session 24, Nerevath, The Feathered Scourge.** Learning to count. Pebbles pooped a gold coin. **Natural 20 Animal Handling: traded rations to Nerevath for Pebbles.**
 - **Session 25, Boobs and Bodies.** Remembers being 25; doesn't know how long he was stone. Heard the bandits plotting in thieves' cant, stole potatoes, and boomratted the overpass from inside a tower.
+- **Session 26, The Straight Arrow.** Killed two bandits with his jade daggers. **Natural 20: found gloves of thievery** in the bandit kitchen. Drew his master's "already looted" sign. Gave Thimble 43 gp. Played bagpipes for the Broken Arrow heist, and paid exactly 10 gold for Thimble's alley.
+- **Session 27, The Pyramid.** A run of natural 20s. Pulled **two explosive seeds** out of the traps, with Rec's help on the second. Ran the blue serpent path and pulled the last lever. Killed a constrictor.
+- **Session 28, Emperor Hawk Tuah and The Goon Generals.** Fired the rat cannon from Bog. His psionic stun on Sokatoa blew up the blue general. Hid flat on the floor. **Natural 20 loot:** 350 gp, a periapt of health, a +1 wand of the war mage, dust of disappearance, an **air elemental gem**, and a **Sun Blade**. Fired a magic missile from Alaric's wand. **Pebbles' first honk.** Saw the grove 60 feet behind them.
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **The salamanders.** Claimed the title Kyn'Ruthar to them. The fire sages traced Nerevath's silhouette into his stone.
 - **Session 52, The Hollow Reliquary.**

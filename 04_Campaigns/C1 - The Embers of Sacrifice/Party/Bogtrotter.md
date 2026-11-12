@@ -30,6 +30,7 @@ Bogtrotter is the only member of the party **not** branded. The Reliquary's bran
 ## Notable Items
 - **Ring of Jumping.** Casts *jump*.
 - **Rat Lord's Skullcup.** Team-up with Wayne's Rat Lord's Hat for the Rat Cannon.
+- **+1 Wraps of Unarmed Power.** Sokatoa's bandages, which coiled around his forearms (Session 28).
 
 ## Campaign Log
 - **Session 3, The Bridge King.** Leveled up, with Savage Attacker on unarmed strikes. Guessed "hands," then "fire." Lightning breath and a Flurry of "purple nurples." Found a copper piece in his belly button. Took the Bridge King's Scepter.
@@ -72,6 +73,9 @@ Bogtrotter is the only member of the party **not** branded. The Reliquary's bran
 - **Session 23, Magic and Religion.** *(From the recap only.)* Knows of a dwarven smith, Doran, who makes armor like Tiberius's.
 - **Session 24, Nerevath, The Feathered Scourge.** Spat beer at Commander Seth and stole his beer geyser. Got Alaric's 60 ft of rope.
 - **Session 25, Boobs and Bodies.** Snorted Oak Greens. Stripped for the bandits' pat-down. Breathed lightning on both captains and punched one to death.
+- **Session 26, The Straight Arrow.** Took the dead captain's eyeballs (three now) and strung them on twine. Gained poison resistance from the bandit's roast beef sandwich. Called out Kalisar mid-heist. Wingman for Thimble.
+- **Session 27, The Pyramid.** Drank beer on the sundial. Shrugged off the poison gas door and tripped the buzz saws. Twisted two venomous snakes in half and saved them in his waistband. Deflected a constrictor and punched his way out through another's mouth.
+- **Session 28, Emperor Hawk Tuah and The Goon Generals.** Refused to sing. Rat cannon with Wayne. Shattered the purple general. Crit table 55 (33 damage) tore off Sokatoa's bandages, which became his **+1 wraps of unarmed power**. Skullcup Strike killed the red general and slapped Sokatoa's head off (about 61 damage that turn).
 - **Session 53, What Is Left of You.** Punched the needle out of Thimble's head, guided Aalyn through the mindscape, threw a pebble at Alaric (the start of the beef), and ate the watermelon. Found he could stand on the void. Held on through the Soul trial.
 - **Session 54, The Heart of the Void.** *(Gabe absent. The DM ran Bog.)*
   - Jumped onto the central platform with his Ring of Jumping and breathed lightning. His surge (92) added 18 lightning damage.

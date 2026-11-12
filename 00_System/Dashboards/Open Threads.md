@@ -49,7 +49,7 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] The goblin with the sack of loot by the stream, a day toward Oakhollow (Session 6).
 - [ ] Who took the mask from the Godspire race shrine; the Draconic mural; the bronze dragon in the obelisk (Session 6).
 - [ ] What Wayne and Alaric gave up to the lithoweave's core, the snake-haired eyes on Wayne, and the d12 roll (Session 7).
-- [ ] "Trust in the design," the inverted ruins, the Architect and the four missing figures, and the blue sapphire (Session 8).
+- [ ] "Trust in the design," the inverted ruins, the Architect and the four missing figures, and the blue sapphire (Session 8; an air elemental gem, Session 28).
 - [ ] Zenina and the Luminox Convergence gala, part of Thimble's backstory still to be written (Session 8).
 - [ ] Where the giant goose went (Session 7).
 - [ ] The black-robed man with a hobble who sent Muzzle's gnomes after Thimble (Session 9).
@@ -119,7 +119,13 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] Pebbles turning copper into gold (Session 24).
 - [ ] The Fenwyns' Tylenol (Session 25).
 - [ ] Oak Greens and their marking effect (Session 25).
-- [ ] The bandit guard post: the Deceiver's wolves and the bandits in the tower (Session 25).
+- [x] The bandit guard post: the Deceiver's wolves and the bandits in the tower (Session 25; ended Session 26).
+- [ ] The candle patch on a guard-post bandit (Session 26).
+- [ ] Kalisar's mother: the sickness that killed Sumina (Session 26).
+- [ ] Thimble's two brothers and his return to Glimmerstone (Session 26).
+- [ ] Sokatoa's pyramid and the rusted iron dagger (Sessions 27-28).
+- [ ] The burning grove that follows the party (Session 28).
+- [ ] The three silver-armored riders on the trail (Session 28).
 
 ## Setting
 - [ ] Hollowmere's and Vermillion Bay's exact place on the map.
