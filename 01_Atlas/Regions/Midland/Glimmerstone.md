@@ -41,3 +41,6 @@ The next major arc of the campaign takes place here. When the party arrives, the
 
 > [!info] DM Note
 > Open: how Thimble's father, the revolution, the World Games, and the Luminarch's event connect.
+
+## Played
+- **The Bronzebottoms** run much of the mining and crystal exports as chief arcane etherists, and sit on the council. Thimble's father sits on the city leader's advisory council, and his family owns many of the high-rises. Malrik ordered aetherstone from a D. Bronzebottom. See [[Session 22 - A Long Night Ends]].

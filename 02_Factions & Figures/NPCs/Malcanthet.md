@@ -40,3 +40,6 @@ She wants a new Hollow Vessel, a new champion of the Abyss. She has chosen [[Way
 > [!info] DM Note
 > **Session 55 opens on her.** Her dialogue is the kickoff for Wayne's journey toward becoming another fully realized Hollow Vessel. The Godhand scene in [[Session 54 - The Heart of the Void]] (section 3), including her fury at Thimble over the Tome, hasn't been played yet.
 > Wants: an ending appearance (vestige, portal, or similar) where she can interact with Wayne, her vessel, and Thimble, who uses her Tome.
+
+## Played
+- In [[Session 21 - The Godhand]] she appeared with the Godhand and floated into Wayne's face: "You turned out to be so beautiful. My hollow vessel." She noticed Thimble is "a chaos born" and that Bog is unbranded. Named in the recap of [[Session 22 - A Long Night Ends]].

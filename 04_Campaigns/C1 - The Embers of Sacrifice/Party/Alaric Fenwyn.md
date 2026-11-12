@@ -159,6 +159,11 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 20, The Ascension.**
   - Malrik called him "Son" and asked for the artifact. "You're not my dad."
   - Hasted Bog. Listened to Aalyn and tossed the gemstone to Tula, then caught her in *Web*. Made a mental note about whom to listen to.
+- **Session 21, The Godhand.** Took Malrik's bag of holding (Investigation 27). Told everyone to run. One point from dying outright to the time-stopped fireball, and his counterspell for Sheila was countered. Guided Thimble's shatter with illusion. To Tiberius: "I owe you my life."
+- **Session 22, A Long Night Ends.**
+  - First *Summon Beast* and *Summon Fey*. His fey killed a looting maid. Returned the keep's loot to its vault with *Tenser's Floating Disc*. Chased Mibo off a dropped bag.
+  - Went through Malrik's bag: refractory schematics, the Bronzebottom order and a rune of recall, which he kept. Wrote to his parents.
+  - Summoned Rec, a living demiplane. His augury showed blood and a rainbow leading away.
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **Session 53, What Is Left of You.**
   - Revealed his own path through the mindscape on a 28 and finished second, then guided Bog home with nothing but gestures.

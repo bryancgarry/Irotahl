@@ -17,3 +17,6 @@ The oldest eladrin blades of [[The Sundering of Planes]] were not poured at all,
 > [!secret] Primordial stone
 > revealed:: false
 > Pure Aetherstone comes from the calcified body of [[The Chaos Primordial]].
+
+## Played
+- In [[Session 22 - A Long Night Ends]] Malrik's sealed order to D. Bronzebottom of Glimmerstone included aetherstone. Thimble knows it as rare, pure arcane stone from deep in the geode, newly discovered when he left. It seemed meant for the next version of the solar refractory.

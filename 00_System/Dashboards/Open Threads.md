@@ -93,7 +93,21 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] Malrik, unconscious and tied up (Session 20).
 - [ ] Bog drank the bone naga's fluid; mystery affliction (Session 20).
 - [ ] Sheila inert in wagon form, missing an arm and a wheel (Session 20).
-- [ ] Party level 6 after the Session 21 opening scene.
+- [x] Party level 6 after the Session 21 opening scene.
+- [ ] The husk feeding the ascension, and its tie to Rosalie's dark energy (Session 21).
+- [ ] Tiberius's runic armor (lithoweave make), his history with the Godhand, and the screams Wayne heard through him (Session 21).
+- [ ] Aalyn's spectral chain; "compassion as a tool" (Session 21).
+- [ ] "My hollow vessel," "a chaos born," and Baphomet's interest in Bog (Session 21).
+- [ ] The flowers Aalyn has seen before (Session 21).
+- [ ] Thimble's pending wild magic surge (Session 21).
+- [ ] Sheila's dropped magic items and Aalyn's aux machine (Session 21).
+- [ ] The mask stuck to Thimble's face (Session 22).
+- [ ] Malrik's Abyssal grimoire (Session 22).
+- [ ] D. Bronzebottom and the aetherstone order (Session 22).
+- [ ] The charted gemstone between Midland and Syfaeril (Session 22).
+- [ ] The Bloodlancer army at Oakhollow; stay or leave (Session 22).
+- [ ] Alaric's letter to his parents (Session 22).
+- [ ] Bog and the dead maid (Session 22).
 
 ## Setting
 - [ ] Hollowmere's and Vermillion Bay's exact place on the map.

@@ -32,3 +32,6 @@ Her agents work through [[The Cult of the Dark Moon]]: sleeper cells, coded symb
 > [!secret] Her relics
 > revealed:: false
 > The Tome of Lolth is in [[Syfaeril]]. The Spool of Lolth's Thread is held at [[The Temple of 1000 Candles]].
+
+## Played
+- In [[Session 21 - The Godhand]] she appeared to Aalyn with the Godhand: "You did so well. It's crazy how effective compassion can be as a tool." Bog and Thimble saw her spider body and a spectral chain wrapped around Aalyn's neck. Her name hasn't been said at the table.

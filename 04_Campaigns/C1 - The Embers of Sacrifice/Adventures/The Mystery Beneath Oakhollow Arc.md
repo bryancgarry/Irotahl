@@ -21,6 +21,7 @@ Everything after the party returned to [[Oakhollow]] from the stone trees. Princ
 - The Enclave's "WATCH THEM" note, and the fight at the pits that ended with Aalyn blowing a hole through the Orchid (Sessions 15 and 16).
 - Edith Valeheart's vault: the wooden mask from the ruins, a Fern pendant, and Malrik's logs (Session 17). The DM says the arc is nearing its end.
 - The Fern catacombs beneath the Grand Cathedral, Tula Fern in chains, and the fight with Malrik. Tula took the gemstone, and the former Bridge King rose as a demon lord (Sessions 18 to 20).
+- Graz'zt joined the Godhand, killed Bragthar and Sheila, and made Malrik his apostle. Tiberius held them off. Thimble's shatter tore a chasm through the city, Rosalie died, and the Bloodlancers are at the gates (Sessions 21 and 22).
 
 ## Recorded Sessions
 - [[Session 9 - The Off-Branded Misfits]]
@@ -35,3 +36,5 @@ Everything after the party returned to [[Oakhollow]] from the stone trees. Princ
 - [[Session 18 - The Stage is Set]]
 - [[Session 19 - The Fight Begins]]
 - [[Session 20 - The Ascension]]
+- [[Session 21 - The Godhand]]
+- [[Session 22 - A Long Night Ends]]

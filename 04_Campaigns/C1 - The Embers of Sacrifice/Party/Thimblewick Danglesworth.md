@@ -89,6 +89,11 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
   - The ley line energy feeds back to him. Opened with *Shatter*, and a surge gave him a ghostly shield.
   - Thunder Stepped Aalyn to safety and healed him. Took the mask, and talked Tula into breaking loose (Persuasion 25).
 - **Session 20, The Ascension.** Shattered Malrik's ward with a *Fireball*. His Ring of Mind Shielding blocked a surge of talking objects. Recognized the flayed former Bridge King.
+- **Session 21, The Godhand.**
+  - Spotted the Godhand. Malcanthet called him "a chaos born." Graz'zt: "I told you I would remember that."
+  - Channeled the ley lines into a doubled *Shatter* that broke the domain open. Enjoyed the power: "I like that power. We should look for some more."
+  - A wild magic surge is pending.
+- **Session 22, A Long Night Ends.** Found a ring of feather falling and turned into a potted plant for the third time. Helped name Pebbles. Explained the Bronzebottoms and aetherstone. The mask is stuck on his face.
 - **Session 53, What Is Left of You.** Pulled into the mindscape by force and punched back out by Bog. Finished the Mind trial last, guided by Wayne. Natural 20 on Investigation in the Soul chamber: his first inkling that the soul sphere is tied to the pale stones. **Became the blade.** His brand darkened.
 - **Session 54, The Heart of the Void.**
   - Cold open: the gallery memory, the slap, and the memory he refused to let go of.

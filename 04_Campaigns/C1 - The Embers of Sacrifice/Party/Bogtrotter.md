@@ -64,6 +64,11 @@ Bogtrotter is the only member of the party **not** branded. The Reliquary's bran
   - Used the Bridge King's Scepter for the first time. Its tentacles restrained the bone naga and later Malrik.
   - Destroyed the naga and drank what came out of it. Effect unknown.
   - Knocked Malrik out without killing him.
+- **Session 21, The Godhand.**
+  - Launched the cannonball rat. Deflected Graz'zt's gravity slash and was flung 60 ft for carrying his scepter.
+  - Saw Aalyn's patron's true form (natural 20). Baphomet wants to know who made a dragonborn.
+  - Freed a man from under a burning beam.
+- **Session 22, A Long Night Ends.** Stopped the looters with a lightning breath warning shot (natural 20). Spent the night in a keep bedroom with the dead maid. Got the ring of jumping (tabled).
 - **Session 53, What Is Left of You.** Punched the needle out of Thimble's head, guided Aalyn through the mindscape, threw a pebble at Alaric (the start of the beef), and ate the watermelon. Found he could stand on the void. Held on through the Soul trial.
 - **Session 54, The Heart of the Void.** *(Gabe absent. The DM ran Bog.)*
   - Jumped onto the central platform with his Ring of Jumping and breathed lightning. His surge (92) added 18 lightning damage.

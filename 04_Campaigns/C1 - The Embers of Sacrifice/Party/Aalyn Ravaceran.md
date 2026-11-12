@@ -286,6 +286,14 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
   - Begged the party through the link to give Tula the gemstone, and asked them not to kill her.
   - Once she had it, he smirked, told his patron "I hope it was worth it," and dropped his rapier.
   - Stayed behind to tie up the unconscious Malrik.
+- **Session 21, The Godhand.**
+  - Met his patron in the flesh among the Godhand: "You did so well. It's crazy how effective compassion can be as a tool." Bog and Thimble saw her spider form and a spectral chain around his neck.
+  - Healed Malrik just before Graz'zt took him. Knocked out by Orcus's blood blast; Wayne threw him through the rift.
+  - Steadied Thimble to break the domain. Alone above the burning city, he broke down, let himself fall, then caught himself: "I hope you're still watching over me."
+- **Session 22, A Long Night Ends.**
+  - Found Rosalie dead. Told Ino Silvertone's mother he's glad he put a dagger through her son's hand.
+  - Told Tiberius what happened. Said goodbye to Rosalie: "I did love you."
+  - Sang the city through the night at the triage stations. On the spire: "Compassion may be a weapon, but it's the only thing that keeps me going."
 - **Hollowmere.** *(To fill in from earlier sessions: Talia and the rest.)*
 - **Session 52, The Hollow Reliquary.** Entered the Reliquary with [[King Atul Stonemarch|Atul]].
 - **Session 53, What Is Left of You.**
