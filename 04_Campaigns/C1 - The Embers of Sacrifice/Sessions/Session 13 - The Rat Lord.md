@@ -65,7 +65,7 @@ tags:
 
 > [!secret] Links to later lore
 > revealed:: false
-> - The Rat Lord is Tuggknuckle the First. His hat and skull become the Rat Lord's Hat and the Rat Lord's Skullcup. See [[Wayne Kerr]] and [[Bogtrotter]].
+> - The Rat Lord's hat and skull become the Rat Lord's Hat and the Rat Lord's Skullcup. See [[Wayne Kerr]] and [[Bogtrotter]].
 
 > [!warning] Changes that affect Session 14
 > - The party is in the exploding maintenance room, with water pouring in.

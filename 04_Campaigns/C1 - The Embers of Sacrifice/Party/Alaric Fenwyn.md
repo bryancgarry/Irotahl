@@ -104,7 +104,7 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 **Attuned (3/3):** Ring of Spell Storing, Ring of Warmth, Cloak of Thalanir's Echo.
 
 - **The Pale Codex.** A rare wondrous item themed around [[The Pale Goddess]] (Sehanine Moonbow). Includes the Moonlit Purification spell, and grants +1 Intelligence after 30 days of study.
-- **Cloak of Thalanir's Echo.** Rare, attuned. His grandfather's cloak. Projects a displacement illusion (attacks against him have disadvantage until he takes damage), and once per day it leaves an illusory duplicate as he teleports up to 30 ft.
+- **Cloak of Thalanir's Echo.** Rare, attuned. His grandfather's cloak, left for him by his parents in a hidden chest in Malrik's Solarium (Session 14). Projects a displacement illusion (attacks against him have disadvantage until he takes damage), and once per day it leaves an illusory duplicate as he teleports up to 30 ft.
 - **Ring of Spell Storing.** Rare, attuned.
 - **Ring of Warmth.** Uncommon, attuned.
 - **Card Sharp's Deck**, **Deck of Illusions**, **Wand of Magic Missiles**.
@@ -144,7 +144,7 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
   - Made the ice ladder out of the sewer. His water and fire dragons set Bog off, and he fled a mob of children.
   - The party couldn't pick him out from three cosplayers.
   - A natural 20 Persuasion got the Solarium key from Magister Pelen. Set off the glyph of warding, and caught Aalyn with *Feather Fall*.
-  - **Found a hidden chest with a letter and a cloak from his parents.**
+  - **Found a hidden chest with a letter and a cloak from his parents:** the Cloak of Thalanir's Echo.
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **Session 53, What Is Left of You.**
   - Revealed his own path through the mindscape on a 28 and finished second, then guided Bog home with nothing but gestures.

@@ -70,7 +70,7 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] Bog's Rat Lord's skull codpiece as a magic item (Session 14).
 - [ ] Calder, the Enclave's runner, at the fighting pits (Session 14).
 - [ ] Who tampered with the Solarium, and why Orthus barred access (Session 14).
-- [ ] Alaric's parents' letter and cloak (Session 14).
+- [ ] Alaric's parents' letter, left with his grandfather's cloak in Malrik's Solarium (Session 14).
 - [ ] The dragon seen outside the city (Session 14).
 - [ ] The rift between Romulus's guards and the Oakhollow guard (Session 14).
 

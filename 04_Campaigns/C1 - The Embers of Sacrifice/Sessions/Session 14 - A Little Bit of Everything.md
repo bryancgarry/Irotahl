@@ -41,7 +41,7 @@ tags:
 - **Silas Holloway** took the Rat Lord's Hat as proof, let Wayne keep it, and paid **50 gp.**
 - **The runner who did the Obsidian Enclave job in the ruins is named Calder.** He doesn't talk about his jobs, but **he has a gambling problem.** He frequents the fighting pits as a spectator and "will be the skinniest one there."
 - Silas has been out taking precautions because the safe house is compromised, and he looked hard at Wayne.
-- **Tiberius works closely with a member of the Obsidian Enclave.** Silas hasn't seen him.
+- **Tiberius works closely with a member of the Obsidian Enclave** (Orthus). Silas hasn't seen him.
 - Wayne didn't spot Calder (Perception 5). It was early in the night.
 - **More wooden tokens cost blood.** The barkeep cut the back of his own hand once to show him, and Wayne cut his own stone hand four times. He has four scars and fresh tokens.
 
@@ -80,7 +80,7 @@ tags:
 - **Wayne used his bagpipes in battle for the first time:** a +1 dart for 24 killed it. Thimble's *Fire Bolt* finished the last one. The drones crumbled to dust.
 - Thimble chewed up a mushroom and fed it to Aalyn, who came back up.
 - Alaric's Investigation 29: three parts of the refractory are broken. **A secret storeroom hides behind the bookshelves.**
-- Inside is a chest whose craftsmanship Alaric recognizes. In it are **a letter and a cloak addressed to Alaric, from his parents.**
+- Inside is a chest whose craftsmanship Alaric recognizes. In it are **a letter and a cloak addressed to Alaric, from his parents.** The cloak is the Cloak of Thalanir's Echo, his grandfather's.
 - No level up.
 
 **After the session**
@@ -96,7 +96,7 @@ tags:
 > - Bog still has the Rat Lord's remains.
 
 > [!warning] Open from Session 14
-> - What Alaric's parents wrote, and the cloak.
+> - What Alaric's parents wrote.
 > - Who tampered with the Solarium door, and why Orthus barred access.
 > - Calder and the Enclave job in the ruins.
 > - What wakes the Rat Lord's Hat.
