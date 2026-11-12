@@ -241,6 +241,14 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
   - Grabbed Thimble by the throat over the necklace.
   - On dawn watch, a figure appeared: the one from his nightmare, or the princess. He plucked a string of light from it, now a golden string on his lute (+1 per healing die). The vision came from Lolth and Sumina. Wrote the mushroom grove song and gave heroic inspiration to Bog and Alaric.
   - At the camp: card trick into Spray of Cards, flew above the fight, and healed Wayne twice with Healing Word, the second time bringing him back up.
+- **Session 6, The Path to Godspire Ruins.**
+  - Natural 20 Medicine on Malrik, then healed him. Found the Bloodlancers' map of Oakhollow and a lockbox, which he hid, lied about, and finally opened: an illusionary battery and the commander's letter about the weapon beneath Oakhollow.
+  - Read "The daughter is key" in Malrik's margins. Gave Malrik his potion of healing.
+  - Talked Birdolomew down to 50 gp for a Wild Wager coin and a Pocket Phoenix by selling him the location of the Bloodlancer camp.
+- **Session 7, The Goose is Loose.** Natural 20 Performance stilled the lithoweave's first ring. Burned by the silver ring, restrained most of the fight. Played the purple ring in sync with Thimble.
+- **Session 8, Gnomes and Fireballs.**
+  - Reflected on what his name means: a badge of honor, and the new self he became when he left home. Privately feels in over his head.
+  - Took Bog's catapult to the back of the head. Picked a fight with Chunks over the trap wagon and rap battled him to a tie.
 - **Hollowmere.** *(To fill in from earlier sessions: Talia and the rest.)*
 - **Session 52, The Hollow Reliquary.** Entered the Reliquary with [[King Atul Stonemarch|Atul]].
 - **Session 53, What Is Left of You.**

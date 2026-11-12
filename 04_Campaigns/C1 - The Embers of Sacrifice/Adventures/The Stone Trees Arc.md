@@ -20,6 +20,9 @@ The campaign's opening arc. The party went into [[The Tall Oak Forest]] outside 
 - [[Session 3 - The Bridge King]]
 - [[Session 4 - Mushrooms & Trees]]
 - [[Session 5 - Bluelock and Bloodlancers]]
+- [[Session 6 - The Path to Godspire Ruins]]
+- [[Session 7 - The Goose is Loose]]
+- [[Session 8 - Gnomes and Fireballs]]
 
 ## How It Ties to the Godhand
 > [!secret] What they witnessed

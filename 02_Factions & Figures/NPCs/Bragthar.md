@@ -20,3 +20,5 @@ tags: [npc]
 - He ate Shroomly, Aalyn's mimic mushroom.
 - Takes orders literally. "Go crazy" gets him break-dancing or swinging at whatever is closest. He keeps losing his rock.
 - Ate a Bloodlancer's head at the camp in [[Session 5 - Bluelock and Bloodlancers]].
+- Tore open Malrik's blood-rune cage (natural 20) and absorbed its energy: blood magic respects strength. Ate the orc stew (+5 ft movement for a day). Learning Common from Aalyn, starting with "give."
+- Charged the lithoweave's purple ring and vanished, cutting Wayne's psionic link ([[Session 7 - The Goose is Loose]]). He fell back out of the sky in the same spot after the machine collapsed ([[Session 8 - Gnomes and Fireballs]]).

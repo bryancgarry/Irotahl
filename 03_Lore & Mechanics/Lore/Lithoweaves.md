@@ -24,3 +24,6 @@ Ancient machines of unknown origin that turn living things to stone. "Lithoweave
 
 > [!info] DM Note
 > Open: where the Godspire went when it vanished.
+
+## Played: the Godspire
+- Five rings (emerald, sapphire, silver with golden fire, phasing purple, primal white) around a black ichor core with a prism at its heart. Alaric likened it to the solar refractory, maybe its ancient original. Tune, synchronize, hold, and then give something up at the core. Wayne and Alaric gave part of their life force. See [[Session 7 - The Goose is Loose]].

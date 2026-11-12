@@ -125,6 +125,16 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 3, The Bridge King.** His elbow brand tingled in Oakhollow with an echo of the Baron's roar. He kept it secret. Covered Thimble's forgery with Minor Illusion. Named his owl familiar Thimble Jr. II. Took the Card Sharp's Deck.
 - **Session 4, Mushrooms & Trees.** Bottled mushroom water. The pool shrank him to 12 inches, and he rode his owl. Had Bragthar bury the dead lumberman.
 - **Session 5, Bluelock and Bloodlancers.** Back to full size. His owl pulled him toward the Godspire ruins, and he agreed to clear the camp first. Set a lookout tower on fire with Fire Bolt, cast Fog Cloud, and haunted the commander with a dead scout's head.
+- **Session 6, The Path to Godspire Ruins.**
+  - Natural 20 Perception on Malrik's blood-rune cage and dispelled its bindings. Identified the illusionary battery. Malrik called the ruins "the prophecy" to him.
+  - Sent Thimble Jr. II to Oakhollow with the invasion warning.
+  - Bought a Wild Wager coin and a Squawking Stone.
+  - At the ruins, solved the elven slab and caught the wrong dwarven one. Read all four wall fragments and copied the draconic mural. Pierced the summit illusion (27) and found the lithoweave.
+- **Session 7, The Goose is Loose.**
+  - History 24: the lithoweave is like the solar refractory, maybe its ancient original.
+  - His illusions became real (calm flame, then real water) to tune the silver ring.
+  - Offered his secret bag of Wayne's pebbles, then gave part of his life force with Wayne to collapse the core.
+- **Session 8, Gnomes and Fireballs.** Feather Fall on Bragthar. Natural 20 Arcana at the inverted ruins: "Trust in the design" and faint planar magic. Cast his first Fireball for Wayne. Mended the trap wagon.
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **Session 53, What Is Left of You.**
   - Revealed his own path through the mindscape on a 28 and finished second, then guided Bog home with nothing but gestures.

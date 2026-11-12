@@ -42,7 +42,16 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] The mushroom "housekeepers" and the fungal network (Session 4).
 - [ ] The black ichor and wagon grooves on the forest road (Session 4).
 - [ ] Wayne's vision when the stone tree's core went into him, and the symbol in his gemstone (Session 5).
-- [ ] The Bloodlancer camp: the man in black robes, his note, the goblin in the crate, the commander's tent, and the three patrol pairs still out (Session 5).
+- [x] The Bloodlancer camp (Session 5): the black-robed prisoner was Malrik Greene. See Session 6.
+- [ ] Orthus: the other Obsidian Enclave member, adviser to Darkstone. What he knows about the pale gemstone, and why Malrik's message never reached the party (Session 6).
+- [ ] The weapon beneath Oakhollow, and the Bloodlancer map's circles on the Grand Cathedral and the smugglers' cove (Session 6).
+- [ ] "The daughter is key" (Session 6).
+- [ ] The goblin with the sack of loot by the stream, a day toward Oakhollow (Session 6).
+- [ ] Who took the mask from the Godspire race shrine; the Draconic mural; the bronze dragon in the obelisk (Session 6).
+- [ ] What Wayne and Alaric gave up to the lithoweave's core, the snake-haired eyes on Wayne, and the d12 roll (Session 7).
+- [ ] "Trust in the design," the inverted ruins, the Architect and the four missing figures, and the blue sapphire (Session 8).
+- [ ] Zenina and the Luminox Convergence gala, part of Thimble's backstory still to be written (Session 8).
+- [ ] Where the giant goose went (Session 7).
 
 ## Setting
 - [ ] Hollowmere's and Vermillion Bay's exact place on the map.

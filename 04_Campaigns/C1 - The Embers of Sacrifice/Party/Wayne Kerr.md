@@ -221,6 +221,16 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 3, The Bridge King.** Natural 1 persuading the gate guards with his invitation. Answered his riddle ("my mind"), stole the Bridge King's crown, and now commands Bragthar.
 - **Session 4, Mushrooms & Trees.** Asked the fungal network, "Do you know where the stone trees are?" ("Yes."). Overheard the Bloodlancer scouts in Orc. His pale gemstone necklace pulled toward the stone tree, which is the same stone as him. Killed the Tree Blight with a natural 20.
 - **Session 5, Bluelock and Bloodlancers.** Took the tree's core. Its goo went into him through his brand, and he had a vision of a ball game across floating islands. Woke holding a gemstone with a symbol, and the tree now looks like him. Walked into the Bloodlancer camp as the distraction and was dropped by the commander, then healed back up.
+- **Session 6, The Path to Godspire Ruins.**
+  - His vision was winning his third YGSL (Youth Goliath Skyball League) championship. It cut off when the Volkarr spoke of the Void Trial and the Kyn'Ruthar.
+  - Looted General Veraxous's letter, Malrik's margin notes, the ruined armor and the mace from the commander.
+  - The moisturizer gives him one extra free Cloud's Jaunt. Solved the giant slab (the fist).
+  - Read the triangle-with-an-X mark from Jack's teaching: already looted.
+- **Session 7, The Goose is Loose.**
+  - Natural 20 spotting the purple ring blink. Sent Bragthar into it, and lost him and the link.
+  - The goose grew huge in his bag and flew off.
+  - Gave part of his life force with Alaric at the core. Snake-haired eyes watched him as it collapsed.
+- **Session 8, Gnomes and Fireballs.** Bragthar returned. Found a magical goose egg in his satchel. His pebbles grew back.
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **The salamanders.** Claimed the title Kyn'Ruthar to them. The fire sages traced Nerevath's silhouette into his stone.
 - **Session 52, The Hollow Reliquary.**

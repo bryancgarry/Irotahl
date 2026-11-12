@@ -60,7 +60,7 @@ tags:
 - Thimble: a **Bag of Beans** (9 beans).
 
 **Other changes**
-- Thimble's wild magic die went up to a d8.
+- Thimble's chaos die stepped down to a d8. It shrinks as he casts leveled spells and resets after a surge.
 
 > [!secret] The Bridge King
 > revealed:: false

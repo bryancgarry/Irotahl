@@ -17,3 +17,11 @@ tags: [npc, apostle, villain]
 > [!secret] Graz'zt's apostle
 > revealed:: false
 > Malrik performed the Bridge King's ascension beneath the Grand Cathedral. Graz'zt's first act was to make him his apostle and pull him into the Abyss. The players do not know what became of him.
+
+## Played
+- **Session 6.** Found tortured in a blood-rune cage at the Bloodlancer camp in the [[The Tall Oak Forest|Tall Oak Forest]], with three levels of exhaustion. Freed and healed by the party.
+  - He left the royal reception because his confidant Orthus (Obsidian Enclave, adviser to Darkstone) sent him to investigate activity at the Godspire ruins, which he called "the prophecy" to Alaric.
+  - His illusionary battery (it stores prophecy from the solar refractory) was in the commander's lockbox, and the party returned it.
+  - His confiscated note had a Draconic margin line: "The daughter is key."
+  - He came to Oakhollow shortly after Rosalie's birth and says the Baron spent an unusual amount of time in the prayer room.
+  - He walked back to Oakhollow alone with Aalyn's potion of healing. See [[Session 6 - The Path to Godspire Ruins]].
