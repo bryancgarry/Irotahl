@@ -2,6 +2,8 @@ SESSION 54 ITEMS (D&D Beyond homebrew builder format)
 
 Each item lists the builder fields first, then the Description text to paste. Tooltips use DDB tags: [spell]Name[/spell], [condition]Name[/condition], [monster]Name[/monster], [magicitem]Name[/magicitem]. Anything DDB can't automate (Hollowing, study time, the Dark Stone vault) is plain text the player or DM tracks by hand.
 
+As played: only the Shell of the Void Heart was handed out in Session 54 (Wayne took it from the Remnant's chest). The rest carry over to Session 55.
+
 
 ==================================================
 SHELL OF THE VOID HEART
@@ -38,7 +40,8 @@ Track Hollowing by hand: ____
 Homebrew note: Shade Step and Kin of the Void are homebrew, inspired by Hollow Knight's Shade Cloak, Sharp Shadow, and Void Heart. The curse follows the DMG's cursed item conventions.
 
 DM notes (don't paste):
-- Wayne starts at 0 Hollowing. Jack's memory kept the void from taking its first point.
+- Wayne starts at 0 Hollowing. Jack's memory kept the void from taking its first point. (Played mid-fight in Session 54 as the mountaintop training, not the squire scene.)
+- Wayne's attunement slots were full when he took it (Cloak of Protection, Blowgun of Warning, Silver Wings of Nerevath). Decide what it displaces.
 - DC 15 is fixed because DDB can't scale an item off proficiency bonus or Dexterity.
 - For anyone not marked by Malcanthet, the Shell is an inert, faintly warm stone with no properties and no curse.
 
