@@ -15,7 +15,7 @@ tags:
 **Ref:** [[Session 15 - Here We Go Again]], [[The Obsidian Enclave]], [[The Thieves Guild]], [[Bragthar]]
 
 > [!important] Played: "Action and Apologies" (Episode 16)
-> [Watch on YouTube](https://www.youtube.com/watch?v=glpPLO-KMLY). *(Gabe absent. Bog spent the session unconscious.)* Aalyn made a new deal with the figure who has been haunting him and blew a hole through the Orchid. The party escaped through the sewers with Calder, who named Edith Veilheart. After a long rest at the Dirty Stump, apologies were made, the hidden message was found, and the party set out to retrieve Bog.
+> [Watch on YouTube](https://www.youtube.com/watch?v=glpPLO-KMLY). *(Gabe absent. Bog spent the session unconscious.)* Aalyn made a new deal with the figure who has been haunting him and blew a hole through the Orchid. The party escaped through the sewers with Calder, who named Edith Valeheart. After a long rest at the Dirty Stump, apologies were made, the hidden message was found, and the party set out to retrieve Bog.
 
 ## What Happened at the Table
 
@@ -67,7 +67,7 @@ tags:
 
 **Calder talks**
 - The job wasn't from the Enclave on paper. Enclave members get things through shadier means, and it came to Calder through Silas.
-- **The client was a noblewoman, Edith Veilheart.** She's a benefactor of the Enclave and has taken an interest in "this guy's work" for some years.
+- **The client was a noblewoman, Edith Valeheart.** She's a benefactor of the Enclave and has taken an interest in "this guy's work" for some years.
 - **Her butler, Buro, made the request.** The item was **a wooden mask**, likely locked in the vault at her estate.
 - Then Calder ran.
 
@@ -84,7 +84,7 @@ tags:
 - **Aalyn and Alaric.** Aalyn apologized for the night before. He's learned he doesn't need to help in every situation, and will try not to put them in danger. Alaric's History 15: Aalyn's magic comes from an otherworldly source. "It seems you've recently made another promise as well." Aalyn looked confused.
 - **The group, minus Bog.** Alaric revealed his space guppy, and they moved to Wayne and Thimble's room.
   - Alaric says he never worked *for* the Enclave, only with them briefly.
-  - Alaric: if they don't want the party at the Veilheart estate, that's where they should go. The main quest, after a few things here.
+  - Alaric: if they don't want the party at the Valeheart estate, that's where they should go. The main quest, after a few things here.
   - They agreed Bog needs to be eased into hearing he's a dragonborn, and needs to stop committing violence.
 - **Aalyn and Wayne.** Aalyn apologized for ruining Wayne's standing with the thieves. Wayne: there are other thieves guilds, and "maybe we just don't stab people right off the bat." They agreed on pickpocketing, but no killing.
 - They headed out to find Bog.
@@ -92,14 +92,15 @@ tags:
 > [!secret] Links to later lore
 > revealed:: false
 > - The woman is [[Lolth]], and the snowy clearing is the winter tree where she bound him. The runes around his neck are her thread. See [[Aalyn Ravaceran]].
+> - The artifact Wayne carries is the Oakhollow [[Embers of Sacrifice|Ember of Sacrifice]], the one later used in the Bridge King's ascension into [[Graz'zt]]. The "ancient rite rudely interrupted" is Baron Fern's bargain.
 
 > [!warning] Changes that affect Session 17
 > - Long rest taken. The party is at the Dirty Stump, and Bog is in the haystack by the Orchid.
 > - Aalyn's rapier carries Lolth's new energy, and his deal says to let Wayne lose the artifact.
-> - Lead: Edith Veilheart, her butler Buro, and the wooden mask in her vault.
+> - Lead: Edith Valeheart, her butler Buro, and the wooden mask in her vault.
 
 > [!warning] Open from Session 16
-> - What artifact Wayne holds that "is not meant for him."
+> - Losing the artifact Wayne holds that "is not meant for him."
 > - Aalyn's rapier, and the runes on his neck.
 > - Jud, and what he left out.
 > - "WATCH THEM": who is watching the party.

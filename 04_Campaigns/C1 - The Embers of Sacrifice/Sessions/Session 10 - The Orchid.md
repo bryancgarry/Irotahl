@@ -27,7 +27,7 @@ tags:
   - Aalyn drove his dagger through Ino's hand into the table (6).
   - Wayne slammed a psionic dagger into Ino's other hand (16) and picked his pocket (Sleight of Hand 24, **69 gp**).
   - Aalyn's Unseen Servant pulled Ino's pants down.
-- Ino fled, muttering that his mother would hear of this and he couldn't play at the Veil Hearts tomorrow. The waitress asked the party to leave the entertainment room.
+- Ino fled, muttering that his mother would hear of this and he couldn't play at the Valehearts' tomorrow. The waitress asked the party to leave the entertainment room.
 - That night Talia, Kayla and Heladur came to Aalyn's room to talk songwriting. His Persuasion (13) didn't land, and they went back to their dorms. He gave Heladur his vial of mushroom water, claiming it summons a protective spirit if thrown. Then he **smashed his lute** in a rage.
 
 **Thimble at the bar**
@@ -78,4 +78,4 @@ tags:
 > [!warning] Open from Session 10
 > - Who the half-glowing, half-dark figure was.
 > - Mibo.
-> - The Veil Hearts, where Ino was due to play.
+> - The Valehearts, where Ino was due to play.

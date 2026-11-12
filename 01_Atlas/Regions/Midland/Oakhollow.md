@@ -18,7 +18,7 @@ tags: [location, city]
 - **Shops visited** ([[Session 11 - The Plot Thickens]]): Twilight Threads (Upper Commons tailor), Whispering Wares (Noble's Rise antiques), Iron Branch Armory and Root and Rune (Craftsman's Row), Feather and Fang, and Birdolomew's Magical Emporium.
 - **The Solarium** in the Mages Guild, in the outskirts: Malrik's quarters. Receptionist Ammona, and Magister Pelen keeps the keys. See [[Session 14 - A Little Bit of Everything]].
 - **The Dirty Stump**, an inn just past the Mages Guild, where Aalyn met the party. See [[Session 16 - Action and Apologies]].
-- **The Veilheart estate** in Noble's Rise, home of Edith Veilheart. A pressure-tile basement leads to a shared vault. See [[Session 17 - The Vault]].
+- **The Valeheart estate** in Noble's Rise, home of Edith Valeheart. A pressure-tile basement leads to a shared vault. See [[Session 17 - The Vault]].
 - **The Orchid** has a hole blown up through its basement, ground floor and roof ([[Session 16 - Action and Apologies]]).
 - **The Western Gate guardhouse**, just outside the west gate, under Commander Seth. See [[Session 12 - The Establishment is Corrupt]].
 - **The sewers.** A runner's den, the wererats' hideout and a maintenance room. The city-center fountain now geysers from the valves the party turned.

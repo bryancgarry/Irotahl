@@ -20,4 +20,4 @@ tags: [faction]
 - Fresh wooden tokens are bought with blood: a cut on the hand for each one.
 - A bandit's challenge in the sewers: "Did the tunnels treat you kindly?"
 - **The fighting pits** ([[Session 15 - Here We Go Again]]). Entry is now three wooden tokens per person. Calder runs the pit and the betting, with a stamina-point fight format. Aalyn killed the favorite, Kagra the Butcher, then attacked Calder. The pit crowd turned on him, and the Fern guard raided the basement.
-- **Calder's job** ([[Session 16 - Action and Apologies]]). It came through Silas, for the noblewoman Edith Veilheart, a benefactor of the Enclave, via her butler Buro. The item was a wooden mask from the forest ruins.
+- **Calder's job** ([[Session 16 - Action and Apologies]]). It came through Silas, for the noblewoman Edith Valeheart, a benefactor of the Enclave, via her butler Buro. The item was a wooden mask from the forest ruins.

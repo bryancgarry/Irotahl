@@ -15,7 +15,7 @@ tags:
 **Ref:** [[Session 16 - Action and Apologies]], [[Tiberius Blackfang]], [[Malrik Greene]], [[The Obsidian Enclave]], [[The Volkarr]], [[Baron Fern]]
 
 > [!important] Played: "The Vault" (Episode 17)
-> [Watch on YouTube](https://www.youtube.com/watch?v=w0yPkWqOXbU). The party collected Bog and reported to Sir Romulus, who sent them after Edith Veilheart's vault. Aalyn played a distraction while Wayne and Bog went in invisible. Wayne cracked the vault and found the wooden mask, a Fern pendant, and Malrik's logs. Ends with the butler Buro sprinting down the stairs toward them.
+> [Watch on YouTube](https://www.youtube.com/watch?v=w0yPkWqOXbU). The party collected Bog and reported to Sir Romulus, who sent them after Edith Valeheart's vault. Aalyn played a distraction while Wayne and Bog went in invisible. Wayne cracked the vault and found the wooden mask, a Fern pendant, and Malrik's logs. Ends with the butler Buro sprinting down the stairs toward them.
 
 ## What Happened at the Table
 
@@ -35,7 +35,7 @@ tags:
   - The party reported Malrik's traps and the destroyed solar refractory. Alaric is keeping the battery.
   - Romulus will send raw materials to the Solarium and have people look for documentation, so Alaric can try a repair. He knows who Alaric Fenwyn is, and winked.
   - Tiberius admired Alaric's cloak.
-- **Edith Veilheart.** Romulus knows the name. She's among the nobles pushing back on his temporary rule and thinks him too young, though she hasn't been abrasive.
+- **Edith Valeheart.** Romulus knows the name. She's among the nobles pushing back on his temporary rule and thinks him too young, though she hasn't been abrasive.
 - Romulus's historians found no plans of her estate, only its location in Noble's Rise. The nobility won't cooperate, so the job calls for subtlety and stealth. He can't risk another falling out with them.
 - "Try not to take all day. We're running out of time."
 

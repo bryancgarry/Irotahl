@@ -56,7 +56,7 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] Wayne's life-force cost from the lithoweave, to revisit now that his pebbles count (Session 9).
 - [ ] Sheila's stat sheet (Session 9).
 - [ ] The half-glowing, half-dark figure at Aalyn's Orchid performance (Session 10).
-- [ ] Mibo, the Veil Hearts, and Silas Holloway's tunnel job (Session 10).
+- [ ] Mibo, the Valehearts, and Silas Holloway's tunnel job (Session 10).
 - [ ] Gormar, the records missing from around Rosalie's birth, and Orthus's silence (Session 11).
 - [ ] Why Tiberius carries the brand (Session 11).
 - [ ] Rosalie's growing maroon magic (Session 11).
@@ -76,15 +76,15 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] The second illusionary battery from the Solarium, and repairing the solar refractory (Sessions 15 and 17).
 - [ ] Ellie (Jessa Thorne), the waitress Bog and Thimble put to sleep (Session 15).
 - [ ] Calder after the raid, and Mave (Session 15).
-- [ ] Aalyn's new deal: let Wayne lose the artifact "not meant for him" (Session 16).
+- [ ] Aalyn's new deal: let Wayne lose the artifact "not meant for him" (the Oakhollow Ember of Sacrifice) (Session 16).
 - [ ] Aalyn's rapier, the runes on his neck, and his black-rooted hair (Session 16).
 - [ ] Jud, alive, and what he left out (Session 16).
 - [ ] "WATCH THEM": who in the Enclave is watching Wayne and Thimble (Session 16).
 - [ ] Wayne's egg, close to hatching (Session 16).
 - [ ] Alaric's space guppy familiar (Session 16).
-- [ ] The wooden mask (Volkarr work), the Fern pendant, and Malrik's logs from the Veilheart vault (Session 17).
-- [ ] Edith Veilheart and her butler Buro (Session 17).
-- [ ] The other names in the Veilheart vault ledger (Session 17).
+- [ ] The wooden mask (Volkarr work), the Fern pendant, and Malrik's logs from the Valeheart vault (Session 17).
+- [ ] Edith Valeheart and her butler Buro (Session 17).
+- [ ] The other names in the Valeheart vault ledger (Session 17).
 
 ## Setting
 - [ ] Hollowmere's and Vermillion Bay's exact place on the map.
