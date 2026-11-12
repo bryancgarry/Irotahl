@@ -14,6 +14,9 @@ tags: [location, city]
 ## Notable Places
 - **The Grand Cathedral.** Beneath it, the Bridge King's ascension took place. Purple lilacs grow in the ascension room.
 - **The Bridge King's bridge.** Home of a petty, cruel goblin the party met in their earliest days.
+- **The Orchid** (Craftsman's Row). An inn run by the bartender Brena, with a steam room and a back stage. Underneath is a [[The Thieves Guild|Thieves Guild]] safe house. See [[Session 10 - The Orchid]].
+- **Shops visited** ([[Session 11 - The Plot Thickens]]): Twilight Threads (Upper Commons tailor), Whispering Wares (Noble's Rise antiques), Iron Branch Armory and Root and Rune (Craftsman's Row), Feather and Fang, and Birdolomew's Magical Emporium.
+- **The Solarium** in the Mages Guild, in the outskirts: Malrik's quarters.
 
 ## Key NPCs
 ```dataview

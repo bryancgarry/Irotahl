@@ -231,6 +231,15 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
   - The goose grew huge in his bag and flew off.
   - Gave part of his life force with Alaric at the core. Snake-haired eyes watched him as it collapsed.
 - **Session 8, Gnomes and Fireballs.** Bragthar returned. Found a magical goose egg in his satchel. His pebbles grew back.
+- **Session 9, The Off-Branded Misfits.** Sneak-attacked Muzzle, pressed the big red button to fold Sheila back up, and drives her telepathically. Felt the egg's first heartbeat. Pickpocketed the crowd for 37 gp, 127 sp and 2 cp. Found the Orchid marked as a Thieves Guild safe house.
+- **Session 10, The Orchid.**
+  - Found the guild's underground bar and fighting pit. Overheard Tiberius with Silas Holloway.
+  - Silas knows Jack by legend. He'll name the runner who did a job for the Obsidian Enclave if Wayne's group clears the rats from the sewers.
+  - Stabbed Ino and picked his pocket for 69 gp.
+- **Session 11, The Plot Thickens.**
+  - Got Tiberius to join them in the tunnels. Bought studded leather and +1 darts for his bagpipes.
+  - For the egg: a humidifier orb, a nursery box, and a heated immovable rod from Birdolomew's wife.
+  - Chased Bog's guards and lost them.
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **The salamanders.** Claimed the title Kyn'Ruthar to them. The fire sages traced Nerevath's silhouette into his stone.
 - **Session 52, The Hollow Reliquary.**

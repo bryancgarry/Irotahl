@@ -22,3 +22,5 @@ tags: [npc]
 - Ate a Bloodlancer's head at the camp in [[Session 5 - Bluelock and Bloodlancers]].
 - Tore open Malrik's blood-rune cage (natural 20) and absorbed its energy: blood magic respects strength. Ate the orc stew (+5 ft movement for a day). Learning Common from Aalyn, starting with "give."
 - Charged the lithoweave's purple ring and vanished, cutting Wayne's psionic link ([[Session 7 - The Goose is Loose]]). He fell back out of the sky in the same spot after the machine collapsed ([[Session 8 - Gnomes and Fireballs]]).
+- Hasted by Alaric, he killed Muzzle. The guard Bob refused him entry to Oakhollow, so he waits at the stables outside the south gate with Sheila ([[Session 9 - The Off-Branded Misfits]]).
+- Possibly his ex: Heladur, a slam poet at the Orchid whose poem "Hurt" mentions a "mossy queen" and "the fungal bloom." Not confirmed.

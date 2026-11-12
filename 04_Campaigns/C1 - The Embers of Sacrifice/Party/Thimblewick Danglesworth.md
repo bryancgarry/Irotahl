@@ -67,6 +67,9 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
   - Found the inverted ruins, a blue sapphire and the shrine to "the Architect" (natural 20s). Planted a bean, got pink toads and two owlbears (8 beans left).
   - Out-ranged Alaric's Fireball with a Distant Spell one. Bought three blunts from Grease.
   - Muzzle recognized him and blamed him for his sister Zenina's death at the Luminox Convergence gala. Muzzle swung a bat.
+- **Session 9, The Off-Branded Misfits.** Hit by Muzzle's bat. Charmed Grease with Suggestion. Gored down by Sheila, revived by Aalyn. Read Sheila's remote and found Papa Glabb's classic hits. Told Bog he wants what's best for the group.
+- **Session 10, The Orchid.** Drunk wild surges: teleported onto a table, poisoned an old woman, and turned into a potted plant. Nearly carried off by Mibo.
+- **Session 11, The Plot Thickens.** Bought slippers of spider climbing after smoking with the Root and Rune clerk. Rolled a natural 20 for attractiveness. Surrendered to the Fern guards.
 - **Session 53, What Is Left of You.** Pulled into the mindscape by force and punched back out by Bog. Finished the Mind trial last, guided by Wayne. Natural 20 on Investigation in the Soul chamber: his first inkling that the soul sphere is tied to the pale stones. **Became the blade.** His brand darkened.
 - **Session 54, The Heart of the Void.**
   - Cold open: the gallery memory, the slap, and the memory he refused to let go of.

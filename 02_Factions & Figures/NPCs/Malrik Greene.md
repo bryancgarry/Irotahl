@@ -25,3 +25,5 @@ tags: [npc, apostle, villain]
   - His confiscated note had a Draconic margin line: "The daughter is key."
   - He came to Oakhollow shortly after Rosalie's birth and says the Baron spent an unusual amount of time in the prayer room.
   - He walked back to Oakhollow alone with Aalyn's potion of healing. See [[Session 6 - The Path to Godspire Ruins]].
+- **Session 9.** A black-robed man with a hobble pointed Muzzle's gnomes toward Thimble from a back alley.
+- **Session 11.** He never returned to Oakhollow. He took over as adviser after Rosalie's birth, which is when the court's records go missing. Sir Romulus thinks he was a student or devotee of the previous adviser, **Gormar**. He invited the party to the reception but wasn't there himself. Romulus asked the party to search his quarters at the Solarium in the Mages Guild.

@@ -135,6 +135,9 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
   - His illusions became real (calm flame, then real water) to tune the silver ring.
   - Offered his secret bag of Wayne's pebbles, then gave part of his life force with Wayne to collapse the core.
 - **Session 8, Gnomes and Fireballs.** Feather Fall on Bragthar. Natural 20 Arcana at the inverted ruins: "Trust in the design" and faint planar magic. Cast his first Fireball for Wayne. Mended the trap wagon.
+- **Session 9, The Off-Branded Misfits.** Hasted Bragthar against the gnomes. Major Image of the Bridge King battle for Aalyn's show. Steamed his own tub at the Orchid so he wouldn't see Bog.
+- **Session 10, The Orchid.** Saw a vision of a hot spring oasis in his homeland in the steam. Rescued potted-plant Thimble from Mibo.
+- **Session 11, The Plot Thickens.** Insight 21: Tiberius wasn't surprised Bog is unbranded. Commissioned the five Off-Branded Misfits patches. Sent Thimble Jr. II to Sir Romulus when the guards closed in.
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **Session 53, What Is Left of You.**
   - Revealed his own path through the mindscape on a 28 and finished second, then guided Bog home with nothing but gestures.

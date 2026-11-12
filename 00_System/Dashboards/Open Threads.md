@@ -52,6 +52,16 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] "Trust in the design," the inverted ruins, the Architect and the four missing figures, and the blue sapphire (Session 8).
 - [ ] Zenina and the Luminox Convergence gala, part of Thimble's backstory still to be written (Session 8).
 - [ ] Where the giant goose went (Session 7).
+- [ ] The black-robed man with a hobble who sent Muzzle's gnomes after Thimble (Session 9).
+- [ ] Wayne's life-force cost from the lithoweave, to revisit now that his pebbles count (Session 9).
+- [ ] Sheila's stat sheet (Session 9).
+- [ ] The half-glowing, half-dark figure at Aalyn's Orchid performance (Session 10).
+- [ ] Mibo, the Veil Hearts, and Silas Holloway's tunnel job (Session 10).
+- [ ] Gormar, the records missing from around Rosalie's birth, and Orthus's silence (Session 11).
+- [ ] Why Tiberius carries the brand (Session 11).
+- [ ] Rosalie's growing maroon magic (Session 11).
+- [ ] Bog's murder arrest and the party's questioning by the Fern guards (Session 11).
+- [ ] Birdolomew's whereabouts (Session 11).
 
 ## Setting
 - [ ] Hollowmere's and Vermillion Bay's exact place on the map.

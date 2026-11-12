@@ -249,6 +249,18 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 8, Gnomes and Fireballs.**
   - Reflected on what his name means: a badge of honor, and the new self he became when he left home. Privately feels in over his head.
   - Took Bog's catapult to the back of the head. Picked a fight with Chunks over the trap wagon and rap battled him to a tie.
+- **Session 9, The Off-Branded Misfits.**
+  - Won the rap battle for Sheila with a natural 20 verse about losing someone he loved. Ended the fight with a 25 Persuasion and revived Thimble.
+  - Took ownership of Sheila from Wayne for a 75/25 performance split.
+  - Named the group and performed "The Bridge King's Fall" in the square (29).
+- **Session 10, The Orchid.**
+  - Met Heladur, Talia and Kayla. Mid-song, he saw a half-glowing, half-dark woman watching him, who smiled and faded.
+  - Stabbed Ino Silvertone's hand to a table and had his Unseen Servant pull Ino's pants down. Got the party kicked out of the back room.
+  - Gave Heladur his mushroom water, then smashed his lute.
+- **Session 11, The Plot Thickens.**
+  - Promised the unconscious Rosalie he would save her.
+  - Traded his broken lute and 50 gp for Papa Glabb's lute and a music relay kit for Sheila.
+  - Misty Stepped onto the Orchid's roof rather than be taken in by the Fern guards.
 - **Hollowmere.** *(To fill in from earlier sessions: Talia and the rest.)*
 - **Session 52, The Hollow Reliquary.** Entered the Reliquary with [[King Atul Stonemarch|Atul]].
 - **Session 53, What Is Left of You.**

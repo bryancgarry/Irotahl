@@ -11,3 +11,7 @@ tags: [faction]
 
 > [!info] DM Note
 > Open: its name, and its role. Also open: the Merchant Alliance, seeded in Durnhollow's Guild Hall and Gold Vault.
+
+## Played
+- A safe house under **the Orchid** in [[Oakhollow]]'s Craftsman's Row: a hidden bar, a fighting pit with betting, and Silas Holloway's office. Weapons get checked at the door. See [[Session 10 - The Orchid]].
+- **Silas Holloway** knows Jack by legend. Rats have cut off the guild's runner routes in the sewers, and Tiberius blames the guild for the keep attack. Silas will name the runner who did a job for the Obsidian Enclave (something taken from forest ruins) if the party clears the rats.
