@@ -122,6 +122,9 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 ## Campaign Log
 - **The Oakhollow wedding.** Met the party and was branded. He's the "older looking wizard" who handed Aalyn an invitation.
 - **Vaelindra's nest.** Took the silver dragon egg.
+- **Session 3, The Bridge King.** His elbow brand tingled in Oakhollow with an echo of the Baron's roar. He kept it secret. Covered Thimble's forgery with Minor Illusion. Named his owl familiar Thimble Jr. II. Took the Card Sharp's Deck.
+- **Session 4, Mushrooms & Trees.** Bottled mushroom water. The pool shrank him to 12 inches, and he rode his owl. Had Bragthar bury the dead lumberman.
+- **Session 5, Bluelock and Bloodlancers.** Back to full size. His owl pulled him toward the Godspire ruins, and he agreed to clear the camp first. Set a lookout tower on fire with Fire Bolt, cast Fog Cloud, and haunted the commander with a dead scout's head.
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **Session 53, What Is Left of You.**
   - Revealed his own path through the mindscape on a 28 and finished second, then guided Bog home with nothing but gestures.

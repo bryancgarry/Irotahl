@@ -235,6 +235,12 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 
 ## Campaign Log
 - **The Oakhollow wedding.** Met the party, Rosalie was stabbed, Fern turned, and the party was branded.
+- **Session 3, The Bridge King.** Invoked Rosalie at the south gate and muddied the Darkstone guards' armor. A mirror ploy on his riddle broke the mirror. Rap-battle Vexing Verse, then recruited Bragthar with Comprehend Languages and a 25 Deception. Took a potion of healing and the coin purse.
+- **Session 4, Mushrooms & Trees.** Bottled mushroom water. The pool gave him Shroomly, a mimic mushroom, which he fed to Bragthar. Charmed the Bloodlancer scout "Geralt," then stabbed him. Healed Bragthar through the Tree Blight fight.
+- **Session 5, Bluelock and Bloodlancers.**
+  - Grabbed Thimble by the throat over the necklace.
+  - On dawn watch, a figure appeared: the one from his nightmare, or the princess. He plucked a string of light from it, now a golden string on his lute (+2 healing). Wrote the mushroom grove song and gave heroic inspiration to Bog and Alaric.
+  - At the camp: card trick into Spray of Cards, flew above the fight, and healed Wayne twice with Healing Word, the second time bringing him back up.
 - **Hollowmere.** *(To fill in from earlier sessions: Talia and the rest.)*
 - **Session 52, The Hollow Reliquary.** Entered the Reliquary with [[King Atul Stonemarch|Atul]].
 - **Session 53, What Is Left of You.**

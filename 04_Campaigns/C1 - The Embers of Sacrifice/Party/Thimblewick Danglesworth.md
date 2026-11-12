@@ -55,6 +55,9 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **The Kindred Flame.** The 50 gp offering at the center of the dap with Wayne. The fused summon is still to be worked out.
 
 ## Campaign Log
+- **Session 3, The Bridge King.** Forged Romulus's decree (natural 20 Sleight of Hand). Built a clockwork pocket watch with a magic mark. Guessed "time." Suggestion failed on Bragthar. Took the Bag of Beans (9 beans). Wild die went up to a d8.
+- **Session 4, Mushrooms & Trees.** Skipped a stone into the Bridge King's skull ("I will remember that"). Ate a mushroom and kept four. The pool put green specks in his core. Pressed Wayne's necklace into the stone tree and woke the Tree Blight.
+- **Session 5, Bluelock and Bloodlancers.** Aalyn choked him for it. Fed Wayne's goose a mushroom. At the camp, gave the plan away, looted a tent mid-fight, and landed a 2nd-level Chaos Bolt on the commander.
 - **Session 53, What Is Left of You.** Pulled into the mindscape by force and punched back out by Bog. Finished the Mind trial last, guided by Wayne. Natural 20 on Investigation in the Soul chamber: his first inkling that the soul sphere is tied to the pale stones. **Became the blade.** His brand darkened.
 - **Session 54, The Heart of the Void.**
   - Cold open: the gallery memory, the slap, and the memory he refused to let go of.

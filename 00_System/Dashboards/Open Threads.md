@@ -36,6 +36,15 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] The Glimmerstone arc: Thimble as chaos-born, his father's role, and how the city's politics, the World Games, and the Luminarch's event connect.
 - [ ] How and when Thimble learns he can consume demon souls (souls tied to the Chaos Primordial), like Skyrim's Dragonborn.
 
+## Early Sessions (backfill)
+- [ ] The Bridge King's riddle answers (Session 3). Never said on the recording.
+- [ ] What the green specks in Thimble's core do (Session 4).
+- [ ] The mushroom "housekeepers" and the fungal network (Session 4).
+- [ ] The black ichor and wagon grooves on the forest road (Session 4).
+- [ ] Wayne's vision when the stone tree's core went into him, and the symbol in his gemstone (Session 5).
+- [ ] The figure in Aalyn's dawn vision, and his golden string (Session 5).
+- [ ] The Bloodlancer camp: the man in black robes, his note, the goblin in the crate, the commander's tent, and the three patrol pairs still out (Session 5).
+
 ## Setting
 - [ ] Hollowmere's and Vermillion Bay's exact place on the map.
 - [ ] The three Chain Knight branches: what separates Gold, Silver, and Bronze.

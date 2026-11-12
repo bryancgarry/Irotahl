@@ -25,3 +25,6 @@ tags: [npc, godhand]
 > [!secret] Tiberius was there
 > revealed:: false
 > [[Tiberius Blackfang]] intervened during the ascension scene.
+
+## Played
+- As the Bridge King he held his bridge outside Oakhollow with [[Bragthar]], lost his crown to Wayne, and floated away downriver. See [[Session 3 - The Bridge King]]. Thimble later skipped a stone off his skull: "I will remember that."

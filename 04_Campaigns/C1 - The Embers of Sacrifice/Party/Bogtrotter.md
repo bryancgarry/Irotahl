@@ -32,6 +32,9 @@ Bogtrotter is the only member of the party **not** branded. The Reliquary's bran
 - **Rat Lord's Skullcup.** Team-up with Wayne's Rat Lord's Hat for the Rat Cannon.
 
 ## Campaign Log
+- **Session 3, The Bridge King.** Leveled up, with Savage Attacker on unarmed strikes. Guessed "hands," then "fire." Lightning breath and a Flurry of "purple nurples." Found a copper piece in his belly button. Took the Bridge King's Scepter.
+- **Session 4, Mushrooms & Trees.** Declined the mushroom pool. Helped finish off Geralt.
+- **Session 5, Bluelock and Bloodlancers.** Got heroic inspiration from Aalyn's song. Vaulted the camp wall with Step of the Wind, taunted ("store brand," "spaghetti"), and killed the last Bloodlancer by twisting his fingers in its ears. Ate the goblin's breakfast.
 - **Session 53, What Is Left of You.** Punched the needle out of Thimble's head, guided Aalyn through the mindscape, threw a pebble at Alaric (the start of the beef), and ate the watermelon. Found he could stand on the void. Held on through the Soul trial.
 - **Session 54, The Heart of the Void.** *(Gabe absent. The DM ran Bog.)*
   - Jumped onto the central platform with his Ring of Jumping and breathed lightning. His surge (92) added 18 lightning damage.

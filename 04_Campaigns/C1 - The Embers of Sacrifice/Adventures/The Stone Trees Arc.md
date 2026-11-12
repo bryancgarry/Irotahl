@@ -16,6 +16,11 @@ The campaign's opening arc. The party went into [[The Tall Oak Forest]] outside 
 - The Bridge King's ascension beneath the Grand Cathedral, performed by [[Malrik Greene]] with the same Ember. [[Tiberius Blackfang]] intervened.
 - The party stopped the Godspire. It collapsed like a black hole and vanished.
 
+## Recorded Sessions
+- [[Session 3 - The Bridge King]]
+- [[Session 4 - Mushrooms & Trees]]
+- [[Session 5 - Bluelock and Bloodlancers]]
+
 ## How It Ties to the Godhand
 > [!secret] What they witnessed
 > revealed:: false

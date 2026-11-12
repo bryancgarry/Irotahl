@@ -218,6 +218,9 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 ## Campaign Log
 - **The Oakhollow wedding.** Met Aalyn, Alaric and Bog, and was branded.
 - **Oakhollow and the Godspire.** Pebbles' egg was hit by the lithoweave. Salvatore Pearcetti became Nerevath.
+- **Session 3, The Bridge King.** Natural 1 persuading the gate guards with his invitation. Answered his riddle ("my mind"), stole the Bridge King's crown, and now commands Bragthar.
+- **Session 4, Mushrooms & Trees.** Asked the fungal network, "Do you know where the stone trees are?" ("Yes."). Overheard the Bloodlancer scouts in Orc. His pale gemstone necklace pulled toward the stone tree, which is the same stone as him. Killed the Tree Blight with a natural 20.
+- **Session 5, Bluelock and Bloodlancers.** Took the tree's core. Its goo went into him through his brand, and he had a vision of a ball game across floating islands. Woke holding a gemstone with a symbol, and the tree now looks like him. Walked into the Bloodlancer camp as the distraction and was dropped by the commander, then healed back up.
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **The salamanders.** Claimed the title Kyn'Ruthar to them. The fire sages traced Nerevath's silhouette into his stone.
 - **Session 52, The Hollow Reliquary.**
