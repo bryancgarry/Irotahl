@@ -66,7 +66,7 @@ tags:
 - Bragthar threw the bodies into the woods. The party skipped the three patrols. Malrik gave directions to the ruins, and Aalyn started teaching Bragthar Common (first word: "give").
 
 **[[Birdolomew Feathersworth]]**
-- On the road, an aarakocra merchant, the self-proclaimed number one name in aven commerce, from the mountains of [[Vyrmor]]. He runs the Feathersworth Emporium in Oakhollow with his wife and daughter. His wares:
+- On the road, an aarakocra merchant, the self-proclaimed number one name in aven commerce, from the mountains of [[Vyrmor]]. He runs the Feathersworth Emporium in Oakhollow with his wife and son. His wares:
   - Featherweight Elixir (50 gp): a tenth of your weight for an hour.
   - Treasure compass (25 gp): its box says "Always points somewhere. Isn't that the real adventure?"
   - Pocket Phoenixes (25 gp): wooden birds that burst into harmless fireworks and reform in your pocket in 24 hours.

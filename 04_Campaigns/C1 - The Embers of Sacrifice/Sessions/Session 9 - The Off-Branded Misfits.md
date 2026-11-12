@@ -4,7 +4,7 @@ campaign: C1
 session: 9
 date:
 video: "https://www.youtube.com/watch?v=GfSxLSXS6PU"
-arc: "[[The Stone Trees Arc]]"
+arc: "[[The Mystery Beneath Oakhollow Arc]]"
 status: Done
 tags:
   - session

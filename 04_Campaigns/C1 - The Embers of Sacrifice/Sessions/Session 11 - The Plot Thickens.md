@@ -4,7 +4,7 @@ campaign: C1
 session: 11
 date:
 video: "https://www.youtube.com/watch?v=HgAw02v16Dw"
-arc: "[[The Stone Trees Arc]]"
+arc: "[[The Mystery Beneath Oakhollow Arc]]"
 status: Done
 tags:
   - session
@@ -50,7 +50,7 @@ tags:
 - **Thimble, Root and Rune.** He smoked with the clerk, who walks on the ceiling, and bought **slippers of spider climbing** for 60 gp.
 - **Wayne's egg supplies.**
   - Feather and Fang (Ordo, a ranger): a humidifier orb (3 gp) and a one-use pop-up nursery box (15 gp).
-  - **Birdolomew's Magical Emporium**, run by Birdolomew's wife with their young child, Falcon. She says Ordo hates birds and his orb would kill the egg. She held the egg and said it will be a strong girl. She sold Wayne a **heated immovable rod** to keep it warm (50 gp; Wayne paid 38 by fumbling the count). Birdolomew is overdue home. Wayne told her he's staying at the Orchid if she needs help looking for him.
+  - **Birdolomew's Magical Emporium**, run by Birdolomew's wife with their young son, Falcon. She says Ordo hates birds and his orb would kill the egg. She held the egg and said it will be a strong girl. She sold Wayne a **heated immovable rod** to keep it warm (50 gp; Wayne paid 38 by fumbling the count). Birdolomew is overdue home. Wayne told her he's staying at the Orchid if she needs help looking for him.
 
 **Bog is arrested**
 - The party met at the city-center fountain. Thimble rode on Wayne's back in his spider shoes and fell off when Wayne teleported (1 damage).
