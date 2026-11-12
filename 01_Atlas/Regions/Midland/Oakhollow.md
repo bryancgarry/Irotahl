@@ -16,7 +16,9 @@ tags: [location, city]
 - **The Bridge King's bridge.** Home of a petty, cruel goblin the party met in their earliest days.
 - **The Orchid** (Craftsman's Row). An inn run by the bartender Brena, with a steam room and a back stage. Underneath is a [[The Thieves Guild|Thieves Guild]] safe house. See [[Session 10 - The Orchid]].
 - **Shops visited** ([[Session 11 - The Plot Thickens]]): Twilight Threads (Upper Commons tailor), Whispering Wares (Noble's Rise antiques), Iron Branch Armory and Root and Rune (Craftsman's Row), Feather and Fang, and Birdolomew's Magical Emporium.
-- **The Solarium** in the Mages Guild, in the outskirts: Malrik's quarters.
+- **The Solarium** in the Mages Guild, in the outskirts: Malrik's quarters. Receptionist Ammona, and Magister Pelen keeps the keys. See [[Session 14 - A Little Bit of Everything]].
+- **The Western Gate guardhouse**, just outside the west gate, under Commander Seth. See [[Session 12 - The Establishment is Corrupt]].
+- **The sewers.** A runner's den, the wererats' hideout and a maintenance room. The city-center fountain now geysers from the valves the party turned.
 
 ## Key NPCs
 ```dataview

@@ -261,6 +261,14 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
   - Promised the unconscious Rosalie he would save her.
   - Traded his broken lute and 50 gp for Papa Glabb's lute and a music relay kit for Sheila.
   - Misty Stepped onto the Orchid's roof rather than be taken in by the Fern guards.
+- **Session 12, The Establishment is Corrupt.**
+  - Played Bog's lawyer in a *Disguise Self* suit. A natural 20 Persuasion (30) bought Bog's freedom from Commander Seth with promises of a raise, retirement, land and lordship, plus 100 gp and one of Thimble's beans.
+  - Told Bog to stop killing innocents, eyes flaring orange. Went into the wererats' hideout in disguise and was captured.
+- **Session 13, The Rat Lord.** Was strung up over the rat pool, cried "Lazy Susan," and Misty Stepped free. Dove after the Rat Lord and played dead under a wererat's body.
+- **Session 14, A Little Bit of Everything.**
+  - Reported to Sir Romulus and denied the bribe with a natural 20 Deception. Muttered "Prince Cuckold" on the way out.
+  - Healed the slashed boy's eye with Papa Glabb's lute and gave him Birdolomew's trick coin.
+  - Was shot out of the air by a Solarium drone and fed a chewed mushroom by Thimble.
 - **Hollowmere.** *(To fill in from earlier sessions: Talia and the rest.)*
 - **Session 52, The Hollow Reliquary.** Entered the Reliquary with [[King Atul Stonemarch|Atul]].
 - **Session 53, What Is Left of You.**

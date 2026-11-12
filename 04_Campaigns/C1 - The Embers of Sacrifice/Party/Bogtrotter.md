@@ -44,6 +44,15 @@ Bogtrotter is the only member of the party **not** branded. The Reliquary's bran
 - **Session 9, The Off-Branded Misfits.** Killed Fizzle under the wagon with unarmed strikes, carried her body, and went into the bushes with Dipple. Met the Fog Master in the Orchid's steam room.
 - **Session 10, The Orchid.** Breathing lessons gave his breath weapon +1 damage. Seduced the fourth friend of Heladur's group, then strangled her with rope and tried to make it look self-inflicted. Told Wayne he'd heard "dragon" and gotten angry.
 - **Session 11, The Plot Thickens.** *(Gabe absent.)* Went shopping alone and was arrested for the murder. Last seen breathing lightning from a building by the west gate.
+- **Session 12, The Establishment is Corrupt.**
+  - Told the party he choked Angelique Firestorm because "she hurt me first." Interviewed by Commander Seth, who found his rope.
+  - Freed by the party's bribe. Left a fermented milk bomb with his cellmate Dragon.
+  - Fried a rat swarm for 21 with his breath and kept five for dinner.
+- **Session 13, The Rat Lord.** Hasted. Killed a bandit and three wererats, and ate a fried rat in front of the Rat Lord.
+- **Session 14, A Little Bit of Everything.**
+  - Ate the Rat Lord's brain and carried off his torso.
+  - Armed two children with daggers, and a boy was slashed across the eye.
+  - Made the Rat Lord's skull into a codpiece.
 - **Session 53, What Is Left of You.** Punched the needle out of Thimble's head, guided Aalyn through the mindscape, threw a pebble at Alaric (the start of the beef), and ate the watermelon. Found he could stand on the void. Held on through the Soul trial.
 - **Session 54, The Heart of the Void.** *(Gabe absent. The DM ran Bog.)*
   - Jumped onto the central platform with his Ring of Jumping and breathed lightning. His surge (92) added 18 lightning damage.

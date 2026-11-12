@@ -15,9 +15,14 @@ Everything after the party returned to [[Oakhollow]] from the stone trees. Princ
 - Rosalie's condition, and the court records missing from around her birth. The previous Enclave adviser was Gormar. See [[Malrik Greene]].
 - The weapon beneath Oakhollow, and the tunnels the keep attack came through. [[Tiberius Blackfang]] is investigating, and [[The Thieves Guild]] wants the rats cleared.
 - Malrik's quarters at the Solarium in the Mages Guild.
-- The party's new name, the Off-Branded Misfits, and Bog's murder arrest.
+- The party's new name, the Off-Branded Misfits, and Bog's murder arrest. Bog was bribed free from Commander Seth (Session 12).
+- The wererats and the Rat Lord in the sewers, cleared in Sessions 12 to 14. Silas named the Enclave's runner: Calder.
+- The Solarium: a glyph of warding, guardian drones, a broken solar refractory, and a hidden chest from Alaric's parents (Session 14).
 
 ## Recorded Sessions
 - [[Session 9 - The Off-Branded Misfits]]
 - [[Session 10 - The Orchid]]
 - [[Session 11 - The Plot Thickens]]
+- [[Session 12 - The Establishment is Corrupt]]
+- [[Session 13 - The Rat Lord]]
+- [[Session 14 - A Little Bit of Everything]]

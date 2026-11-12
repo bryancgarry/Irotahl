@@ -240,6 +240,12 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
   - Got Tiberius to join them in the tunnels. Bought studded leather and +1 darts for his bagpipes.
   - For the egg: a humidifier orb, a nursery box, and a heated immovable rod from Birdolomew's wife.
   - Chased Bog's guards and lost them.
+- **Session 12, The Establishment is Corrupt.** Psionic link with Bog during the interview. Let slip the bar under the Orchid to Commander Seth. Natural 20 Perception and lockpicking in the sewers, and killed the giant rat.
+- **Session 13, The Rat Lord.** Cut Aalyn's rope with a thrown dagger. The Rat Lord broke a tooth on him, and he passed both wererat bite saves.
+- **Session 14, A Little Bit of Everything.**
+  - Took the Rat Lord's Hat. It hasn't answered him yet, though the Rat Lord's blood made it feel more connected.
+  - Turned in the contract to Silas for 50 gp and the name **Calder**. Paid for new tokens by cutting his hand four times.
+  - First battle use of his bagpipe darts: 24 to kill a drone.
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **The salamanders.** Claimed the title Kyn'Ruthar to them. The fire sages traced Nerevath's silhouette into his stone.
 - **Session 52, The Hollow Reliquary.**

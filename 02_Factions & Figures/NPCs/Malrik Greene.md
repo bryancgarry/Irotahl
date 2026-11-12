@@ -27,3 +27,4 @@ tags: [npc, apostle, villain]
   - He walked back to Oakhollow alone with Aalyn's potion of healing. See [[Session 6 - The Path to Godspire Ruins]].
 - **Session 9.** A black-robed man with a hobble pointed Muzzle's gnomes toward Thimble from a back alley.
 - **Session 11.** He never returned to Oakhollow. He took over as adviser after Rosalie's birth, which is when the court's records go missing. Sir Romulus thinks he was a student or devotee of the previous adviser, **Gormar**. He invited the party to the reception but wasn't there himself. Romulus asked the party to search his quarters at the Solarium in the Mages Guild.
+- **Session 14.** Orthus had the Mages Guild bar access to his Solarium. Its door had been tampered with from the inside. A glyph of warding guarded the solar refractory, and construct drones defended the room. A hidden storeroom held a chest for Alaric from his parents. See [[Session 14 - A Little Bit of Everything]].

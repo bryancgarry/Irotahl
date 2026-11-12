@@ -138,6 +138,13 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 9, The Off-Branded Misfits.** Hasted Bragthar against the gnomes. Major Image of the Bridge King battle for Aalyn's show. Steamed his own tub at the Orchid so he wouldn't see Bog.
 - **Session 10, The Orchid.** Saw a vision of a hot spring oasis in his homeland in the steam. Rescued potted-plant Thimble from Mibo.
 - **Session 11, The Plot Thickens.** Insight 21: Tiberius wasn't surprised Bog is unbranded. Commissioned the five Off-Branded Misfits patches. Sent Thimble Jr. II to Sir Romulus when the guards closed in.
+- **Session 12, The Establishment is Corrupt.** Sold two chain shirts at the Iron Branch Armory for 120 gp. Lost the apple juice race, and sulked after his "criminals are rats" joke flopped.
+- **Session 13, The Rat Lord.** Hasted Bog. His Fireball was blocked by a rat shield. Scorching Ray killed a wererat and the last bandit, and his illusion cried "Run, my child, run."
+- **Session 14, A Little Bit of Everything.**
+  - Made the ice ladder out of the sewer. His water and fire dragons set Bog off, and he fled a mob of children.
+  - The party couldn't pick him out from three cosplayers.
+  - A natural 20 Persuasion got the Solarium key from Magister Pelen. Set off the glyph of warding, and caught Aalyn with *Feather Fall*.
+  - **Found a hidden chest with a letter and a cloak from his parents.**
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **Session 53, What Is Left of You.**
   - Revealed his own path through the mindscape on a 28 and finished second, then guided Bog home with nothing but gestures.

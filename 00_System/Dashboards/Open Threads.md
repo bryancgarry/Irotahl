@@ -60,8 +60,19 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] Gormar, the records missing from around Rosalie's birth, and Orthus's silence (Session 11).
 - [ ] Why Tiberius carries the brand (Session 11).
 - [ ] Rosalie's growing maroon magic (Session 11).
-- [ ] Bog's murder arrest and the party's questioning by the Fern guards (Session 11).
+- [x] Bog's murder arrest and the party's questioning by the Fern guards (Session 11). Bribed free in Session 12.
 - [ ] Birdolomew's whereabouts (Session 11).
+- [ ] What Bog's retroactive Sleight of Hand 21 at the Orchid was for (Session 12).
+- [ ] Angelique Firestorm's death, and Ino Silvertone's mother's 200 gp bribe (Session 12).
+- [ ] Aalyn's promises to Commander Seth (raise, early retirement, land, lordship), and Seth's magic bean (Session 12).
+- [ ] Dragon, the bald cellmate, and the milk bomb (Session 12).
+- [ ] What wakes the Rat Lord's Hat (Session 14).
+- [ ] Bog's Rat Lord's skull codpiece as a magic item (Session 14).
+- [ ] Calder, the Enclave's runner, at the fighting pits (Session 14).
+- [ ] Who tampered with the Solarium, and why Orthus barred access (Session 14).
+- [ ] Alaric's parents' letter and cloak (Session 14).
+- [ ] The dragon seen outside the city (Session 14).
+- [ ] The rift between Romulus's guards and the Oakhollow guard (Session 14).
 
 ## Setting
 - [ ] Hollowmere's and Vermillion Bay's exact place on the map.
