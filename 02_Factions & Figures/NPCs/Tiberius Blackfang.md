@@ -21,3 +21,4 @@ tags: [npc]
 - In [[Session 12 - The Establishment is Corrupt]] he waited for the party under the Orchid for hours, then went back to the keep.
 - In [[Session 14 - A Little Bit of Everything]] Silas said Tiberius works closely with a member of the Obsidian Enclave (Orthus).
 - In [[Session 17 - The Vault]] he was guarding Rosalie's door. He said he doesn't work for the Enclave ("My allegiance is to the Darken family"), that Darkstone has its own Enclave adviser, and that the Enclave keeps tabs on everyone but is no threat.
+- In [[Session 18 - The Stage is Set]] he brought word that Malrik was seen at the Grand Cathedral, brought Bragthar and Sheila, and gave the party a sending stone to call him. He waited outside.

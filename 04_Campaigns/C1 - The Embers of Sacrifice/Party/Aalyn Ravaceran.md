@@ -277,6 +277,15 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
   - She poured inky red energy into his rapier. Burning runes appeared on his neck, and one swing blew a hole through the Orchid. His hair now has black roots.
   - Apologized to Alaric and Wayne, and promised no more killing.
 - **Session 17, The Vault.** Caught Thimble's lie about Bog. Played the distraction in Noble's Rise with a natural 20 country song, holding up the butler and earning 80 gp.
+- **Session 18, The Stage is Set.**
+  - Reached Rosalie with *Message*: "Pain. It hurts." Promised her he'd save her. "I know you will."
+  - The words he first heard in Session 1 made sense through the mask: "Come save me. I am beneath the cathedral." He kept the exact words to himself.
+  - Put on the mask in the chamber and saw Tula inside the demon. Told her about Rosalie, and she showed the party her memories.
+- **Session 19, The Fight Begins.** Flew up to confront Malrik and held onto the mask when Malrik tried to pull it away. Called on Tula to help save Rosalie. Went down to frost and abyssal lightning; Thimble pulled him out and healed him.
+- **Session 20, The Ascension.**
+  - Begged the party through the link to give Tula the gemstone, and asked them not to kill her.
+  - Once she had it, he smirked, told his patron "I hope it was worth it," and dropped his rapier.
+  - Stayed behind to tie up the unconscious Malrik.
 - **Hollowmere.** *(To fill in from earlier sessions: Talia and the rest.)*
 - **Session 52, The Hollow Reliquary.** Entered the Reliquary with [[King Atul Stonemarch|Atul]].
 - **Session 53, What Is Left of You.**

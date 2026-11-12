@@ -85,6 +85,15 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] The wooden mask (Volkarr work), the Fern pendant, and Malrik's logs from the Valeheart vault (Session 17).
 - [ ] Edith Valeheart and her butler Buro (Session 17).
 - [ ] The other names in the Valeheart vault ledger (Session 17).
+- [ ] The wild magic playing card from the mask, and the cards in the Fenwyn vault (Session 18).
+- [ ] Why Malrik recruited Alaric as an illusionist (Session 18).
+- [ ] Wayne's egg is close to hatching (Session 18).
+- [ ] Malrik's vision of the future and "the vessel" (Session 19).
+- [ ] The Bridge King risen as a demon lord, and what happens next (Session 20).
+- [ ] Malrik, unconscious and tied up (Session 20).
+- [ ] Bog drank the bone naga's fluid; mystery affliction (Session 20).
+- [ ] Sheila inert in wagon form, missing an arm and a wheel (Session 20).
+- [ ] Party level 6 after the Session 21 opening scene.
 
 ## Setting
 - [ ] Hollowmere's and Vermillion Bay's exact place on the map.

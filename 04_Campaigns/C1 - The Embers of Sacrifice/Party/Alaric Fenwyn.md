@@ -154,6 +154,11 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
   - Paid for rooms at the Dirty Stump. Summoned a three-eyed space guppy by mistake.
   - Sensed that Aalyn's magic comes from another source. Says he only ever worked *with* the Enclave.
 - **Session 17, The Vault.** Romulus knows who he is. Cast *Invisibility* on Wayne and Bog for the heist, and remembered the vault code (1497).
+- **Session 18, The Stage is Set.** Saw the vault's dust and shadow guards through the guppy. Identified the potions, and identified the mask by ritual. Froze the pit trap and found the walkway lever in the catacombs.
+- **Session 19, The Fight Begins.** Read through the chains. Caught the gemstone on the second try and hid it in his bag of holding.
+- **Session 20, The Ascension.**
+  - Malrik called him "Son" and asked for the artifact. "You're not my dad."
+  - Hasted Bog. Listened to Aalyn and tossed the gemstone to Tula, then caught her in *Web*. Made a mental note about whom to listen to.
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **Session 53, What Is Left of You.**
   - Revealed his own path through the mindscape on a 28 and finished second, then guided Bog home with nothing but gestures.

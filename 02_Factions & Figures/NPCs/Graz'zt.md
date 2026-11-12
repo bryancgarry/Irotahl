@@ -28,3 +28,4 @@ tags: [npc, godhand]
 
 ## Played
 - As the Bridge King he held his bridge outside Oakhollow with [[Bragthar]], lost his crown to Wayne, and floated away downriver. See [[Session 3 - The Bridge King]]. Thimble later skipped a stone off his skull: "I will remember that."
+- In [[Session 20 - The Ascension]] the party found him flayed and bound on a pedestal beneath the Grand Cathedral. Tula had placed the gemstone in his chest, and he rose about 12 ft tall as a demon lord.

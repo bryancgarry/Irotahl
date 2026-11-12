@@ -255,6 +255,12 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
   - Showed Tiberius the note. Broke into the Valeheart estate invisible and completed the heart key.
   - Crossed the pressure tiles with a rolling torch, which set off a silent alarm.
   - Opened the vault with 1497 and took 400 gp, the wooden mask (Volkarr work), a Fern pendant and Malrik's logs.
+- **Session 18, The Stage is Set.**
+  - Finished the vault: 500 more gp, six potions, navigational charts and two jade daggers. Left the vault door open.
+  - Repaid Aalyn with a greater healing potion. The daggers feel like his psionic blades.
+  - Took Tiberius's sending stone. Bragthar calls him "My king." The Pendant of the Ferns opened Tula's tomb.
+- **Session 19, The Fight Begins.** Went Large and invisible, cracked Malrik's ward with a thrown jade dagger, and threw the gemstone to Alaric.
+- **Session 20, The Ascension.** Destroyed the last golem. Tried to grapple Malrik, then cloud jaunted after Tula and touched the gemstone with his fingertips, but couldn't take it. Thrown back by a wall of force when he tried to cut it out of the Bridge King.
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **The salamanders.** Claimed the title Kyn'Ruthar to them. The fire sages traced Nerevath's silhouette into his stone.
 - **Session 52, The Hollow Reliquary.**

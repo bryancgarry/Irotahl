@@ -20,6 +20,7 @@ Everything after the party returned to [[Oakhollow]] from the stone trees. Princ
 - The Solarium: a glyph of warding, guardian drones, a broken solar refractory, and a hidden chest from Alaric's parents (Session 14).
 - The Enclave's "WATCH THEM" note, and the fight at the pits that ended with Aalyn blowing a hole through the Orchid (Sessions 15 and 16).
 - Edith Valeheart's vault: the wooden mask from the ruins, a Fern pendant, and Malrik's logs (Session 17). The DM says the arc is nearing its end.
+- The Fern catacombs beneath the Grand Cathedral, Tula Fern in chains, and the fight with Malrik. Tula took the gemstone, and the former Bridge King rose as a demon lord (Sessions 18 to 20).
 
 ## Recorded Sessions
 - [[Session 9 - The Off-Branded Misfits]]
@@ -31,3 +32,6 @@ Everything after the party returned to [[Oakhollow]] from the stone trees. Princ
 - [[Session 15 - Here We Go Again]]
 - [[Session 16 - Action and Apologies]]
 - [[Session 17 - The Vault]]
+- [[Session 18 - The Stage is Set]]
+- [[Session 19 - The Fight Begins]]
+- [[Session 20 - The Ascension]]

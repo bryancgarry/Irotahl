@@ -58,6 +58,12 @@ Bogtrotter is the only member of the party **not** branded. The Reliquary's bran
 - **Session 17, The Vault.**
   - Dreamed of being a hungry gecko who planted trees, and woke in the hay with 4 temporary hit points.
   - Revealed his wings, which he flies on every morning. Flew Wayne's rope to the estate's chimney.
+- **Session 18, The Stage is Set.** Pulled Buro back with the Rat Lord's Skullcup, claimed to be Malrik's inspector, and lectured him about dust.
+- **Session 19, The Fight Begins.** Destroyed three flying swords with his fists, the first on back-to-back natural 20s.
+- **Session 20, The Ascension.**
+  - Used the Bridge King's Scepter for the first time. Its tentacles restrained the bone naga and later Malrik.
+  - Destroyed the naga and drank what came out of it. Effect unknown.
+  - Knocked Malrik out without killing him.
 - **Session 53, What Is Left of You.** Punched the needle out of Thimble's head, guided Aalyn through the mindscape, threw a pebble at Alaric (the start of the beef), and ate the watermelon. Found he could stand on the void. Held on through the Soul trial.
 - **Session 54, The Heart of the Void.** *(Gabe absent. The DM ran Bog.)*
   - Jumped onto the central platform with his Ring of Jumping and breathed lightning. His surge (92) added 18 lightning damage.
