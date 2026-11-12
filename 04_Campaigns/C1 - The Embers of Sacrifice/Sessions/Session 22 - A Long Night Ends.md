@@ -109,7 +109,7 @@ tags:
 
 > [!secret] Links to later lore
 > revealed:: false
-> *(To confirm: whether the gemstone on Malrik's charts is another [[Embers of Sacrifice|Ember of Sacrifice]].)*
+> The gemstone on Malrik's charts is another [[Embers of Sacrifice|Ember of Sacrifice]].
 
 > [!warning] Changes that affect Session 23
 > - Rosalie is dead. Prince Darken is alive, missing his arm and part of his side, in the Silvertone mother's care.

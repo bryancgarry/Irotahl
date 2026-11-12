@@ -104,7 +104,7 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] The mask stuck to Thimble's face (Session 22).
 - [ ] Malrik's Abyssal grimoire (Session 22).
 - [ ] D. Bronzebottom and the aetherstone order (Session 22).
-- [ ] The charted gemstone between Midland and Syfaeril (Session 22).
+- [ ] The charted gemstone between Midland and Syfaeril, another Ember of Sacrifice (Session 22).
 - [ ] The Bloodlancer army at Oakhollow; stay or leave (Session 22).
 - [ ] Alaric's letter to his parents (Session 22).
 - [ ] Bog and the dead maid (Session 22).
