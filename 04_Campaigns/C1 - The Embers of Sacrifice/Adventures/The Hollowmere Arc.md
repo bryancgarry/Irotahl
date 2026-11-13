@@ -41,7 +41,7 @@ The party's current arc, in the city of mists and the ruins beneath it.
 - [[Session 48 - Magic Mushroom Fun Pt. 2]]
 - [[Session 49 - The Rock God]]
 - [[Session 50 - Into the Inferno]]
-- [[Session 51 - The Wayne and Thimble Episode]]
+- [[Session 50.5 - The Wayne and Thimble Episode]]
 
 ## Threads
 - **The city.** V's Lounge, the Temple of 1000 Candles, the Cult of the Dark Moon, the missing patrons, and Vaelindra's egg. See [[Hollowmere]].

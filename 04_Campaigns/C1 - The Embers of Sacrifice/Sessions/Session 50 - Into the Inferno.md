@@ -94,7 +94,7 @@ tags:
 > - The sealed door at the top of the spiral stair.
 > - The merchants' alliance symbol.
 
-> [!warning] Changes that affect Session 51
+> [!warning] Changes that affect Session 50.5
 > - Wayne and Thimble face Vistro and his guards; Thimble has taken 18 fire. The others are a long way off.
 > - Vistro has the star ruby.
 > - Aalyn's stone greataxe is magic (a spell, fire resistance); three silver ingots spent. He has a rapier mold and the keycard.

@@ -212,10 +212,10 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] Bog's power station (Session 50).
 - [ ] The early merchants' alliance symbol in the market (Session 50).
 - [ ] Vistro and the Danglesworths: why he was banished (Session 50).
-- [ ] Vistro's task: the tome back to the temple, then his sages' "ritual," which he's lying about (Session 51).
-- [ ] The Mind Medallion: "bring it to the temple" (Session 51).
-- [ ] Old Ash Tongue (Session 51).
-- [ ] The combined Vistro and Nerevath summon (Session 51).
+- [ ] Vistro's task: the tome back to the temple, then his sages' "ritual," which he's lying about (Session 50.5).
+- [ ] The Mind Medallion: "bring it to the temple" (Session 50.5).
+- [ ] Old Ash Tongue, now traveling with the party (Session 50.5).
+- [ ] The combined Vistro and Nerevath summon (Session 50.5).
 
 ## Setting
 - [ ] Hollowmere's and Vermillion Bay's exact place on the map.

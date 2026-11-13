@@ -16,7 +16,7 @@ Their ancestors laid siege to the Reliquary on the [[Elemental Plane of Fire]] u
 
 ## With the Party
 - Wayne claimed the title Kyn'Ruthar to them, and Thimble revealed the Tome of Malcanthet. It ended in a fight, then peace.
-- Vistro and the sages marked Thimble and Wayne with summoning tattoos, and enhanced Aalyn's stone battle-axe in the fire enchantment chamber.
+- Vistro and the sages marked Thimble and Wayne with summoning tattoos ([[Session 50.5 - The Wayne and Thimble Episode|Session 50.5]]).
 - Vistro asked the party to rid the material plane of the Reliquary.
 
 > [!secret] What the ring holds in

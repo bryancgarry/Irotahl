@@ -94,7 +94,7 @@ Hollowing is Malcanthet's art, perfected by her hollowers in the Soul Sanctum. I
 - The party sailed the lava lake beyond Durnhollow and found a temple at its center, leaning and wrong, sealed behind a ring of living fire.
 - Stone berserkers knelt to Wayne and named him their god.
 - Wayne and Thimble met Salamander King Vistro IV. Wayne claimed the title Kyn'Ruthar, and Thimble revealed the Tome of Malcanthet. It ended in a fight.
-- In the end, the salamanders made peace with them. Vistro and the fire sages marked them with summoning tattoos: the crimson seal of the Vistro family on Thimble's palm, and a silver goose-dragon on Wayne that calls a vestige of Nerevath. Aalyn's stone battle-axe was enhanced in the fire enchantment chamber.
+- In the end, the salamanders made peace with them. Vistro and the fire sages marked them with summoning tattoos: the crimson seal of the Vistro family on Thimble's palm, and a silver goose-dragon on Wayne that calls a vestige of Nerevath. Separately, Aalyn's stone greataxe was enhanced in the dwarven fire enhancement chamber (Session 50).
 - Vistro asked the party to find a way to rid the material plane of the temple.
 - The fire sages parted the barrier, and the party crossed onto the island. There they found an army of dwarves, every one of them stone, frozen mid-charge toward the temple doors, with a crowned king at their center.
 - The Mind Medallion was pressed to the king's chest. Light cracked through the stone. And King Atul Stonemarch began to wake.

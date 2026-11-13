@@ -1,7 +1,7 @@
 ---
 type: session
 campaign: C1
-session: 51
+session: 50.5
 date:
 video: "https://www.youtube.com/watch?v=CfeMRJDNu3Y"
 arc: "[[The Hollowmere Arc]]"
@@ -9,13 +9,13 @@ status: Done
 tags:
   - session
 ---
-# Session 51: The Wayne and Thimble Episode
+# Session 50.5: The Wayne and Thimble Episode
 
 **Party:** Level 7 ([[Thimblewick Danglesworth|Thimble]], [[Wayne Kerr|Wayne]]); [[Aalyn Ravaceran|Aalyn]], [[Alaric Fenwyn|Alaric]] and [[Bogtrotter]] not in this session
 **Ref:** [[Session 50 - Into the Inferno]], [[Vistro IV]], [[The Fire Sages of Vistro]], [[The Demonomicon]], [[The Mind Medallion]], [[King Atul Stonemarch]], [[Durnhollow]]
 
-> [!important] Played: "The Wayne and Thimble Episode"
-> [Watch on YouTube](https://www.youtube.com/watch?v=CfeMRJDNu3Y). Just Wayne and Thimble. Vistro's trident hit Wayne once, and they surrendered the tome, which shrugged off his trident. They were towed to a salamander city hidden in a great lava pillar and locked in a stalactite prison beside Old Ash Tongue, who sang them a song about the Kyn'Ruthar. They broke out between the bars' pulses, threw a guard into the lava, and walked out in his cloak, straight into a trial by combat. They won it to a roaring crowd. Vistro recognized Thimble's medallion as King Atul's, gave back the tome, and asked them to return it to the temple. In return he would lower the barrier, and he was lying about what his sages' ritual can do. The fire sages tattooed Vistro's crest on Thimble's palm and Nerevath on Wayne's.
+> [!important] Played: "The Wayne and Thimble Episode" (Episode 50.5)
+> [Watch on YouTube](https://www.youtube.com/watch?v=CfeMRJDNu3Y). An in-between episode with just Wayne and Thimble. Vistro's trident hit Wayne once, and they surrendered the tome, which shrugged off his trident. They were towed to a salamander city hidden in a great lava pillar and locked in a stalactite prison beside Old Ash Tongue, who sang them a song about the Kyn'Ruthar. They broke out between the bars' pulses, threw a guard into the lava, and walked out in his cloak, straight into a trial by combat. They won it to a roaring crowd. Vistro recognized Thimble's medallion as King Atul's, gave back the tome, and asked them to return it to the temple. In return he would lower the barrier, and he was lying about what his sages' ritual can do. The fire sages tattooed Vistro's crest on Thimble's palm and Nerevath on Wayne's.
 
 ## What Happened at the Table
 
@@ -87,14 +87,14 @@ tags:
 > - Vistro's impossible task: the Reliquary can't be unmade from this side. See [[Vistro IV]].
 > - Old Ash Tongue, Essi, and why the Danglesworths got Vistro banished.
 
-> [!warning] Changes that affect Session 52
+> [!warning] Changes that affect Session 51
 > - Thimble has the tome back and the Mind Medallion. Vistro's tattoo on his right palm. Heroic inspiration. Surge die d12. Tides of Chaos spent.
 > - Wayne: the Nerevath tattoo on his right palm. Heroic inspiration. Took 8 piercing and 11 fire.
-> - Old Ash Tongue is with them.
+> - Old Ash Tongue is with them and now travels with the party.
 > - Vistro will lower the barrier when the party is ready.
 > - They're sailing back to the market under escort.
 
-> [!warning] Open from Session 51
+> [!warning] Open from Session 50.5
 > - Vistro's task: the tome back to the temple, then the "ritual."
 > - The Mind Medallion and the temple.
 > - The combined tattoo form.
