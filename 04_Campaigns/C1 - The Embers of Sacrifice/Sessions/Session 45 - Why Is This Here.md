@@ -34,7 +34,7 @@ tags:
 **Wayne's pump**
 - Wayne (with Bog trailing him) came out of a pipe into **a grimy, water-damaged maintenance room** behind a cave-in, with **the third pump**.
 - He solved its puzzle with 30 seconds to spare, then caught a wrong piece with a DC 25 Sleight of Hand. **Pockets of gray ooze on the ceiling**, full of corroded tools, jiggled but didn't fall.
-- The pump started; a light came on; blast doors opened on **another enhancement chamber**, its water churning but idle.
+- The pump started; a light came on; blast doors opened on **another enhancement chamber**, its water churning but idle. **Wayne started the fourth pump as well.**
 - Bright lights came on and blinded him through his night goggles.
 
 **The flooded archive**
@@ -74,7 +74,7 @@ tags:
 
 **The conduit room**
 - Alaric's tingle is stronger, still to the north.
-- With the pumps running, the south door off the turbine opened: a small chamber with **four pumps feeding a central conduit.**
+- With all four pumps running (Wayne started the last two), the south door off the turbine opened: a small chamber with **four pumps feeding a central conduit.**
 - Thimble went back to the study: **the teleportation circle is in frequent use.** Alaric is reading the books through Rec.
 - **Wayne and Bog walked onto the conduit room's center.** Nothing yet. Session ends.
 
@@ -84,7 +84,7 @@ tags:
 > [!secret] Links to later lore
 > revealed:: false
 > - The study is [[Vashara]]'s: the circle, the rat, the fresh notes. See [[Durnhollow]].
-> - The medallion with a face: likely [[The Mind Medallion]], made by Vashara for [[King Atul Stonemarch]].
+> - The medallion with a face is [[The Mind Medallion]], made by Vashara for [[King Atul Stonemarch]].
 > - The pact: [[Vashara]] was the drow princess; the four elementals.
 > - The eclipse in the pool. See [[Moon Darkenings]].
 > - The aberration to the north.

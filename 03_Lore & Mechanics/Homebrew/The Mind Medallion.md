@@ -4,7 +4,7 @@ aliases: [Mind Medallion]
 base_item: Homebrew
 rarity: rare
 attunement: false
-holder: 
+holder: "[[Thimblewick Danglesworth]]"
 campaigns: [C1]
 tags: [item]
 ---
@@ -12,7 +12,7 @@ tags: [item]
 
 **Re-flavor of:** Homebrew
 **Rarity:** Rare
-**Holder:** None yet
+**Holder:** [[Thimblewick Danglesworth|Thimble]], since [[Session 45 - Why Is This Here]]
 
 ## Flavor
 Made by [[Vashara]]. Wakes [[King Atul Stonemarch]]'s stone body while it rests on his brow. If the party saves Atul in [[Session 55]], it comes back nearly spent: one last charge.
@@ -38,3 +38,6 @@ Paste-ready text for D&D Beyond.
 A medallion of dark dwarven silver set with a single pale stone, made by Queen Vashara of Durnhollow in the years before her fall. The stone is cracked now, and its glow is very faint.
 
 Waking. While the medallion rests against the brow of King Atul Stonemarch's stone body, his mind wakes and he can move and speak. One charge remains. When it is expended, Atul wakes for 1 hour, and then the stone in the medallion goes dark for good.
+
+## Played
+- Thimble spoke Malcanthet's true name at her statue in Vashara's hidden study in Durnhollow, and its drawer gave him the medallion: radial, with a face at the center. It contains something, like his ring of mind shielding ([[Session 45 - Why Is This Here]]). It hummed back when he tried to reach it ([[Session 46 - A Quick One]]).

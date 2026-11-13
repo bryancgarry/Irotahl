@@ -20,7 +20,7 @@ tags:
 ## What Happened at the Table
 
 **The conduit**
-- Alaric's player was away. At the table, Aalyn explained that **Alaric got "Pokéballed" by the big robots** and carried off.
+- **Alaric was captured by the big robots** ("Pokéballed," as Aalyn put it) and is gone for this session, to cover his player being away.
 - In the conduit room: water on the floor, **four pipes pouring water in the colors of the pumps**, and **a central conduit** running floor to ceiling with arcane sigils and channeling rings, **four intakes**, missing some rusted pieces but still functional. It needs a kick.
 - **Bog breathed lightning on it (9).** The lights died for five seconds, then came back on. "I think that's my stomach, guys."
 - The pumps rushed water in; a swell of water rolled across the floor and coalesced on the conduit into **the Tide Warden**, a water version of the Tempest Warden, furious. **Ice mephits** dripped from the ceiling and **gray oozes** rose from the floor.
@@ -63,4 +63,4 @@ tags:
 > [!warning] Open from Session 46
 > - The blue orbs and the conduit's intakes.
 > - The merged ooze.
-> - Where Alaric is, in the fiction.
+> - Alaric's return from capture.
