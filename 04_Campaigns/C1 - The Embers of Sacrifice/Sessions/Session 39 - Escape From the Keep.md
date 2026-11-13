@@ -15,7 +15,7 @@ tags:
 **Ref:** [[Session 38 - Digging For Information]], [[Hollowmere]], [[Vashara]], [[Luna au Vermillion|Luna]], [[Corvin Hale]], [[Talia|Talia Shay]], [[The Holy Chain Knights]], [[The Pale Codex]], [[Papa Glabb]], [[Durnhollow]], [[The Demonomicon]], [[Rec]]
 
 > [!important] Played: "Escape From the Keep" (Episode 39)
-> [Watch on YouTube](https://www.youtube.com/watch?v=XeGD-L3wcAQ). Bog woke bound and blindfolded in V's, aware that he had told a voice everything about the party, that scales were plucked from his back, and that the words "the lounge misses you" will call him back. Devils turned out to be unknown in the world. Luna expects to lose her rank, and asked the party to take the mag lift down to Durnhollow with her in the morning. Thimble read his Demonomicon tome and gained a legendary boon. At breakfast Alaric and Aalyn watched Luna taken away in a carriage, and Corvin Hale sent the knights after the party. Three went out the windows invisible; Alaric and Aalyn, disguised as knights, walked out of the restricted section with the Pale Codex and Papa Glabb's harp and songbook. They regrouped at the Drunken Star, where Talia gave Aalyn the missing patrons' details, and chose the dwarven ruins.
+> [Watch on YouTube](https://www.youtube.com/watch?v=XeGD-L3wcAQ). Bog woke bound and blindfolded in V's, aware that he had told a voice everything about the party, that scales were plucked from his back, and that the words "the lounge misses you" will call him back. Devils turned out to be unknown in the world. Luna expects to lose her rank, and asked the party to take the mag lift down to Durnhollow with her in the morning. Thimble read his Demonomicon tome, and something new appeared in his equipment. At breakfast Alaric and Aalyn watched Luna taken away in a carriage, and Corvin Hale sent the knights after the party. Three went out the windows invisible; Alaric and Aalyn, disguised as knights, walked out of the restricted section with the Pale Codex and Papa Glabb's harp and songbook. They regrouped at the Drunken Star, where Talia gave Aalyn the missing patrons' details, and chose the dwarven ruins.
 
 ## What Happened at the Table
 
@@ -55,7 +55,7 @@ tags:
 **Morning, rain**
 - **Bog returned soaked.** He was "put under some sort of spell, that was kind of cool," and they'll probably have to kill "that purple lady." She touched him. **"I also told her all about you guys."** Aalyn works for her now, so he'd rather she lived. Bog will kill her "at some point."
 - **Alaric showed Aalyn the rod of resurrection** and a full page on it in his book. "Just be careful."
-- **Thimble read the tome.** (The DM confirmed volume zero came from Malrik's vault.) The pages are blank until you pass an INT save (16 with advantage). Alaric felt the malice coming off it. Words began to flutter: **Thimble gained a new legendary boon** and sat studying, eyes rolled back.
+- **Thimble read the tome.** (The DM confirmed volume zero came from Malrik's vault.) The pages are blank until you pass an INT save (16 with advantage). Alaric felt the malice coming off it. Words began to flutter: **a new item appeared on Thimble's sheet**, and he sat studying, eyes rolled back.
 - Aalyn gave heroic inspiration to Alaric, Wayne and Thimble.
 - Wayne pulled at Pebbles across the room (she held firm), then **flicked Alaric's hat off with his mind** (Arcana 18 with advantage).
 - **Alaric soothed the silver egg with *Shape Water*: cold, humid air, not ice. It likes that.** He'll keep doing it.
@@ -81,7 +81,7 @@ tags:
 **The Drunken Star**
 - Quiet morning. Talia served cereal and a pup cup for Pebbles. Dame is the only knight who drinks here.
 - Talia: the city's in an uproar over the Imperator's arrest. **From her talks with Selara, "the powers that be wanted her out."** Luna was doing her own thing.
-- **Talia brought the details on the four names** (sent on Discord). She doesn't know where Miss V lives, never sees her by day, and thinks maybe half-elf, maybe drow. "I'd like it if you didn't kill my boss."
+- **Talia brought the details on the four names** (Garret Wulloch, Oswin Tetch, Bastian Dray, Pitor Senn; sent on Discord). She doesn't know where Miss V lives, never sees her by day, and thinks maybe half-elf, maybe drow. "I'd like it if you didn't kill my boss."
 - Options: hide with Professor Bifflefapple (Wayne would get him fired), the Tiberius sending stone (still in Wayne's inventory), walk to Glimmerstone, or kill the knights. **They chose the dwarven ruins**: the knights won't go there, the missing patrons might be there, and Bifflefapple's airship needs something from them.
 - Thimble snapped out at the word "kill": "This thing's nuts." His wild magic crackles a little more malicious now.
 - Short rest. Aalyn refilled heroic inspiration for himself, Alaric and Bog.
@@ -98,12 +98,12 @@ tags:
 > - Luna's arcane signature in [[Durnhollow]].
 > - Aalyn's hair darkening, and the contract.
 > - [[The Pale Codex]] and its Abyssal Lien passage.
-> - Thimble's legendary boon from the tome.
+> - What the Tome of [[Malcanthet]] gave Thimble.
 
 > [!warning] Changes that affect Session 40
 > - Bog is free, with the "lounge misses you" compulsion planted. Vashara knows the party.
 > - Luna has been taken away. Corvin Hale leads the hunt for the party on the keep's grounds.
-> - Alaric has the Pale Codex and the +1 longsword. Aalyn has Papa Glabb's harp and songbook. Thimble has the tome, a legendary boon, and *Soul Marks and Abyssal Bindings*.
+> - Alaric has the Pale Codex and the +1 longsword. Aalyn has Papa Glabb's harp and songbook. Thimble has the tome, what it gave him, and *Soul Marks and Abyssal Bindings*.
 > - Aalyn has the details on the four missing patrons.
 > - Alaric's ring holds *Cure Wounds* (2nd level) and a spell of his own. Alaric's 4th-level slot is spent.
 > - The party is at the Drunken Star, heading for the dwarven ruins.
@@ -115,5 +115,5 @@ tags:
 > - Aalyn's darkening hair.
 > - Mr. Strong Legs' signet, to Daggerford.
 > - The Pale Codex, and Papa Glabb's harp and songbook.
-> - Thimble's legendary boon.
+> - What the tome gave Thimble.
 > - Pebbles' matted coat.

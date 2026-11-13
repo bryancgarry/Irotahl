@@ -27,5 +27,5 @@ tags: [npc, apostle, villain]
 > She still uses Durnhollow (fresh ink, a live experimental rat, a used teleportation circle) and experiments with the vault's lithoweave.
 
 ## Played
-- In [[Session 38 - Digging For Information]] she came for Bog after his scene on the pole: plum skin, red eyes, black hair. *Dominate Person*. As "Miss V" she met Aalyn in her office, gave her name, had him sign a contract unread, and gave him four names of missing patrons.
+- In [[Session 38 - Digging For Information]] she came for Bog after his scene on the pole: plum skin, red eyes, black hair. *Dominate Person*. As "Miss V" she met Aalyn in her office, gave her name, had him sign a contract unread, and gave him four names of missing patrons: Garret Wulloch, Oswin Tetch, [[Bastian Dray]] and Pitor Senn.
 - In [[Session 39 - Escape From the Keep]] Bog woke bound in her velvet room: she had him tell her about the party, plucked his scales, and planted "the lounge misses you." Note: "Thank you for your conversation. You're welcome back anytime. V." Talia never sees her by day.

@@ -17,3 +17,6 @@ tags: [npc]
 > [!secret] Held beneath the lounge
 > revealed:: false
 > Alive, and held beneath V's Lounge by [[Vashara]].
+
+## Played
+- One of the four missing V's patrons whose names Vashara gave Aalyn ([[Session 38 - Digging For Information]]).

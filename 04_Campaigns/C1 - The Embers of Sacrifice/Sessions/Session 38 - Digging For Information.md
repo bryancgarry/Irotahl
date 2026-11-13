@@ -42,7 +42,7 @@ tags:
 - He sniffed the drink (Investigation 12: liquor), drank it, and passed a CON save (19). She ticked something on a piece of paper.
 - Talia talked about him; when she said he was in the city, Miss V had to meet him. **She gave her name: Vashara.**
 - She'll share what her halls hear for a donation. Aalyn offered free performances instead. **She slid over a contract and he signed without reading it.** She folded it in thirds. "It's just the fine print, honey. Workers' rights and all that."
-- **Four patrons have gone missing** lately. She's half glad (low-lifes, tips were down), but people whisper that something nefarious happens at V's. **She wrote four names on a slip; Aalyn doesn't know them.** Her associates will dig up where they were last seen, and **Talia will deliver the details.**
+- **Four patrons have gone missing** lately. She's half glad (low-lifes, tips were down), but people whisper that something nefarious happens at V's. **She wrote four names on a slip: Garret Wulloch, Oswin Tetch, [[Bastian Dray]] and Pitor Senn.** Aalyn doesn't know them. Her associates will dig up where they were last seen, and **Talia will deliver the details.**
 - About the man on stage: "Your guess is as good as mine." "Bring some friends."
 - Aalyn warned her, for the place's sake, to keep a scaly guy out.
 - Afterward he told Talia he signed a contract to perform. Her look worried him. Alone, he curled up and tried to call his patron ("Please God, scary..."): no answer. He found **5 gp in the couch**.
@@ -82,7 +82,8 @@ tags:
 > [!secret] Links to later lore
 > revealed:: false
 > - Miss V is [[Vashara]], Malcanthet's apostle. What's in Aalyn's contract.
-> - The tome with three fingers raised: check whether this is the Tome of [[Malcanthet]] that Thimble carries later.
+> - Bastian Dray is held beneath V's Lounge.
+> - The tome with three fingers raised is the Tome of [[Malcanthet]].
 > - The masked newcomer at V's.
 > - Willamir on the Heavenspear and [[The Rikk Borgar]].
 > - Jack's soulvite daggers, and who [[Jackmerius Tacktheratrix|Jack]] really is.
@@ -90,7 +91,7 @@ tags:
 
 > [!warning] Changes that affect Session 39
 > - Bog is under *Dominate Person*, taken by Vashara, naked. A janitor's body is under a couch at V's.
-> - Aalyn signed Vashara's contract and has four names of missing patrons; Talia will bring more.
+> - Aalyn signed Vashara's contract and has four names of missing patrons (Garret Wulloch, Oswin Tetch, [[Bastian Dray]] and Pitor Senn); Talia will bring more.
 > - Thimble has a Tome of the Demonomicon and *Soul Marks and Abyssal Bindings* (in Alaric's bag, then his). The charter volume was left behind.
 > - Luna will be summoned by the Chain Lords. The keep is on lockdown.
 > - Thimble has used *Blight*.

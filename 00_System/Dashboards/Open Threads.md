@@ -165,10 +165,10 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] The Celestial Archives' restricted section and the Chain Lords (Session 37).
 - [ ] Miss V, the masked newcomer at V's, and Gorgonzola (Session 37).
 - [ ] The unpaid hunt reward, and Corvin Hale working with the baroness (Session 37).
-- [ ] Aalyn's unread contract with Vashara, and the four missing patrons of V's (Sessions 38 to 39).
+- [ ] Aalyn's unread contract with Vashara, and the four missing patrons of V's: Garret Wulloch, Oswin Tetch, Bastian Dray, Pitor Senn (Sessions 38 to 39).
 - [ ] The janitor Bog killed at V's (Session 38).
 - [ ] Bog's compulsion, "the lounge misses you," and what Vashara learned from him (Session 39).
-- [ ] Thimble's Tome of the Demonomicon and its legendary boon (Sessions 38 to 39).
+- [ ] Thimble's Tome of Malcanthet, and what it gave him (Sessions 38 to 39).
 - [ ] Luna's arrest, the Chain Lords, and Corvin Hale's hunt for the party (Sessions 38 to 39).
 - [ ] Devils, unknown in the world (Sessions 38 to 39).
 - [ ] Jack and the soulvite daggers (Session 38).
