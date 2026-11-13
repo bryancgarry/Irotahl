@@ -196,7 +196,6 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] The aberration to the north, and the gray ooze (Sessions 45 to 46).
 - [ ] The pool's visions: "Stay," Alaric's brother, Wayne and Thimble, Bog's slug (Session 45).
 - [x] The Tide Warden fight, mid-combat (Session 46). Won in Session 47.
-- [ ] Who took the water slide's 25 gp and 67 sp; the second spectator (Session 47).
 - [ ] The vault of four doors, and the gold key "above the lava pits, take the third track" (Session 48).
 - [ ] Wayne's sprout: "the power to absorb" (Session 48).
 - [ ] Rai Zeph, Terry's, the Gilded Conservatory's healing, and the Goliath elders' call home (Session 48).

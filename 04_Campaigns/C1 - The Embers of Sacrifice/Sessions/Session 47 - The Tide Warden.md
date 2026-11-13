@@ -63,7 +63,7 @@ tags:
 
 **The water slide**
 - The other three pumps kicked on, the room flooded, then drained through the conduit's holes into **a water slide** down.
-- Investigation on the way down: **Wayne 75 gp, Thimble 51 gp**, two others 25 gp each, and the natural 1 got **67 sp**.
+- Investigation on the way down: **Wayne 75 gp, Thimble 51 gp, Aalyn and Bog 25 gp each**, and Alaric's natural 1 got **67 sp**.
 - **The water soulvite shard**, a glowing quarter sphere like the first, floated down with them. It is in the party's possession.
 - They landed on moss in **a dark, bioluminescent fungal cavern**, deeper than before, and walked out to find **another ring of mushrooms around a still pool.** Session ends.
 
@@ -79,11 +79,9 @@ tags:
 > [!warning] Changes that affect Session 48
 > - The party has the air and water soulvite shards.
 > - Thimble is hurt and his next spell surges. Alaric drank a greater healing potion; Thimble a superior healing potion.
-> - Coin: Wayne +75 gp, Thimble +51 gp, two others +25 gp, one +67 sp.
+> - Coin: Wayne +75 gp, Thimble +51 gp, Aalyn +25 gp, Bog +25 gp, Alaric +67 sp.
 > - Wayne's psionic link is still up; Rec is back with Alaric.
 > - They stand before a new mushroom circle in a fungal cavern.
 
 > [!warning] Open from Session 47
-> - Who was given the 25 gp and the 67 sp.
-> - The second spectator.
 > - The new mushroom circle.
