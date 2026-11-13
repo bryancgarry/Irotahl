@@ -79,6 +79,9 @@ Bogtrotter is the only member of the party **not** branded. The Reliquary's bran
 - **Session 29, The Holy Silver Chain Knights.** Got beer from Corvin. Nearly fired his Skullcup by accident. Passed on Barnaby's drinker's amulet. Spent the night at the Oinkers bar.
 - **Session 30, Journey Through the Fog.** *(Player absent.)* Passed out all session in an Oinkers T-shirt covered in lipstick. Wayne carried him through the fog.
 - **Session 31, Welcome to Hollowmere.** Woke up, drank an abandoned beer, and started the fight with lightning breath. Killed a bandit with a beer mug and headbutted a wererat's head off. Took Vargrax's purple eye for his necklace, and wererat teeth for his Skullcup.
+- **Session 32, Exploring the City.** Told Talia she must be disabled. Got watermelons and warm milk. Found a letter from his **secret admirer** (the time share in Oakhollow) and a V's voucher in his pocket. Gave Wayne a watermelon helmet.
+- **Session 33, Friends and Lovers.** Ate the professor's dinner. Met **Tiffany**, Vargrax's sister, in an alley, survived her false accusation, and went home with her. In the morning she learned he was in the fight that killed her brother and **stabbed him (12)**. Walked out with the dagger in him.
+- **Session 34, The Hunt Begins.** Punched Father Celery of the Fortunate Five through his celery. Lifted the tree off Sir Tobias for the mercy kill.
 - **Session 53, What Is Left of You.** Punched the needle out of Thimble's head, guided Aalyn through the mindscape, threw a pebble at Alaric (the start of the beef), and ate the watermelon. Found he could stand on the void. Held on through the Soul trial.
 - **Session 54, The Heart of the Void.** *(Gabe absent. The DM ran Bog.)*
   - Jumped onto the central platform with his Ring of Jumping and breathed lightning. His surge (92) added 18 lightning damage.

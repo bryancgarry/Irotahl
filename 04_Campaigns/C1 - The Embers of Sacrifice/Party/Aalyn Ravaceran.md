@@ -308,6 +308,9 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
   - **Vision:** Rosalie and a plague-ridden girl in a ruined amphitheater, Lolth's eyes above: "You could not save." **Lolth's challenge: find her Spool, hidden in Hollowmere, before the others.**
   - Woke, misty stepped to Luna and Thimble, and healed them both.
 - **Session 31, Welcome to Hollowmere.** A city he has tried to forget. Spotted the tall guard who recognized Wayne. Blew Vargrax the Executioner into a building with Orchestral Roar; Vargrax died on his vengeful blade, and he faked the hit. His ex, Talia Shay, ran out and grabbed him.
+- **Session 32, Exploring the City.** Free meal at the Drunken Star. Talia admitted she hoped he would come back, and gave him a pamphlet for V's, where the lady in charge wants to meet him. Stayed behind with Rec while the others went to Cinderward.
+- **Session 33, Friends and Lovers.** A drunk Dame told him Solara steers Luna and the knights are corroding. Asked about "the god hunt." Walked the old route with Talia, kissed her, and stayed the night. Promised to tell her before he leaves. "I love you. You don't have to say it back."
+- **Session 34, The Hunt Begins.** Natural 20 Persuasion on the baroness: stick to the two routes, and a relic of her ancestors in a mountain lake for a bigger prize. She says Rosalie's mother is "on holiday." Ferried party members across the rapids and the gorge, tied the rope line, and scouted the lake and the mine. Suspects the island chest is a trick.
 - **Hollowmere.** *(To fill in from earlier sessions: Talia and the rest.)*
 - **Session 52, The Hollow Reliquary.** Entered the Reliquary with [[King Atul Stonemarch|Atul]].
 - **Session 53, What Is Left of You.**

@@ -22,6 +22,9 @@ The party's current arc, in the city of mists and the ruins beneath it.
 
 ## In the City
 - [[Session 31 - Welcome to Hollowmere]]
+- [[Session 32 - Exploring the City]]
+- [[Session 33 - Friends and Lovers]]
+- [[Session 34 - The Hunt Begins]]
 
 ## Threads
 - **The city.** V's Lounge, the Temple of 1000 Candles, the Cult of the Dark Moon, the missing patrons, and Vaelindra's egg. See [[Hollowmere]].

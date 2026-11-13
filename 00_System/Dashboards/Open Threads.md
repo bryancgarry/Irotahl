@@ -139,6 +139,21 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] The tiefling orphanage, Tiffany, and the escaped wererat (Session 31).
 - [ ] The tall guard who recognized Wayne, and who was watching the party (Session 31).
 - [ ] Cinderward and the Glimmerstone professor on sabbatical (Session 31).
+- [ ] The airship and "the Heart of Never..." (Session 32); the heart of Nerevath, the goose alive, or dwarven ruins below the city (Session 33).
+- [ ] Luna's brother: the monster, the missing body, the chain link (Session 32).
+- [ ] Solara Du'Cant, Malrik's failed scrying, and her steering of Luna (Sessions 32 to 33).
+- [ ] V's and the lady who runs it (Session 32).
+- [ ] Bog's secret admirer from the Oakhollow time share (Session 32).
+- [ ] Wayne's feat: Magic Initiate or Telekinetic (Session 32).
+- [ ] Jud as "Knight Zodius": his brand, the fey grove, and the healed bear (Session 33).
+- [ ] Wayne the hollow husk and his sprout (Session 33).
+- [ ] Dame's doubts about the knights (Session 33).
+- [ ] Tiffany knows Bog was in the fight that killed Vargrax (Session 33).
+- [ ] The baroness's hunt for Nerevath and its rivals (Sessions 33 to 34).
+- [ ] The baroness's ancestral relic in the mountain lake, and her promised audience (Session 34).
+- [ ] Rosalie's mother "on holiday" (Session 34).
+- [ ] The gray beast in Sir Tobias's notes, and the Strong Legs ring (Session 34).
+- [ ] The old mine disturbing Thimble's compass (Session 34).
 
 ## Setting
 - [ ] Hollowmere's and Vermillion Bay's exact place on the map.

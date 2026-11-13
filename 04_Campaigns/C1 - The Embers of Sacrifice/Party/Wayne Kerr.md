@@ -175,6 +175,7 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - Cloak of Protection, Blowgun of Warning (with Walloping needles), Gloves of Thievery, Goggles of Night, Periapt of Health, Ring of Water Walking, Wand of the War Mage +1, two +1 darts, Dust of Disappearance.
 - **Egg care for Pebbles:** Humidifier Orb, Egg Shelter Charm, Incubation Rod.
 - **Symbol of the Off-Branded Misfits.**
+- ***Wizardry 101.1*, the revised edition**, from Professor Bifflefapple (Session 32). Exercises in the back. And a temporary Cinderward faculty badge in Bifflefapple's name.
 - **Keepsakes and evidence:** a letter from General Veraxous about the Bloodlancers' first wave attacking Oakhollow, ruined heavy armor and a commander's mace, the Half Heart key, an amulet from the king, the Pendant of the Ferns, a wooden mask from the Goliath shamans, a sending stone to [[Tiberius Blackfang|Tiberius]], Malrick's logs, navigational charts, 7 screaming rocks, and 27 river dogs.
 - **Contacts:** Rai Zeph, the black bear at Terry's.
 
@@ -272,6 +273,9 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 29, The Holy Silver Chain Knights.** Natural 20 Religion on Luna's order. Pulled a rat out of his bag in front of the knights. His magic missile broke Barnaby's wheel; bought **goggles of night** and a **cloak of protection**. Drank apple juice with seeds in it. Went incorporeal in the wild magic cloud.
 - **Session 30, Journey Through the Fog.** Nearly cut the seeds out with his Sun Blade. **Woke with a sprout on his head**; sunlight feeds him. His sprout spun up a gust when he tried magic. **Carried the party through the fog:** fetched a chime invisible, cut a hoof off one Wendigo, carried Alaric and Bog, and killed another with a 48-damage dagger crit.
 - **Session 31, Welcome to Hollowmere.** Known as the stone warrior of the mist. A tall guard recognized him. The wererats want his hat. Killed two bandits and maimed a wererat.
+- **Session 32, Exploring the City.** Used his free 20 to pose as Professor Bifflefapple and got a temporary faculty badge. Got *Wizardry 101.1*. With a watermelon helmet, **pulled a psionic dagger to his hand ("Wayne's Pull")**. Working toward Magic Initiate or Telekinetic.
+- **Session 33, Friends and Lovers.** Professor Lyra: he's a hollow husk who absorbs everything he eats; the sprout is harmless and feeds on that. Kept it. The goose the city hunts is his. Jud slept in his bed. Thinks he pulled the dagger from Solara. She called him too stupid for magic.
+- **Session 34, The Hunt Begins.** Got the pamphlet from Lady Priscilla. Threw Thimble about 26 feet over the gorge, then crossed hanging under a rope. One level of exhaustion from the cold. Cracked the frozen lake and reached the island chest as the monster burst out.
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **The salamanders.** Claimed the title Kyn'Ruthar to them. The fire sages traced Nerevath's silhouette into his stone.
 - **Session 52, The Hollow Reliquary.**
