@@ -20,3 +20,4 @@ tags: [npc]
 - [[Session 32 - Exploring the City]]: took the seat Luna saved for Thimble and flipped him off.
 - [[Session 33 - Friends and Lovers]]: leads the Silver Knights in the baroness's hunt for Nerevath.
 - [[Session 34 - The Hunt Begins]]: took the forest path.
+- [[Session 37 - Back From The Hunt]]: "I look forward to working with you," to the baroness. "Thin ice you're walking on, gentlemen." Hexed by Aalyn, bounced off Thimble and fell flat. Selara called him the vice captain.

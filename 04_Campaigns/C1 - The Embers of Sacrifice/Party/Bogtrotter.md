@@ -82,6 +82,9 @@ Bogtrotter is the only member of the party **not** branded. The Reliquary's bran
 - **Session 32, Exploring the City.** Told Talia she must be disabled. Got watermelons and warm milk. Found a letter from his **secret admirer** (the time share in Oakhollow) and a V's voucher in his pocket. Gave Wayne a watermelon helmet.
 - **Session 33, Friends and Lovers.** Ate the professor's dinner. Met **Tiffany**, Vargrax's sister, in an alley, survived her false accusation, and went home with her. In the morning she learned he was in the fight that killed her brother and **stabbed him (12)**. Walked out with the dagger in him.
 - **Session 34, The Hunt Begins.** Punched Father Celery of the Fortunate Five through his celery. Lifted the tree off Sir Tobias for the mercy kill.
+- **Session 35, Bugs and Dragons.** Stunned the remorhazes with lightning through the water and burst one by breathing into its mouth. His natural 1 turned the silver dragon on the party; his free 20 turned her on the Fortunate Five. "Fuck you, Father Celery."
+- **Session 36, The Summit.** Double natural 20 on Father Celery's remains: a **belt of stone giant strength**, a tome of understanding and a rod of resurrection (the last two to Alaric). The silver dragon called him kin and **woke a silver heritage** in him: cold breath at will.
+- **Session 37, Back From The Hunt.** Went to V's alone, asked for **Gorgonzola**, joined her on stage, froze himself to the pole and knocked a worker out with the release. 100 gp in tips.
 - **Session 53, What Is Left of You.** Punched the needle out of Thimble's head, guided Aalyn through the mindscape, threw a pebble at Alaric (the start of the beef), and ate the watermelon. Found he could stand on the void. Held on through the Soul trial.
 - **Session 54, The Heart of the Void.** *(Gabe absent. The DM ran Bog.)*
   - Jumped onto the central platform with his Ring of Jumping and breathed lightning. His surge (92) added 18 lightning damage.

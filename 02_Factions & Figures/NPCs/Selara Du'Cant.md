@@ -23,3 +23,4 @@ tags: [npc]
 - In [[Session 32 - Exploring the City]] she came out of invisibility in Luna's office: white hair, black obsidian robes, a wand, mid-to-late 20s. Her scrying on Malrik no longer works, and she pressed Thimble for what happened.
 - In [[Session 33 - Friends and Lovers]] Dame said she planted the Oakhollow mission in Luna's head. Caught invisible in the party's room, held with *Hold Person*. Told Malrik is dead: "dead is better than wandering the Abyss." Signed the party up for the baroness's hunt.
 - In [[Session 34 - The Hunt Begins]] she kissed Aalyn's hand instead of shaking it.
+- In [[Session 37 - Back From The Hunt]] she called the party storytellers, then said under *Zone of Truth* that she heard from Malrik two days ago. Orthus covered for Oakhollow on her obsidian cube. The Enclave is led by the Grandmaster. She shook on a truce: "Do not push the baroness. All will be revealed in time."

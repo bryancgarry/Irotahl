@@ -276,6 +276,9 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 32, Exploring the City.** Used his free 20 to pose as Professor Bifflefapple and got a temporary faculty badge. Got *Wizardry 101.1*. With a watermelon helmet, **pulled a psionic dagger to his hand ("Wayne's Pull")**. Working toward Magic Initiate or Telekinetic.
 - **Session 33, Friends and Lovers.** Professor Lyra: he's a hollow husk who absorbs everything he eats; the sprout is harmless and feeds on that. Kept it. The goose the city hunts is his. Jud slept in his bed. Thinks he pulled the dagger from Selara. She called him too stupid for magic.
 - **Session 34, The Hunt Begins.** Got the pamphlet from Lady Priscilla. Threw Thimble about 26 feet over the gorge, then crossed hanging under a rope. One level of exhaustion from the cold. Cracked the frozen lake and reached the island chest as the monster burst out.
+- **Session 35, Bugs and Dragons.** Ran the lake. **Linked minds with Nerevath and learned he's Salvatore Pearcetti**, the pear merchant. Talked the Fortunate Five into freeing him.
+- **Session 36, The Summit.** Showed Pebbles to the silver dragon; she stomped him. Broke a chain with his jade daggers and stood beside the dragon. Flew the party off on Nerevath. Level 7: Reliable Talent.
+- **Session 37, Back From The Hunt.** Strike two at the Cinderward gate. Learned Salvatore is Pebbles' mother; argued custody. Pulled a knife into his hand with his mind.
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **The salamanders.** Claimed the title Kyn'Ruthar to them. The fire sages traced Nerevath's silhouette into his stone.
 - **Session 52, The Hollow Reliquary.**

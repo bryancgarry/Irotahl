@@ -154,6 +154,17 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] Rosalie's mother "on holiday" (Session 34).
 - [ ] The gray beast in Sir Tobias's notes, and the Strong Legs ring (Session 34).
 - [ ] The old mine disturbing Thimble's compass (Session 34).
+- [ ] The rainbow eggs: Aalyn holds two (Sessions 35 to 36).
+- [ ] The silver dragon's egg, taken by Alaric (Session 36).
+- [ ] The drow at the summit, the candle on their robes, and "our champion" (Session 36).
+- [ ] The dwarven treasure map: three sites beneath Hollowmere (Session 36).
+- [ ] Bog's silver heritage (Session 36).
+- [ ] Salvatore Pearcetti: a permanent cure, the pear deal, the Skyball League sponsorship, and Pebbles' parentage (Session 37).
+- [ ] Orthus's lies about Oakhollow, and "you will see the princess and prince again" (Session 37).
+- [ ] Selara's correspondence with Malrik, and the Enclave's Grandmaster (Session 37).
+- [ ] The Celestial Archives' restricted section and the Chain Lords (Session 37).
+- [ ] Miss V, the masked newcomer at V's, and Gorgonzola (Session 37).
+- [ ] The unpaid hunt reward, and Corvin Hale working with the baroness (Session 37).
 
 ## Setting
 - [ ] Hollowmere's and Vermillion Bay's exact place on the map.

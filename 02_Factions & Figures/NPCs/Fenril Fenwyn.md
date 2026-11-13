@@ -33,3 +33,6 @@ In Alaric's memories: warm, a little mysterious, a teacher who speaks in lessons
 ```dataview
 LIST FROM [[]] AND "04_Campaigns" SORT file.name ASC
 ```
+
+## Played
+- In [[Session 36 - The Summit]] (flashback) he brought young Alaric to the gold dragon Aurixia on the House Fenwyn sky terrace. "Brilliance without purpose is just potential."
