@@ -80,7 +80,7 @@ tags:
 
 **After the session**
 - Two automatic fails would have ruined the chamber: anything but silver, or a true magic item. The +1 sword counted as merely enhanced.
-- Birthdays were picked on the 13-month calendar (month 6 day 15, month 2 day 22).
+- Birthdays on the 13-month calendar: **Aalyn, month 6 day 15; Alaric, month 2 day 22.**
 
 > [!secret] Links to later lore
 > revealed:: false

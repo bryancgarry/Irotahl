@@ -39,7 +39,7 @@ tags:
 - Aalyn waved at the drone: "Anomaly detected." **It fired an orb that expands into a sealed bubble** (CON DC 15). He saved.
 - Wayne psionically linked Alaric, Aalyn and Thimble for four hours.
 - **Aalyn ran off the bridge, dropped 50 feet and flew under it on his boots.** The drone followed: **air sigils on its boots and back let it fly.** He broke line of sight among the arches and statues and hid behind a statue with *Misty Step*.
-- Later the drone rose back up carrying a special spider trapped in its own bubble. **Alaric threw a card from his deck: a knight illusion** made to look like the drone, and cast *Blink*.
+- Later the drone rose back up carrying a special spider trapped in its own bubble. **Alaric threw a card from his deck (likely a deck of illusions): a knight illusion** made to look like the drone, and cast *Blink*.
 - **Bog walked up, got hit with an orb and sealed in a bubble.** Behind the drone, Aalyn (Perception 21) found **a panel on its back: "emergency override controls."** He licked his fingers and popped it open (Sleight of Hand 22): **shut down.** The drone fell 120 feet, the bubble burst, and Bog was free. "Guys, I'm so sick of these robots."
 
 **Wayne's door**

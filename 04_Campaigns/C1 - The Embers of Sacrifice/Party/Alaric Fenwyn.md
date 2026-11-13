@@ -184,7 +184,7 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 39, Escape From the Keep.** Has no book on devils. Noticed Aalyn's hair darkening. Gave Aalyn the rod of resurrection. Soothed the silver egg with *Shape Water*. Saw Luna arrested through Rec, escaped disguised as "Sir James," made the others invisible, and **took the Pale Codex** from the restricted section.
 - **Session 40, The Elevator Down.** The Codex needs moonlight; read his tome of understanding instead. Taught Wayne on the lift lever. Hid in a chest, then *Summon Fey*: a fey spirit with back-to-back natural 20s.
 - **Session 41, A Man and His Goose.** Scouted the warehouse with *Arcane Eye*. Found the Steam Nexus and, in the foreman's office, an arcane key and a bronze key. Bounced a spider's orb back on it. A knight from his deck and *Blink* against the drone.
-- **Session 42, Tempting Fate.** Set the pipe valves (A 6, B 4, C 2, D 8). Talked the lab machine down through Rec and identified Storm Song's Auran runes. Found the lower floors' logistics and **a ring of warmth.**
+- **Session 42, Tempting Fate.** Set the pipe valves (A 6, B 4, C 2, D 8). Talked the lab machine down through Rec and identified Storm Song's Auran runes. Found the lower floors' logistics and **a ring of warmth.** His birthday: month 2, day 22.
 - **Session 43, The Tempest Warden.** Spectral wolf, *Minor Illusion* to hide Wayne, two 3rd-level wand of magic missile volleys and a *Fireball*. **Holds the soulvite shard.**
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **Session 53, What Is Left of You.**
