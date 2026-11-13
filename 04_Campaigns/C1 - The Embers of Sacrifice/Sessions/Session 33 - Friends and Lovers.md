@@ -15,7 +15,7 @@ tags:
 **Ref:** [[Session 32 - Exploring the City]], [[Hollowmere]], [[Talia|Talia Shay]], [[Luna au Vermillion]], [[Selara Du'Cant]], [[Corvin Hale]], [[The Temple of 1000 Candles]], [[The Holy Chain Knights]], [[Rec]]
 
 > [!important] Played: "Friends and Lovers" (Episode 33)
-> [Watch on YouTube](https://www.youtube.com/watch?v=cK_6XHQ76R8). A night split five ways. Jud told Thimble how he got to Hollowmere and how he's posing as a knight. Bifflefapple wants the heart of Nerevath, Wayne's goose, to fly the airship; Professor Lyra told Wayne he is a hollow husk and his sprout is harmless. A drunk Dame confided in Aalyn that Solara has been steering Luna. Aalyn spent the night with Talia; Bog spent it with Tiffany, Vargrax's sister, and woke up with her dagger in his side. In the morning Thimble caught Solara invisible in their room, and the party held her with *Hold Person*. She walked them to the baroness, who is sending five groups to hunt Nerevath. Ends as the Fortunate Five vow to slay the beast.
+> [Watch on YouTube](https://www.youtube.com/watch?v=cK_6XHQ76R8). A night split five ways. Jud told Thimble how he got to Hollowmere and how he's posing as a knight. Bifflefapple wants the heart of Nerevath, Wayne's goose, to fly the airship; Professor Lyra told Wayne he is a hollow husk and his sprout is harmless. A drunk Dame confided in Aalyn that Selara has been steering Luna. Aalyn spent the night with Talia; Bog spent it with Tiffany, Vargrax's sister, and woke up with her dagger in his side. In the morning Thimble caught Selara invisible in their room, and the party held her with *Hold Person*. She walked them to the baroness, who is sending five groups to hunt Nerevath. Ends as the Fortunate Five vow to slay the beast.
 
 ## What Happened at the Table
 
@@ -28,7 +28,7 @@ tags:
   - Inside: a piece of the Feywild itself. Dryads, nymphs, fairies, deer, rabbits, and **a nice bear with slashes over its eyes** who said **he was healed in this city**.
   - Jud has **a brand** too, an itchy one "down low." So he came. The fey sent him out through some trees and he came out in **the Gilded Conservatory**, the glass-domed garden on the high plateau.
   - He saw the Silver Keep, found a side door open, put on some armor, and has kept his helmet down for two or three days of free food and lodging.
-- On Solara Du'Cant: "I don't know shit, and it's better if you don't either."
+- On Selara Du'Cant: "I don't know shit, and it's better if you don't either."
 - Thimble asked him to stick around in the city with them. Jud will. "Do not blow my cover."
 
 **The heart of Nerevath**
@@ -59,13 +59,13 @@ tags:
 - **Dame** came in, slammed two dark ales, and took off his armor. He cleared things with the city guard: the party was **under Silver Knight orders**.
 - He lost the escaped wererat near **the temple**. Aalyn suggested the sewers.
 - **What he got off his chest:**
-  - The Oakhollow mission felt like **a misdirect to get the knights out of the city**, an idea planted in the Imperator's head by **Solara Du'Cant**, who has been "up the Imperator's ass lately."
-  - Solara is just **the city's advisor from the Enclave**, with no power to order the Imperator. **Final say is the baroness's**, a stern woman who runs a tight ship.
+  - The Oakhollow mission felt like **a misdirect to get the knights out of the city**, an idea planted in the Imperator's head by **Selara Du'Cant**, who has been "up the Imperator's ass lately."
+  - Selara is just **the city's advisor from the Enclave**, with no power to order the Imperator. **Final say is the baroness's**, a stern woman who runs a tight ship.
   - The knights used to run support programs. Under Luna they **stopped patrols in the Slab, pulled out of countryside stations, and turn away people asking for help**. No trainings. They won't replace the knights lost in the fog.
   - The knights respect Luna out of fear, not love. He never knew her before her brother died; that's why she joined, and she rose fast with one mission in mind.
   - "Silver can't rust, but it can corrode, from the inside."
 - Aalyn hinted there's always a second in command if something happened to her of her own volition. Dame put a finger to his lips; Aalyn kissed it.
-- Aalyn asked if he'd heard of **"the god hunt"** (the transcript reads "god hint"). Dame hadn't; he thought it was a poker term.
+- Aalyn asked if he'd heard of **the Godhand**. Dame hadn't; he thought it was a poker term.
 - Dame enjoyed their talk in the caravan and will pass on word of the rat. Aalyn took a short rest.
 
 **Alaric checks in**
@@ -74,7 +74,7 @@ tags:
 **Thimble and Luna**
 - At the mess hall, Thimble's friends arrived. Jud claimed he sat at their table at the wedding and never brought the drinks. Wayne doesn't remember him. Jud got seedless juice; Bog drank it.
 - Corvin Hale left. Thimble asked Luna for rooms and they walked the long way.
-- **Solara:** she likes to surprise Luna and pop in and out. Not a people person.
+- **Selara:** she likes to surprise Luna and pop in and out. Not a people person.
 - **A healer:** **the Temple of a Thousand Candles in the Terrace** is known for healing miracles: restoring paralyzed legs, even curing blindness. The order is spread throughout; this is its Hollowmere temple. Luna asked if he could **wait about a week** to heal. Thimble gave a silent nod.
 - **A tailor:** Luna will have **her tailor and armorer from the Vermillion chalet** come work at the keep. More private time to talk.
 - Their room has three bunk beds. Jud was in it, and gave Luna the name **"Knight Zodius."**
@@ -100,8 +100,8 @@ tags:
 - Wayne woke up petting Pebbles and Jud (Jud had climbed into his bed: "I told you I'm staying with you tonight"). Alaric impatiently waited for Wayne so they could catch everyone up before the archives. Wayne: "We got to catch my goose."
 - Aalyn and Bog arrived together. Bog: "Can somebody deal with this?" (the dagger). Aalyn: "Guys, I had sex."
 
-**Solara in the room**
-- Thimble (natural 20 Perception) saw Jud's hair moving: **Solara Du'Cant, invisible, stroking his head**. She dropped invisibility: "I'm not some weird lady, Mr. Danglesworth. Just doing rounds."
+**Selara in the room**
+- Thimble (natural 20 Perception) saw Jud's hair moving: **Selara Du'Cant, invisible, stroking his head**. She dropped invisibility: "I'm not some weird lady, Mr. Danglesworth. Just doing rounds."
 - With her wand she pulled the dagger out of Bog and pocketed it, then held it to sleeping Jud's neck. Wayne tried to pull it with his mind; **Thimble cast a spell that yanked it into his own hand**. Wayne thinks he did it.
 - She went to leave. **Hold Person**. She tried to counterspell and **was counterspelled** (failed her save), then failed the Wisdom save. Alaric shut the door.
 - Thimble laid it out: twice she's spied on his private talks, asked strange detailed questions about the group, and isn't fond of Luna.
@@ -109,17 +109,17 @@ tags:
 - She threatened them with the baroness: they'd abducted her magical advisor. She said she only came to see if they left anything in the room. Jud, she says, is not a knight, "but that's not for me to tell."
 - Thimble used **his free 20 on Insight**: she knows more and is playing for time. Persuasion 22: "We know what happened in Oakhollow. Where did he go? He didn't leave with you."
 - **"He's dead."** (Deception 28.) "What a shame. He always was the ambitious type, but I suppose **dead is better than wandering the Abyss**." Malrik was an outcast of the Enclave, but his research was valuable. Enclave business.
-- Someone said they'd do whatever it takes to protect their friends. Solara: "You'll have to do a whole lot if you make an enemy of the Enclave."
+- Someone said they'd do whatever it takes to protect their friends. Selara: "You'll have to do a whole lot if you make an enemy of the Enclave."
 - **They dropped the spell.** She was going to see the baroness right now; they could come. Alaric gave her pouch back. Wayne asked her to teach him the dagger trick. "Oh, honey, you're too stupid."
 
 **To Hollow Hall**
-- On the walk, a few strides behind Solara, Alaric caught everyone up: the airship; the heart of Nerevath or the goose itself; the dwarven ruins; the baroness's hunt; and Wayne the hollow husk.
-- They agreed Solara is untouchable for people like them unless she does something provably wrong.
-- Solara on Bifflefapple: an inventor, archivist and architect who restores old magic. The Enclave invited him and he turned them down.
+- On the walk, a few strides behind Selara, Alaric caught everyone up: the airship; the heart of Nerevath or the goose itself; the dwarven ruins; the baroness's hunt; and Wayne the hollow husk.
+- They agreed Selara is untouchable for people like them unless she does something provably wrong.
+- Selara on Bifflefapple: an inventor, archivist and architect who restores old magic. The Enclave invited him and he turned them down.
 - Aalyn told them about Dame: helpful if they need questions asked and can't get to Luna.
 
 **The hunt**
-- In the courtyard of **Hollow Hall**, the baroness stood before a statue. Solara whispered in her ear. "Wonderful! **A fifth group for our hunt.**"
+- In the courtyard of **Hollow Hall**, the baroness, **Elixni Vexthorne**, stood before a statue. Selara whispered in her ear. "Wonderful! **A fifth group for our hunt.**"
 - The groups:
   - **Dark-hooded figures** in black and dark purple robes, faces concealed.
   - A cookie-cutter adventuring party: pelts, hunting gear, traps, snow and climbing gear.
@@ -141,7 +141,7 @@ tags:
 
 > [!warning] Changes that affect Session 34
 > - The party has joined the baroness's hunt for Nerevath (5,000 gp to the slayer).
-> - Bog is wounded from Tiffany's dagger (12 piercing after the long rest). Solara kept the dagger.
+> - Bog is wounded from Tiffany's dagger (12 piercing after the long rest). Selara kept the dagger.
 > - Tiffany knows Bog was in the fight that killed Vargrax.
 > - Jud is in the city as "Knight Zodius" and staying with the party.
 > - Thimble and Wayne have used their free 20s. Aalyn, Alaric and Bog have theirs.
@@ -152,8 +152,8 @@ tags:
 > - The airship's power: the heart, the living goose, or the dwarven ruins (needs the baroness's permission).
 > - Wayne's hollowness and the sprout.
 > - Jud's brand, the fey grove, and the healed bear.
-> - Dame's doubts, and Solara steering Luna.
+> - Dame's doubts, and Selara steering Luna.
 > - Tiffany.
 > - Talia and V's.
-> - "The god hunt" (Aalyn asking around).
+> - Aalyn asking around about the Godhand.
 > - Luna's request to wait a week before healing.

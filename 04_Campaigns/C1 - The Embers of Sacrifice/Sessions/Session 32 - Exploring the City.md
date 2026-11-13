@@ -15,7 +15,7 @@ tags:
 **Ref:** [[Session 31 - Welcome to Hollowmere]], [[Hollowmere]], [[Talia|Talia Shay]], [[Luna au Vermillion]], [[Selara Du'Cant]], [[Corvin Hale]], [[The Holy Chain Knights]], [[Rec]]
 
 > [!important] Played: "Exploring the City" (Episode 32)
-> [Watch on YouTube](https://www.youtube.com/watch?v=Uogd_SJDNDM). The campaign's one-year session. Talia took the party into the Drunken Star for a free meal and slipped Aalyn a pamphlet for V's, a gentleman's lounge in the Fog Slab. Aalyn stayed behind; Alaric, Wayne and Bog talked their way into Cinderward, where Professor Bifflefapple coaxed Wayne's first telekinetic pull and showed them an airship found under the mountain ice. Thimble rode up with Luna, who told him how her brother vanished and admitted she led them through the fog on purpose. Solara Du'Cant of the Obsidian Enclave appeared out of invisibility asking about Malrik. Ends in the mess hall, where the officer across from Thimble lifts his head: Jud.
+> [Watch on YouTube](https://www.youtube.com/watch?v=Uogd_SJDNDM). The campaign's one-year session. Talia took the party into the Drunken Star for a free meal and slipped Aalyn a pamphlet for V's, a gentleman's lounge in the Fog Slab. Aalyn stayed behind; Alaric, Wayne and Bog talked their way into Cinderward, where Professor Bifflefapple coaxed Wayne's first telekinetic pull and showed them an airship found under the mountain ice. Thimble rode up with Luna, who told him how her brother vanished and admitted she led them through the fog on purpose. Selara Du'Cant of the Obsidian Enclave appeared out of invisibility asking about Malrik. Ends in the mess hall, where the officer across from Thimble lifts his head: Jud.
 
 ## What Happened at the Table
 
@@ -86,11 +86,11 @@ tags:
 - Thimble (Perception 19) glimpsed **an officer in the mess hall he recognized** but couldn't place.
 - **Luna's confession:** they didn't need to go through the fog. She has read of the symbol on Aalyn's brand. It signifies destruction, and above all it **attracts monsters**. She needed to be sure, so she led them through the fog knowing what was in it, and it got knights killed. "They are worth my mission." Thimble: he has no issue with necessary sacrifices for what you want. She was relieved she hadn't scared him off.
 
-**Solara Du'Cant**
-- A young woman, mid-to-late 20s, white hair, black obsidian robes, a wand, came out of invisibility behind Thimble in Luna's office. **Solara Du'Cant** of the Obsidian Enclave. She has heard of Thimblewick.
+**Selara Du'Cant**
+- A young woman, mid-to-late 20s, white hair, black obsidian robes, a wand, came out of invisibility behind Thimble in Luna's office. **Selara Du'Cant** of the Obsidian Enclave (said at the table as "Solara"). She has heard of Thimblewick.
 - She backed him into the desk, leg up on it: "Thimblewick, what happened to **Malrik**?" **Her scrying on him no longer works.** She knows he was in Malrik's company.
 - Thimble (Deception 19): Malrik gave them some orders and left. She thinks she overestimated his abilities. He told her to check herself. She left, saying they'd be seeing more of each other.
-- Luna: Solara is **the city's advisor and works with the baroness**. They're acquaintances; Luna keeps half her guard up around powerful mages. Solara has an ever-watchful eye in the city and may know all of Luna's history now. Luna joked she'll keep Thimble as her shield.
+- Luna: Selara is **the city's advisor and works with the baroness**. They're acquaintances; Luna keeps half her guard up around powerful mages. Selara has an ever-watchful eye in the city and may know all of Luna's history now. Luna joked she'll keep Thimble as her shield.
 
 **The mess hall**
 - The lunch lady gave Thimble two scoops. By the time he turned, **Corvin Hale** had taken the seat Luna saved for him, and flipped him off.
@@ -106,7 +106,7 @@ tags:
 > - Luna's brother is likely [[Caelum au Vermillion]], found in Durnhollow's deepest room around Session 38.
 > - The candle patches: [[The Temple of 1000 Candles]].
 > - The lady who runs V's: [[Vashara]].
-> - Solara's scrying on Malrik fails because [[Malrik Greene]] became [[Graz'zt]]'s apostle.
+> - Selara's scrying on Malrik fails because [[Malrik Greene]] became [[Graz'zt]]'s apostle.
 
 > [!warning] Changes that affect Session 33
 > - Each player holds a free automatic 20 for a year.
@@ -118,7 +118,7 @@ tags:
 > [!warning] Open from Session 32
 > - The airship and "the Heart of Never...".
 > - Luna's brother: the monster, the missing body, the chain link.
-> - Solara Du'Cant and Malrik's scrying.
+> - Selara Du'Cant and Malrik's scrying.
 > - V's and the lady who runs it.
 > - Bog's secret admirer.
 > - Wayne's feat: Magic Initiate or Telekinetic.
