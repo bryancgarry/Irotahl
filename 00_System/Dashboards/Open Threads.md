@@ -188,6 +188,14 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] Clausius Clapeyron's journal, the year 412 (Session 42).
 - [ ] Thimble at the brink, and "this world must atone" (Session 42).
 - [ ] The logistics for the floors below (Session 42).
+- [ ] The silver key (Session 44).
+- [ ] The drow-dwarf pact: King Atul's marriage to a drow princess, and the four elementals for silver research (Session 45).
+- [ ] The hidden study: Malcanthet's statue, the busy teleportation circle, the electrified rat (Session 45).
+- [ ] Thimble's medallion with a face (Sessions 45 to 46).
+- [ ] The lunar eclipse a few days ago, recorded in Abyssal (Session 45).
+- [ ] The aberration to the north, and the gray ooze (Sessions 45 to 46).
+- [ ] The pool's visions: "Stay," Alaric's brother, Wayne and Thimble, Bog's slug (Session 45).
+- [ ] The Tide Warden fight, mid-combat (Session 46).
 
 ## Setting
 - [ ] Hollowmere's and Vermillion Bay's exact place on the map.

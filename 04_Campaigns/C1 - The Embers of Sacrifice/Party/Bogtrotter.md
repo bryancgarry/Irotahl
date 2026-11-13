@@ -91,6 +91,9 @@ Bogtrotter is the only member of the party **not** branded. The Reliquary's bran
 - **Session 41, A Man and His Goose.** A sphere opened the storage closet for him; chopped open the hidden stash. Caught in the drone's bubble until Aalyn shut it down.
 - **Session 42, Tempting Fate.** **Solved the prime-number code (43)** and found the foreman's valve note. Cooled Storm Song in the cold room.
 - **Session 43, The Tempest Warden.** Drank through the fight, flew up to breathe lightning, Slow Fall and Deflect Attacks, fired the rat cannon with Wayne, and hit 52 in the free fall. Gave his coins to Thimble.
+- **Session 44, "and I click 5 again...".** Swatted the drone's orb away from Thimble. Kicked a door into a sink. Crit an ice mephit.
+- **Session 45, Why Is This Here.** Ate a card sandwich and gave Wayne 35 gp. In the pool, **a tiny reptile child chased by a huge non-alcoholic slug.**
+- **Session 46, A Quick One.** **Breathed lightning into the conduit and woke the Tide Warden.** Deflected its slam. Switched his breath to cold.
 - **Session 53, What Is Left of You.** Punched the needle out of Thimble's head, guided Aalyn through the mindscape, threw a pebble at Alaric (the start of the beef), and ate the watermelon. Found he could stand on the void. Held on through the Soul trial.
 - **Session 54, The Heart of the Void.** *(Gabe absent. The DM ran Bog.)*
   - Jumped onto the central platform with his Ring of Jumping and breathed lightning. His surge (92) added 18 lightning damage.

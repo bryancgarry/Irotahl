@@ -320,6 +320,9 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 41, A Man and His Goose.** Led the detention drone off the bridge on his boots and shut it down from its emergency panel. Found a hatch in a side passage.
 - **Session 42, Tempting Fate.** Found **pipes of haunting** and thieves' tools. His arcane key opened the testing lab; **the enhancement chamber made his +1 longsword a +2 silvered blade with Auran wind runes** (needs attunement), set in Bog's cold room. Healed Thimble to full with the rod of resurrection. His birthday: month 6, day 15.
 - **Session 43, The Tempest Warden.** A thrown rock freed him from the Warden's wind (the air spirit's gale buff). Spun up a vent for a natural 20 Eldritch Blast, 38 damage. **Named his sword Storm Song.**
+- **Session 44, "and I click 5 again...".** Lured a mimic off a ledge. Found four silver ingots, **a silver key** (his thieves' tools were damaged by a fire glyph), notes on refining silver with water, **a necklace of adaptation**, and barrels of aged dwarven ale.
+- **Session 45, Why Is This Here.** Smashed open the drow-dwarf pact with his warhammer. In the pool his patron grinned that the thread isn't here; asked what one thing he'd say across the planes: **"Stay."**
+- **Session 46, A Quick One.** Touched the water spirit: water form and the raging torrent buff.
 - **Hollowmere.** *(To fill in from earlier sessions: Talia and the rest.)*
 - **Session 52, The Hollow Reliquary.** Entered the Reliquary with [[King Atul Stonemarch|Atul]].
 - **Session 53, What Is Left of You.**

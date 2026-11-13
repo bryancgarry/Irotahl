@@ -14,6 +14,9 @@ tags: [npc]
 > [!summary] At a Glance
 > The last king of [[Durnhollow]], husband of [[Vashara]]. His petrified body stands at the center of the Field of Stone outside the Hollow Reliquary, mid-charge toward its doors. The Mind Medallion reanimates him temporarily.
 
+## Played
+- In [[Session 45 - Why Is This Here]] the party found plaques "by order of King Atul Stonemarch, third king of Durnhollow," dated about the year 400, and a pact for his marriage to a drow princess.
+
 ## Personality and Voice
 Grieving and brief. He does not look at the party. He looks at the doors.
 - First words: "...Vash. Vashara. Don't. Don't touch it, love, don't..."

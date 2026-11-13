@@ -117,6 +117,9 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 41, A Man and His Goose.** Walked among the workers; found a **pipe of smoke monsters**. His hair is six inches longer (his surge). **Used the Tome of Malcanthet as a focus for a max-damage *Thunderwave*** on six steam mephits.
 - **Session 42, Tempting Fate.** Felt the steam is alive. Found the square Steam Nexus key. **Put his winged boots and 256 gp of gold in the enhancement chamber: it exploded.** Two failed death saves, then three successes. Lost the boots; lightning scars. Felt that letting go might have killed his friends. "This world must atone for its sins."
 - **Session 43, The Tempest Warden.** Stood on Wayne to drive the Warden off with *Dissonant Whispers*. Readied *Sickening Radiance*.
+- **Session 44, "and I click 5 again...".** Rode the air current; got plowed by Wayne's luge. Kicked a door off its hinges.
+- **Session 45, Why Is This Here.** Recognized Alaric's dragon egg. *Shatter* opened Vashara's warded study; read the eclipse in Abyssal. **Spoke Malcanthet's true name at her statue and got a medallion with a face.** In the pool, exploded in Wayne's vision and woke holding him.
+- **Session 46, A Quick One.** Natural 20 against the Tide Warden's surge. The medallion hums back at him.
 - **Session 53, What Is Left of You.** Pulled into the mindscape by force and punched back out by Bog. Finished the Mind trial last, guided by Wayne. Natural 20 on Investigation in the Soul chamber: his first inkling that the soul sphere is tied to the pale stones. **Became the blade.** His brand darkened.
 - **Session 54, The Heart of the Void.**
   - Cold open: the gallery memory, the slap, and the memory he refused to let go of.

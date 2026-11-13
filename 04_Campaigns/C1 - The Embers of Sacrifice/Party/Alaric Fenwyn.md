@@ -186,6 +186,9 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 41, A Man and His Goose.** Scouted the warehouse with *Arcane Eye*. Found the Steam Nexus and, in the foreman's office, an arcane key and a bronze key. Bounced a spider's orb back on it. A knight from his deck and *Blink* against the drone.
 - **Session 42, Tempting Fate.** Set the pipe valves (A 6, B 4, C 2, D 8). Talked the lab machine down through Rec and identified Storm Song's Auran runes. Found the lower floors' logistics and **a ring of warmth.** His birthday: month 2, day 22.
 - **Session 43, The Tempest Warden.** Spectral wolf, *Minor Illusion* to hide Wayne, two 3rd-level wand of magic missile volleys and a *Fireball*. **Holds the soulvite shard.**
+- **Session 44, "and I click 5 again...".** Built ice bridges and **the ice luge** that shattered a detention drone. Mended the frozen sprinklers.
+- **Session 45, Why Is This Here.** **Showed the party his silver dragon egg.** Sensed an aberration to the north that could end the party. In the pool, his brother reached for him; he asked when he'll be seen as an adult. "Further away than he'd like."
+- **Session 46, A Quick One.** Absent ("Pokéballed" by the robots).
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **Session 53, What Is Left of You.**
   - Revealed his own path through the mindscape on a 28 and finished second, then guided Bog home with nothing but gestures.

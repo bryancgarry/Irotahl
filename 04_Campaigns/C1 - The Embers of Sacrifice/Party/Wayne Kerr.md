@@ -285,6 +285,9 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 41, A Man and His Goose.** **Spent his free natural 20 walking through a stone door.** Pebbles pickpocketed a boiler key. Threw Pebbles into the chasm by accident and dove after her: **her first word, "Dad," and the Feat of the Kyn'Ruthar.** Fell nearly 1,000 feet and pushed himself back up.
 - **Session 42, Tempting Fate.** Slotted the Steam Nexus key and solved the color-flow puzzle. Told Thimble to send it.
 - **Session 43, The Tempest Warden.** Summoned an air elemental from his gem. **Weightless Movement and a vent launch: his psionic dagger stunned the Tempest Warden** and brought it down.
+- **Session 44, "and I click 5 again...".** Rode the ice luge through the drone. Solved two flywheel puzzles and pulled ice blocks into his own body.
+- **Session 45, Why Is This Here.** Started the third pump alone under ceiling ooze; found a second enhancement chamber. Pebbles wears Thimble's pants. Won 35 gp off Bog. In the pool, **watched Thimble explode** and woke holding him.
+- **Session 46, A Quick One.** Stunned the Tide Warden with his psionic dagger (33).
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **The salamanders.** Claimed the title Kyn'Ruthar to them. The fire sages traced Nerevath's silhouette into his stone.
 - **Session 52, The Hollow Reliquary.**
