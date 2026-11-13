@@ -41,3 +41,4 @@ Waking. While the medallion rests against the brow of King Atul Stonemarch's sto
 
 ## Played
 - Thimble spoke Malcanthet's true name at her statue in Vashara's hidden study in Durnhollow, and its drawer gave him the medallion: radial, with a face at the center. It contains something, like his ring of mind shielding ([[Session 45 - Why Is This Here]]). It hummed back when he tried to reach it ([[Session 46 - A Quick One]]).
+- Surging, trying to pulse out (Wayne, [[Session 51 - The Wayne and Thimble Episode|Session 51]]). [[Vistro IV]]: it belonged to the dwarven king, and the last time he saw it, his queen was ripping it off his stone body. "Keep it. Bring it to the temple. You will know what to do with it."

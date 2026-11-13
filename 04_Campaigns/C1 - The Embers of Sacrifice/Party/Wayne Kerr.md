@@ -178,7 +178,7 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - ***Wizardry 101.1*, the revised edition**, from Professor Bifflefapple (Session 32). Exercises in the back. And a temporary Cinderward faculty badge in Bifflefapple's name.
 - **Keepsakes and evidence:** a letter from General Veraxous about the Bloodlancers' first wave attacking Oakhollow, ruined heavy armor and a commander's mace, the Half Heart key, an amulet from the king, the Pendant of the Ferns, a wooden mask from the Goliath shamans, a sending stone to [[Tiberius Blackfang|Tiberius]], Malrick's logs, navigational charts, 7 screaming rocks, and 27 river dogs.
 - **Contacts:** [[Rai Zeph]], the black bear at Terry's.
-- **A planar diamond** from Rai Zeph (Session 48). **The stone commander's greataxe** (Session 49).
+- **A planar diamond** from Rai Zeph (Session 48).
 
 ## Future Planning
 > [!info] DM Note
@@ -291,7 +291,9 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 46, A Quick One.** Stunned the Tide Warden with his psionic dagger (33).
 - **Session 47, The Tide Warden.** Named the Tide Warden on the spot. Rode a water spirit into its core with a luck point for 27 sneak attack. 75 gp off the water slide.
 - **Session 48, Magic Mushroom Fun Pt. 2.** **Reached the Omnishroom**: a vault of four doors, he holds two of the four keys, the gold key is "above the lava pits, take the third track," and his sprout means "the power to absorb." Third leaf. **Rai Zeph knelt to him as the Kyn'Ruthar**, gave him a diamond, and asked him to go home to the elders. Cut Myra free with the Sun Blade.
-- **Session 49, The Rock God.** **The Rock God.** Grew huge, took the stone commander's greataxe, and, hasted, **headbutted through a wall** into the refinery. Disarmed an alarm trap; caught the keycard droid. "The face of the company."
+- **Session 49, The Rock God.** **The Rock God.** Grew huge and, hasted, **headbutted through a wall** into the refinery. Disarmed an alarm trap; caught the keycard droid. "The face of the company."
+- **Session 50, Into the Inferno.** Luged the lava roller coaster on top of the cart, then dangled from Alaric's rope. Found **a padlock key** and sailed a lava skiff with Thimble to the obsidian castle. **Told King Vistro he is the Kyn'Ruthar.** Evaded his inferno blast.
+- **Session 51, The Wayne and Thimble Episode.** Surrendered his daggers to Vistro. Locked in the salamander prison; Old Ash Tongue sang of the Kyn'Ruthar ("never speak the walker's name unless you mean to speak of war"). Escaped, and **killed the king's champion** in the trial by combat. Vistro is lying about his ritual. **Nerevath tattooed on his right palm**: summons a weakened Nerevath. The dap.
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **The salamanders.** Claimed the title Kyn'Ruthar to them. The fire sages traced Nerevath's silhouette into his stone.
 - **Session 52, The Hollow Reliquary.**

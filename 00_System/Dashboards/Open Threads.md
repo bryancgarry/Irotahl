@@ -205,7 +205,17 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] The channeling chamber, its eight pedestals, and the chamber below (Session 49).
 - [ ] The silver refinery business: Myra, Bifflefapple, a contract (Session 49).
 - [ ] The star ruby (Session 49).
-- [ ] Aalyn above the lava lake, and the chest (Session 49).
+- [x] Aalyn above the lava lake, and the chest (Session 49). A rapier mold (Session 50).
+- [ ] The rapier casting mold (Session 50).
+- [ ] The sealed keycard door at the top of the market's spiral stair (Session 50).
+- [ ] The black rocks blocking the path, and explosives (Session 50).
+- [ ] Bog's power station (Session 50).
+- [ ] The early merchants' alliance symbol in the market (Session 50).
+- [ ] Vistro and the Danglesworths: why he was banished (Session 50).
+- [ ] Vistro's task: the tome back to the temple, then his sages' "ritual," which he's lying about (Session 51).
+- [ ] The Mind Medallion: "bring it to the temple" (Session 51).
+- [ ] Old Ash Tongue (Session 51).
+- [ ] The combined Vistro and Nerevath summon (Session 51).
 
 ## Setting
 - [ ] Hollowmere's and Vermillion Bay's exact place on the map.

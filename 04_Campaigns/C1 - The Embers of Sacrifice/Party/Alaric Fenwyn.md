@@ -192,6 +192,7 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 47, The Tide Warden.** His capture bubble flooded in the pipes; froze the cracks with *Control Water*. **Fell through the ceiling onto Thimble.** Engulfed by the Warden (24). *Psychic Lance* by its name tag.
 - **Session 48, Magic Mushroom Fun Pt. 2.** Rolled the Omnishroom again: **it opened a portal to the Feywild.** Knows the Feywild from his family's lessons; "do not agree to anything." *Dispel Magic* on Thimble to break the nymphs' pull.
 - **Session 49, The Rock God.** Hasted Wayne and hid on his chest as a rock. **Gave the Rock God his voice** (natural 20). Pitched selling the refinery's silver through Bifflefapple. Read the channeling chamber: a block of silver, the top of a bigger chamber.
+- **Session 50, Into the Inferno.** Birthday heroic inspiration (shares a birthday with Bog). Threw Wayne the rope on the lava luge. Read the market (27): Durnhollow's silver market and an early merchants' alliance symbol. Read the fire chamber's instructions and ran its ring puzzle.
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **Session 53, What Is Left of You.**
   - Revealed his own path through the mindscape on a 28 and finished second, then guided Bog home with nothing but gestures.

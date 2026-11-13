@@ -16,6 +16,7 @@ tags: [npc]
 
 ## Played
 - In [[Session 45 - Why Is This Here]] the party found plaques "by order of King Atul Stonemarch, third king of Durnhollow," dated about the year 400, and a pact for his marriage to a drow princess.
+- In [[Session 51 - The Wayne and Thimble Episode|Session 51]], [[Vistro IV]] called him an old friend: his queen ripped the Mind Medallion off his stone body.
 
 ## Personality and Voice
 Grieving and brief. He does not look at the party. He looks at the doors.

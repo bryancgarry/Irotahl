@@ -325,7 +325,8 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 46, A Quick One.** Touched the water spirit: water form and the raging torrent buff.
 - **Session 47, The Tide Warden.** Penguin-slid across the ice into a glowing intake and blasted the Tide Warden from the inside, shattering its sheen. Twinned his Eldritch Blast. Hexblade's Curse killed the first spectator.
 - **Session 48, Magic Mushroom Fun Pt. 2.** The gold mushroom made him **a walking flashbang for an hour.** Scouted ahead with Rec through the ballista shafts (picked the wrong door twice). **His wand of resurrection's *Heal* came out as a 3rd-level *Cure Wounds*.**
-- **Session 49, The Rock God.** *Disguise Self* as stone; told the stone commander **Wayne was their god** and Myra and Thimble their prisoners. *Hold Person* on Thimble to sell it. Myra pulled **an amulet of the drunkard** from a cave-in at his map's spot; he owes her a payment. **Wayne pushed him down a minecart track** to 300 feet above a lava lake.
+- **Session 49, The Rock God.** *Disguise Self* as stone; told the stone commander **Wayne was their god** and Myra and Thimble their prisoners. *Hold Person* on Thimble to sell it. **Took the stone commander's greataxe.** Myra pulled **an amulet of the drunkard** from a cave-in at his map's spot; he owes her a payment. **Wayne pushed him down a minecart track** to 300 feet above a lava lake.
+- **Session 50, Into the Inferno.** Flung 50 feet off his cart on a natural 1; found **a rapier casting mold.** Fetched the keycard from Wayne. **His stone greataxe became a magic weapon** in the fire enhancement chamber (casts a spell, fire resistance). Named the cleaning construct Charles.
 - **Hollowmere.** *(To fill in from earlier sessions: Talia and the rest.)*
 - **Session 52, The Hollow Reliquary.** Entered the Reliquary with [[King Atul Stonemarch|Atul]].
 - **Session 53, What Is Left of You.**

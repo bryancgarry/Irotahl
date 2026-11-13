@@ -97,6 +97,7 @@ Bogtrotter is the only member of the party **not** branded. The Reliquary's bran
 - **Session 47, The Tide Warden.** Deflected the Warden again and again. **Killed it with a wet, lightning-charged middle finger.** Peed on it.
 - **Session 48, Magic Mushroom Fun Pt. 2.** Asleep (his player on honeymoon). Thrown in the mushroom pool: **supercharged with chaos energy, can wild magic surge.** Carried in Myra's pod.
 - **Session 49, The Rock God.** Still asleep in the pod.
+- **Session 50, Into the Inferno.** Woke in Myra's pod and went back in. Birthday heroic inspiration, spent on the lava luge. Cold breath on a lava hot spot; natural 20 on the ramp. **Amber salamander and fire whiskey: fire resistance, and he walked through lava.** Found the fire enhancement chamber and parted the lava fall for the others.
 - **Session 53, What Is Left of You.** Punched the needle out of Thimble's head, guided Aalyn through the mindscape, threw a pebble at Alaric (the start of the beef), and ate the watermelon. Found he could stand on the void. Held on through the Soul trial.
 - **Session 54, The Heart of the Void.** *(Gabe absent. The DM ran Bog.)*
   - Jumped onto the central platform with his Ring of Jumping and breathed lightning. His surge (92) added 18 lightning damage.

@@ -15,7 +15,7 @@ tags:
 **Ref:** [[Session 48 - Magic Mushroom Fun Pt. 2]], [[Durnhollow]], [[Myra]], [[Rec]], [[Soulvite]]
 
 > [!important] Played: "The Rock God" (Episode 49)
-> [Watch on YouTube](https://www.youtube.com/watch?v=747zsYydKJs). The quarry fight ended inside a round: Wayne grew huge, Aalyn disguised himself as stone and named Wayne their god, and Alaric's illusion gave the Rock God his voice. The stone commander crumbled and Wayne took his axe. Hasted and with Thimble's *Shatter*, Wayne headbutted straight through a wall into a dead dwarven silver refinery. Thimble found a star ruby, Myra pulled an amulet of the drunkard out of a cave-in for Aalyn, and Wayne and Thimble got a keycard off a droid caught on the toilet. Beyond it: a channeling chamber around a great engraved block of silver. The party restarted the refinery and made Myra its manager. Wayne then pushed Aalyn down a minecart track, and he came out 300 feet above a lake of lava.
+> [Watch on YouTube](https://www.youtube.com/watch?v=747zsYydKJs). The quarry fight ended inside a round: Wayne grew huge, Aalyn disguised himself as stone and named Wayne their god, and Alaric's illusion gave the Rock God his voice. The stone commander crumbled and Aalyn took his axe. Hasted and with Thimble's *Shatter*, Wayne headbutted straight through a wall into a dead dwarven silver refinery. Thimble found a star ruby, Myra pulled an amulet of the drunkard out of a cave-in for Aalyn, and Wayne and Thimble got a keycard off a droid caught on the toilet. Beyond it: a channeling chamber around a great engraved block of silver. The party restarted the refinery and made Myra its manager. Wayne then pushed Aalyn down a minecart track, and he came out 300 feet above a lake of lava.
 
 ## What Happened at the Table
 
@@ -35,7 +35,7 @@ tags:
 - **Alaric gave the Rock God a voice** with *Minor Illusion* and *Shape Sand*: **"Behold, I am the Rock God, Wayne Kerr. My subjects, I implore you to cease fire. If not, you shall face my wrath."** Thimble played the disgruntled prisoner.
 - Group performance (DC 10): **Alaric rolled a natural 20.** The voice shook stalactites loose. **Combat ended.** The gargoyles went back to their perches; a berserker carrying another blasting charge walked it back around the corner.
 - Aalyn cast *Hold Person* on Thimble to sell it (he saved, and stormed off). Wayne: "Return to your slumber, friends. We mean you no harm." Aalyn: Thimble is "ours to deal with." Persuasion 27.
-- **The commander jammed his axe into the stone, sat down and crumbled into pebbles.** Wayne pulled out **his stone greataxe** (Athletics 15) and put it in his bag of holding.
+- **The commander jammed his axe into the stone, sat down and crumbled into pebbles.** Aalyn, walking over his remains ("the stone god will remember your sacrifice"), pulled out **his stone greataxe** (Athletics 15) and put it in his bag of holding.
 - The gargoyles fall to **gargoyle powder**. Alaric knows it is ground dragon eggs encased in volcanic ash, used for petrification magic, and isn't interested.
 
 **The wall**
@@ -102,9 +102,9 @@ tags:
 > - Gargoyle powder and petrification. See [[Hollowing and Petrification]].
 
 > [!warning] Changes that affect Session 50
-> - Wayne: the commander's stone greataxe; the planar diamond.
+> - Wayne: the planar diamond.
 > - Thimble: the star ruby, three chunks of silver ore, the blasting charge; heroic inspiration spent; surge die at d20.
-> - Aalyn: the amulet of the drunkard (owes Myra a payment); riding a minecart above the lava lake, outside the psionic link. Rec is following.
+> - Aalyn: the commander's stone greataxe; the amulet of the drunkard (owes Myra a payment); riding a minecart above the lava lake, outside the psionic link. Rec is following.
 > - The refinery runs. Myra is its manager and is traveling with the party.
 > - Bog is still asleep in the pod.
 
