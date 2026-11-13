@@ -82,7 +82,7 @@ tags:
 **After the session**
 - Wayne's gloves give +15 to Sleight of Hand.
 - Alaric's player still has to send the DM his brother's info. His name is **Fenril**.
-- Thimble has **two brothers.** His player puts him at about 270 years old (425 came up as a joke).
+- Thimble has **two brothers.** His age is uncertain: his player said about 270 years old, and 425 also came up.
 
 > [!secret] Links to later lore
 > revealed:: false

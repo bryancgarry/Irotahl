@@ -125,7 +125,20 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] Thimble's two brothers and his return to Glimmerstone (Session 26).
 - [ ] Sokatoa's pyramid and the rusted iron dagger (Sessions 27-28).
 - [ ] The burning grove that follows the party (Session 28).
-- [ ] The three silver-armored riders on the trail (Session 28).
+- [x] The three silver-armored riders on the trail (Session 28; Luna's knights, Session 29).
+- [ ] Luna's brother, the monster that killed him, and her plan to use the brand as bait (Sessions 29-30).
+- [ ] Luna's interest in Pebbles (Session 29).
+- [ ] Barnaby, Professor Bifflefapple, and "the professor" in Hollowmere who revamps old relics (Session 29).
+- [ ] The world tournament in Glimmerstone (Session 29).
+- [ ] The fog around Hollowmere and the Wendigos in it (Session 30).
+- [ ] Lolth's Spool, hidden in Hollowmere: find it before "the others" (Session 30).
+- [ ] The plague-ridden girl in Aalyn's fog vision (Session 30).
+- [ ] "Little spark, come find me": the voice beneath Glimmerstone (Session 30).
+- [ ] Wayne's sprout (Session 30).
+- [ ] Talia Shay, Aalyn's ex, in Hollowmere (Session 31).
+- [ ] The tiefling orphanage, Tiffany, and the escaped wererat (Session 31).
+- [ ] The tall guard who recognized Wayne, and who was watching the party (Session 31).
+- [ ] Cinderward and the Glimmerstone professor on sabbatical (Session 31).
 
 ## Setting
 - [ ] Hollowmere's and Vermillion Bay's exact place on the map.

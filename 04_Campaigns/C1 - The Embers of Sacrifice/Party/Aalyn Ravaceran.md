@@ -303,6 +303,11 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 27, The Pyramid.** Moved the mirrors and turned the sundial. His *Unseen Servant* pulled the sand-trap lever and was buried. Flew (Alaric's *Fly*) to hold the snake hatches shut. Natural 20 initiative against the snakes; Bardic Inspiration to Thimble.
 - **Session 28, Emperor Hawk Tuah and The Goon Generals.** Sang the mummy's lullaby. Hexed and blasted the generals ("I goon with my left hand") and talked Sokatoa into wanting to die (Persuasion 28). Found a wand of conducting and 100 gp. Healed Wayne for 29.
   - Led the party across the plains. Noticed the burning grove gives off no smoke and couldn't say it. Recognized the same two oak trees on night two and asked Alaric for a map.
+- **Session 29, The Holy Silver Chain Knights.** Introduced the Misfits to Luna, told her Rosalie is dead, and showed her his brand. Talked her down after Wayne's rat. Bought **glamoured studded leather (modified)** from Barnaby. Rapped the Rat Lord fight for the knights with the wand of conducting. Filled Alaric's ring with Disguise Self and Healing Word. In the smoke cloud he smelled bread and his eyes became torches.
+- **Session 30, Journey Through the Fog.** Healed Wayne's "seeds," floated off high, and fled the bartender. Heard Dame's story and the Pale Goddess creed. Mimicked the chimes with the wand of conducting to freeze the Wendigos, then fell to the fog.
+  - **Vision:** Rosalie and a plague-ridden girl in a ruined amphitheater, Lolth's eyes above: "You could not save." **Lolth's challenge: find her Spool, hidden in Hollowmere, before the others.**
+  - Woke, misty stepped to Luna and Thimble, and healed them both.
+- **Session 31, Welcome to Hollowmere.** A city he has tried to forget. Spotted the tall guard who recognized Wayne. Blew Vargrax the Executioner into a building with Orchestral Roar; Vargrax died on his vengeful blade, and he faked the hit. His ex, Talia Shay, ran out and grabbed him.
 - **Hollowmere.** *(To fill in from earlier sessions: Talia and the rest.)*
 - **Session 52, The Hollow Reliquary.** Entered the Reliquary with [[King Atul Stonemarch|Atul]].
 - **Session 53, What Is Left of You.**

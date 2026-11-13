@@ -170,6 +170,10 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 26, The Straight Arrow.** Fireballed the Deceiver's wolves from the snare. Was in the bath during the heist. His brother **Fenril** came up in the recap.
 - **Session 27, The Pyramid.** Remembered a laser-and-mirrors board game from his youth among the high elves. Overfilled the scale with *Shape Water*, then leveled it. Solved the chime acrostic ("Golden cinders guide brave souls west"). Cast *Fly* on Aalyn.
 - **Session 28, Emperor Hawk Tuah and The Goon Generals.** Illusory blanket for the lullaby. *Rageful Nimbus* on Thimble, and a *Fire Bolt* Sokatoa blamed on Thimble. *Summon Beast* (a shadow wolf). Hid in *Rope Trick* with Thimble. Found a wand of magic missiles and 150 gp, and lent it to Wayne. Now teaching Wayne magic. Saw the grove four times and said so.
+- **Session 29, The Holy Silver Chain Knights.** Persuaded Luna off the road; his "sleight of sniff" got a dagger drawn on him. Refused Corvin entry to the hut. Fixed Barnaby's wheel and bought the **ring of spell storing** and a *Blink* scroll. Gave Wayne a deck of cards. Very high behind Oinkers.
+- **Session 30, Journey Through the Fog.** Sobered up fast. Saw Wayne's sprout spin up a gust. Scorching Ray revealed the first Wendigo. Made Wayne invisible to fetch a chime, then fell to the fog.
+  - **Vision:** a child kept out of the Heptarion in Syfaeril's capital. His older brother read him "The Fawn and the Moon": "Little brother, I see you even when you think I don't."
+- **Session 31, Welcome to Hollowmere.** Got a pass in the works for the Celestial Archives. Sent Rec after the watchers. *Moat of Hell* on the ambush, and the ring's Chaos Bolt dropped a wererat off a wall. Found Kagra's postcard: the orphanage.
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **Session 53, What Is Left of You.**
   - Revealed his own path through the mindscape on a 28 and finished second, then guided Bog home with nothing but gestures.

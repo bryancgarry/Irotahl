@@ -76,6 +76,9 @@ Bogtrotter is the only member of the party **not** branded. The Reliquary's bran
 - **Session 26, The Straight Arrow.** Took the dead captain's eyeballs (three now) and strung them on twine. Gained poison resistance from the bandit's roast beef sandwich. Called out Kalisar mid-heist. Wingman for Thimble.
 - **Session 27, The Pyramid.** Drank beer on the sundial. Shrugged off the poison gas door and tripped the buzz saws. Twisted two venomous snakes in half and saved them in his waistband. Deflected a constrictor and punched his way out through another's mouth.
 - **Session 28, Emperor Hawk Tuah and The Goon Generals.** Refused to sing. Rat cannon with Wayne. Shattered the purple general. Crit table 55 (33 damage) tore off Sokatoa's bandages, which became his **+1 wraps of unarmed power**. Skullcup Strike killed the red general and slapped Sokatoa's head off (about 61 damage that turn).
+- **Session 29, The Holy Silver Chain Knights.** Got beer from Corvin. Nearly fired his Skullcup by accident. Passed on Barnaby's drinker's amulet. Spent the night at the Oinkers bar.
+- **Session 30, Journey Through the Fog.** *(Player absent.)* Passed out all session in an Oinkers T-shirt covered in lipstick. Wayne carried him through the fog.
+- **Session 31, Welcome to Hollowmere.** Woke up, drank an abandoned beer, and started the fight with lightning breath. Killed a bandit with a beer mug and headbutted a wererat's head off. Took Vargrax's purple eye for his necklace, and wererat teeth for his Skullcup.
 - **Session 53, What Is Left of You.** Punched the needle out of Thimble's head, guided Aalyn through the mindscape, threw a pebble at Alaric (the start of the beef), and ate the watermelon. Found he could stand on the void. Held on through the Soul trial.
 - **Session 54, The Heart of the Void.** *(Gabe absent. The DM ran Bog.)*
   - Jumped onto the central platform with his Ring of Jumping and breathed lightning. His surge (92) added 18 lightning damage.

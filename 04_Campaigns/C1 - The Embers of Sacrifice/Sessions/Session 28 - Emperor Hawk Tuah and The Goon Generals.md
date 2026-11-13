@@ -60,6 +60,7 @@ tags:
 - Thimble: **a potion of fire breath**, **a potion of greater healing**, and **100 gp**.
 - **Wayne** (natural 20): **350 gp**, **a periapt of health**, **a +1 wand of the war mage**, **dust of disappearance**, the sarcophagus gemstone (**an air elemental gem**, a blue sapphire), and **a Sun Blade.**
 - **Thimble's sapphire.** Thimble held his blue sapphire from [[Session 8 - Gnomes and Fireballs|Session 8]] up to Wayne's gem (Arcana 19). Both have winds swirling inside. Alaric (Arcana): **both are air elemental gems**, one use each; break one to summon an air elemental that fights for you. Thimble gave Wayne his back.
+- During the comparison, someone at the table brought up "a necklace from way back in the day, from a certain enemy that's now a demon lord." *(DM, after the fact:)* That's the Ember of Sacrifice used for Graz'zt.
 - Wayne tried to cast *Fireball* with the war mage wand. Nothing. Alaric's fake *Fire Bolt* illusion didn't fool him. Alaric handed him the wand of magic missiles, and that one fired. Wayne: "Maybe I should take magic." Alaric was thrilled to teach him.
 - Aalyn healed Wayne (*Cure Wounds*, 29).
 - A stray magic missile hit the wall. The pyramid shook, the doors opened, and they ran out as it **sank back into the ground.** They were inside about two hours; it's around 10 or 11 in the morning.

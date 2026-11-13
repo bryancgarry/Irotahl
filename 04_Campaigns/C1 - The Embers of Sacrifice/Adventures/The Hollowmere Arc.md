@@ -17,6 +17,11 @@ The party's current arc, in the city of mists and the ruins beneath it.
 - [[Session 26 - The Straight Arrow]]
 - [[Session 27 - The Pyramid]]
 - [[Session 28 - Emperor Hawk Tuah and The Goon Generals]]
+- [[Session 29 - The Holy Silver Chain Knights]]
+- [[Session 30 - Journey Through the Fog]]
+
+## In the City
+- [[Session 31 - Welcome to Hollowmere]]
 
 ## Threads
 - **The city.** V's Lounge, the Temple of 1000 Candles, the Cult of the Dark Moon, the missing patrons, and Vaelindra's egg. See [[Hollowmere]].
