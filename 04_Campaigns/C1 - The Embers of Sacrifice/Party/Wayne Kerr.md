@@ -279,6 +279,9 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 35, Bugs and Dragons.** Ran the lake. **Linked minds with Nerevath and learned he's Salvatore Pearcetti**, the pear merchant. Talked the Fortunate Five into freeing him.
 - **Session 36, The Summit.** Showed Pebbles to the silver dragon; she stomped him. Broke a chain with his jade daggers and stood beside the dragon. Flew the party off on Nerevath. Level 7: Reliable Talent.
 - **Session 37, Back From The Hunt.** Strike two at the Cinderward gate. Learned Salvatore is Pebbles' mother; argued custody. Pulled a knife into his hand with his mind.
+- **Session 38, Digging For Information.** Found a myth of **a dwarf named Jack wielding soulvite daggers** in the Celestial Archives. Followed Thimble into the restricted section and found *Soul Marks and Abyssal Bindings*.
+- **Session 39, Escape From the Keep.** Doesn't know what a devil is. Pebbles' coat is matted. Flicked Alaric's hat off with his mind. Escaped out the window, invisible.
+- **Session 40, The Elevator Down.** Beaned a stranger with an avocado pull and surged Thimble with a two-handed one. Collected 13 pebbles. Pulled the lift lever with his mind. Kicked a crippled construct down the shaft and set off the security. His psychic dagger can't touch the centurion.
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **The salamanders.** Claimed the title Kyn'Ruthar to them. The fire sages traced Nerevath's silhouette into his stone.
 - **Session 52, The Hollow Reliquary.**

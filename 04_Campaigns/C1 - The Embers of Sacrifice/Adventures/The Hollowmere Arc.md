@@ -28,6 +28,9 @@ The party's current arc, in the city of mists and the ruins beneath it.
 - [[Session 35 - Bugs and Dragons]]
 - [[Session 36 - The Summit]]
 - [[Session 37 - Back From The Hunt]]
+- [[Session 38 - Digging For Information]]
+- [[Session 39 - Escape From the Keep]]
+- [[Session 40 - The Elevator Down]]
 
 ## Threads
 - **The city.** V's Lounge, the Temple of 1000 Candles, the Cult of the Dark Moon, the missing patrons, and Vaelindra's egg. See [[Hollowmere]].

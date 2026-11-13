@@ -18,6 +18,9 @@ tags: [npc, ally]
 > revealed:: false
 > Jack is a very powerful figure on a quest to defeat [[The Godhand]]. Wayne does not know this.
 
+## Played
+- In [[Session 38 - Digging For Information]] Wayne found a myth in the Celestial Archives of a hooded, bearded dwarven warrior named Jack with legendary soulvite daggers and a telekinetic link to them.
+
 ## In Wayne's Memory (Session 54)
 When the Remnant's Stilling began to petrify Wayne a second time, this memory pulled him out:
 - On the Drak'mor mountaintops, Jack sat on a rock with his cane, beard down to his knees, drilling Wayne's parkour in his new stone body. "You bag of rocks, do it again." "Put some muscle into it, you bag of bones."

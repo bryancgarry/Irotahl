@@ -165,6 +165,20 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] The Celestial Archives' restricted section and the Chain Lords (Session 37).
 - [ ] Miss V, the masked newcomer at V's, and Gorgonzola (Session 37).
 - [ ] The unpaid hunt reward, and Corvin Hale working with the baroness (Session 37).
+- [ ] Aalyn's unread contract with Vashara, and the four missing patrons of V's (Sessions 38 to 39).
+- [ ] The janitor Bog killed at V's (Session 38).
+- [ ] Bog's compulsion, "the lounge misses you," and what Vashara learned from him (Session 39).
+- [ ] Thimble's Tome of the Demonomicon and its legendary boon (Sessions 38 to 39).
+- [ ] Luna's arrest, the Chain Lords, and Corvin Hale's hunt for the party (Sessions 38 to 39).
+- [ ] Devils, unknown in the world (Sessions 38 to 39).
+- [ ] Jack and the soulvite daggers (Session 38).
+- [ ] The silver egg's arcane signature, and a mother that never stops searching (Session 38).
+- [ ] Aalyn's darkening hair (Session 39).
+- [ ] Mr. Strong Legs' signet, to Daggerford (Session 39).
+- [ ] The Pale Codex, and Papa Glabb's harp and songbook (Session 39).
+- [ ] The magical thread and the students in black (Session 40).
+- [ ] Bifflefapple's breakthrough on Nerevath, and Thimble's father (Session 40).
+- [ ] Durnhollow: the stone casket on the lift, the vault door, and Thimble's hidden surge (Session 40).
 
 ## Setting
 - [ ] Hollowmere's and Vermillion Bay's exact place on the map.

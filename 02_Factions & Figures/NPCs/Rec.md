@@ -17,3 +17,4 @@ tags: [npc, ally, familiar]
 ## Played
 - Summoned by ritual in [[Session 22 - A Long Night Ends]]: a living demiplane, a flat, shadowy rectangle. It played with Pebbles.
 - Thimble rides Rec like a skateboard for overland travel ([[Session 25 - Boobs and Bodies]]).
+- Watched Willamir and the courtyard for Alaric, and played an illusion of Luna's arrest ([[Session 38 - Digging For Information]], [[Session 39 - Escape From the Keep]]).

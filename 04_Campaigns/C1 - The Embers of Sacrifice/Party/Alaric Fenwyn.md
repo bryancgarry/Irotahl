@@ -180,6 +180,9 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 35, Bugs and Dragons.** Slid across the lake on an ice ramp powered by *Shape Water*. Used his free 20 to turn the silver dragon to the party's side. Healed Aalyn from his ring.
 - **Session 36, The Summit.** Flashback: Fenril brought him to the gold dragon Aurixia. "Do not waste your gifts on a safe life." Dispelled the drow's spell on the dragon, counterspelled their *Darkness*, and cast *Moat of Hell*. **Took a silver dragon egg from her nest and told no one.** Identified the dwarven treasure map. Turned Nerevath into Salvatore for the walk in. Level 7: 4th-level spells.
 - **Session 37, Back From The Hunt.** Delivered Salvatore to Bifflefapple and brokered the pear deal. Went to the Celestial Archives and asked Archivist Willamir how dragons raise their young.
+- **Session 38, Digging For Information.** Read Quellin's *On the Raising of Dragon Hatchlings*: adult dragons never stop searching for a lost egg, and eggs carry an arcane signature. Willamir told him of the Heavenspear and the Rikk Borgar. Hid Thimble's loot in his invisible bag of holding when the alarm went off.
+- **Session 39, Escape From the Keep.** Has no book on devils. Noticed Aalyn's hair darkening. Took the +1 longsword. Soothed the silver egg with *Shape Water*. Saw Luna arrested through Rec, escaped disguised as "Sir James," made the others invisible, and **took the Pale Codex** from the restricted section.
+- **Session 40, The Elevator Down.** The Codex needs moonlight; read his tome of understanding instead. Taught Wayne on the lift lever. Hid in a chest, then *Summon Fey*: a fey spirit with back-to-back natural 20s.
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **Session 53, What Is Left of You.**
   - Revealed his own path through the mindscape on a 28 and finished second, then guided Bog home with nothing but gestures.
