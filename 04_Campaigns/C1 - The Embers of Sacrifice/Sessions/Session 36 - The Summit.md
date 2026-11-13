@@ -90,7 +90,8 @@ tags:
 > [!secret] Links to later lore
 > revealed:: false
 > - The silver dragon is [[Vaelindra]]. Alaric stole her egg, and she is coming.
-> - The drow with the candle on his robes, and "our champion": [[The Temple of 1000 Candles]], and likely [[Lolth]]'s "others" hunting the Spool.
+> - The candle on the dog party leader's robes: [[The Temple of 1000 Candles]].
+> - The drow and "our champion": likely [[Lolth]]'s "others" hunting the Spool.
 > - The spectral fox: an abomination.
 > - Bog's silver heritage.
 
@@ -105,7 +106,8 @@ tags:
 
 > [!warning] Open from Session 36
 > - Aurixia and Fenril's lesson.
-> - The drow, the candle, and "our champion."
+> - The drow and "our champion."
+> - The dog party, its spectral fox, and the candle on its leader.
 > - The silver dragon's egg.
 > - The dwarven treasure map.
 > - The rainbow eggs.

@@ -156,7 +156,7 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] The old mine disturbing Thimble's compass (Session 34).
 - [ ] The rainbow eggs: Thimble holds two (Sessions 35 to 36).
 - [ ] The silver dragon's egg, taken by Alaric (Session 36).
-- [ ] The drow at the summit, the candle on their robes, and "our champion" (Session 36).
+- [ ] The drow at the summit and "our champion"; the dog party, its spectral fox, and the candle on its leader's robes (Session 36).
 - [ ] The dwarven treasure map: three sites beneath Hollowmere (Session 36).
 - [ ] Bog's silver heritage (Session 36).
 - [ ] Salvatore Pearcetti: a permanent cure, the pear deal, the Skyball League sponsorship, and Pebbles' parentage (Session 37).
