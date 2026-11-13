@@ -154,7 +154,7 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] Rosalie's mother "on holiday" (Session 34).
 - [ ] The gray beast in Sir Tobias's notes, and the Strong Legs ring (Session 34).
 - [ ] The old mine disturbing Thimble's compass (Session 34).
-- [ ] The rainbow eggs: Aalyn holds two (Sessions 35 to 36).
+- [ ] The rainbow eggs: Thimble holds two (Sessions 35 to 36).
 - [ ] The silver dragon's egg, taken by Alaric (Session 36).
 - [ ] The drow at the summit, the candle on their robes, and "our champion" (Session 36).
 - [ ] The dwarven treasure map: three sites beneath Hollowmere (Session 36).

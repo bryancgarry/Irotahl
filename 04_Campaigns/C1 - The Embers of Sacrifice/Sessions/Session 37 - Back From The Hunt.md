@@ -102,7 +102,7 @@ tags:
 - Talia gave Aalyn **50 gp** from the bag ("I could fight my own battles") and took him to a back room. Session ends.
 
 **After the session**
-- Bog is "Gorgonzola" fan number one.
+- The table jokes Corvin is in love with Luna.
 
 > [!secret] Links to later lore
 > revealed:: false
@@ -110,7 +110,6 @@ tags:
 > - Orthus's lies, and "you will see the princess and prince again."
 > - The lady who runs V's: [[Vashara]].
 > - The masked man at V's.
-> - Bog's secret admirer may be Gorgonzola ("not again").
 
 > [!warning] Changes that affect Session 38
 > - Level 7. Aalyn and Thimble have 5 temporary HP until the end of tomorrow.
