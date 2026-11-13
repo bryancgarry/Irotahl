@@ -67,3 +67,9 @@ Dwemer-inspired constructs: Dwarven Spiders, Spheres, Centurions, Ballista, and 
 
 ## Nearby
 - [[The Hollow Reliquary]], in the lava lake in the spans beyond the city.
+
+## Played
+- **Sessions 41 to 43.** The steam layer. The Tempest Warden defeated; the air soulvite shard.
+- **Sessions 44 to 47.** The water layer. Vashara's study; the Tide Warden defeated ([[Session 47 - The Tide Warden|Session 47]]); the water soulvite shard.
+- **[[Session 48 - Magic Mushroom Fun Pt. 2|Session 48]].** A fungal cavern below. The Omnishroom showed Wayne the vault of four doors (bronze, silver, gold, and one more); the party holds two keys; the gold key is "above the lava pits, take the third track." [[Myra]] joined.
+- **[[Session 49 - The Rock God|Session 49]].** The quarry's stone berserkers stood down for "the Rock God." The party restarted the silver refinery, with Myra as manager. Above it, a channeling chamber: eight pedestals around a great engraved block of silver, the top of a larger chamber. The minecarts lead out over the lava lake.

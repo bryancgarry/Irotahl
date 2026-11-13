@@ -37,6 +37,9 @@ The party's current arc, in the city of mists and the ruins beneath it.
 - [[Session 44 - And I Click 5 Again]]
 - [[Session 45 - Why Is This Here]]
 - [[Session 46 - A Quick One]]
+- [[Session 47 - The Tide Warden]]
+- [[Session 48 - Magic Mushroom Fun Pt. 2]]
+- [[Session 49 - The Rock God]]
 
 ## Threads
 - **The city.** V's Lounge, the Temple of 1000 Candles, the Cult of the Dark Moon, the missing patrons, and Vaelindra's egg. See [[Hollowmere]].

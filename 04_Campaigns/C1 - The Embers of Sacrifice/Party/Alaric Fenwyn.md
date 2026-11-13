@@ -189,6 +189,9 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 44, "and I click 5 again...".** Built ice bridges and **the ice luge** that shattered a detention drone. Mended the frozen sprinklers.
 - **Session 45, Why Is This Here.** **Showed the party his silver dragon egg.** Sensed an aberration to the north that could end the party. In the pool, his brother reached for him; he asked when he'll be seen as an adult. "Further away than he'd like."
 - **Session 46, A Quick One.** Absent ("Pokéballed" by the robots).
+- **Session 47, The Tide Warden.** His capture bubble flooded in the pipes; froze the cracks with *Control Water*. **Fell through the ceiling onto Thimble.** Engulfed by the Warden (24). *Psychic Lance* by its name tag.
+- **Session 48, Magic Mushroom Fun Pt. 2.** Rolled the Omnishroom again: **it opened a portal to the Feywild.** Knows the Feywild from his family's lessons; "do not agree to anything." *Dispel Magic* on Thimble to break the nymphs' pull.
+- **Session 49, The Rock God.** Hasted Wayne and hid on his chest as a rock. **Gave the Rock God his voice** (natural 20). Pitched selling the refinery's silver through Bifflefapple. Read the channeling chamber: a block of silver, the top of a bigger chamber.
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **Session 53, What Is Left of You.**
   - Revealed his own path through the mindscape on a 28 and finished second, then guided Bog home with nothing but gestures.

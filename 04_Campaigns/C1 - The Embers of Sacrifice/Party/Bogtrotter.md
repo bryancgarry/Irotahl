@@ -94,6 +94,9 @@ Bogtrotter is the only member of the party **not** branded. The Reliquary's bran
 - **Session 44, "and I click 5 again...".** Swatted the drone's orb away from Thimble. Kicked a door into a sink. Crit an ice mephit.
 - **Session 45, Why Is This Here.** Ate a card sandwich and gave Wayne 35 gp. In the pool, **a tiny reptile child chased by a huge non-alcoholic slug.**
 - **Session 46, A Quick One.** **Breathed lightning into the conduit and woke the Tide Warden.** Deflected its slam. Switched his breath to cold.
+- **Session 47, The Tide Warden.** Deflected the Warden again and again. **Killed it with a wet, lightning-charged middle finger.** Peed on it.
+- **Session 48, Magic Mushroom Fun Pt. 2.** Asleep (his player on honeymoon). Thrown in the mushroom pool: **supercharged with chaos energy, can wild magic surge.** Carried in Myra's pod.
+- **Session 49, The Rock God.** Still asleep in the pod.
 - **Session 53, What Is Left of You.** Punched the needle out of Thimble's head, guided Aalyn through the mindscape, threw a pebble at Alaric (the start of the beef), and ate the watermelon. Found he could stand on the void. Held on through the Soul trial.
 - **Session 54, The Heart of the Void.** *(Gabe absent. The DM ran Bog.)*
   - Jumped onto the central platform with his Ring of Jumping and breathed lightning. His surge (92) added 18 lightning damage.

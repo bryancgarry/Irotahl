@@ -120,6 +120,9 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 44, "and I click 5 again...".** Rode the air current; got plowed by Wayne's luge. Kicked a door off its hinges.
 - **Session 45, Why Is This Here.** Recognized Alaric's dragon egg. *Shatter* opened Vashara's warded study; read the eclipse in Abyssal. **Spoke Malcanthet's true name at her statue and got a medallion with a face.** In the pool, exploded in Wayne's vision and woke holding him.
 - **Session 46, A Quick One.** Natural 20 against the Tide Warden's surge. The medallion hums back at him.
+- **Session 47, The Tide Warden.** *Shatter*ed the ceiling to free Alaric, who fell on him. Took two water spirits and rail-gunned into the conduit; **lost the surge gamble and took 5d10 himself.** Flipped off by the Warden.
+- **Session 48, Magic Mushroom Fun Pt. 2.** Drained the mushroom back: 10 temp HP and a spell slot. Bathed by Feywild nymphs; pulled out, he *Chaos Bolt*ed Wayne. Surge: a small modron. Stunned by Myra's spores. Took **a dwarven blasting charge.** Birthday heroic inspiration.
+- **Session 49, The Rock God.** The fey bath counted as a short rest. Played the prisoner. Heroic inspiration: **a star ruby** from Wayne's hole. Plugged the generator with clockwork devices. His surge die reset to a d20 at the silver block. "Do not explode."
 - **Session 53, What Is Left of You.** Pulled into the mindscape by force and punched back out by Bog. Finished the Mind trial last, guided by Wayne. Natural 20 on Investigation in the Soul chamber: his first inkling that the soul sphere is tied to the pale stones. **Became the blade.** His brand darkened.
 - **Session 54, The Heart of the Void.**
   - Cold open: the gallery memory, the slap, and the memory he refused to let go of.

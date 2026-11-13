@@ -323,6 +323,9 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 44, "and I click 5 again...".** Lured a mimic off a ledge. Found four silver ingots, **a silver key** (his thieves' tools were damaged by a fire glyph), notes on refining silver with water, **a necklace of adaptation**, and barrels of aged dwarven ale.
 - **Session 45, Why Is This Here.** Smashed open the drow-dwarf pact with his warhammer. In the pool his patron grinned that the thread isn't here; asked what one thing he'd say across the planes: **"Stay."**
 - **Session 46, A Quick One.** Touched the water spirit: water form and the raging torrent buff.
+- **Session 47, The Tide Warden.** Penguin-slid across the ice into a glowing intake and blasted the Tide Warden from the inside, shattering its sheen. Twinned his Eldritch Blast. Hexblade's Curse killed the first spectator.
+- **Session 48, Magic Mushroom Fun Pt. 2.** The gold mushroom made him **a walking flashbang for an hour.** Scouted ahead with Rec through the ballista shafts (picked the wrong door twice). **His wand of resurrection's *Heal* came out as a 3rd-level *Cure Wounds*.**
+- **Session 49, The Rock God.** *Disguise Self* as stone; told the stone commander **Wayne was their god** and Myra and Thimble their prisoners. *Hold Person* on Thimble to sell it. Myra pulled **an amulet of the drunkard** from a cave-in at his map's spot; he owes her a payment. **Wayne pushed him down a minecart track** to 300 feet above a lava lake.
 - **Hollowmere.** *(To fill in from earlier sessions: Talia and the rest.)*
 - **Session 52, The Hollow Reliquary.** Entered the Reliquary with [[King Atul Stonemarch|Atul]].
 - **Session 53, What Is Left of You.**

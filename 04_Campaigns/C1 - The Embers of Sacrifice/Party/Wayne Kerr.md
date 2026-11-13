@@ -177,7 +177,8 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Symbol of the Off-Branded Misfits.**
 - ***Wizardry 101.1*, the revised edition**, from Professor Bifflefapple (Session 32). Exercises in the back. And a temporary Cinderward faculty badge in Bifflefapple's name.
 - **Keepsakes and evidence:** a letter from General Veraxous about the Bloodlancers' first wave attacking Oakhollow, ruined heavy armor and a commander's mace, the Half Heart key, an amulet from the king, the Pendant of the Ferns, a wooden mask from the Goliath shamans, a sending stone to [[Tiberius Blackfang|Tiberius]], Malrick's logs, navigational charts, 7 screaming rocks, and 27 river dogs.
-- **Contacts:** Rai Zeph, the black bear at Terry's.
+- **Contacts:** [[Rai Zeph]], the black bear at Terry's.
+- **A planar diamond** from Rai Zeph (Session 48). **The stone commander's greataxe** (Session 49).
 
 ## Future Planning
 > [!info] DM Note
@@ -288,6 +289,9 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 44, "and I click 5 again...".** Rode the ice luge through the drone. Solved two flywheel puzzles and pulled ice blocks into his own body.
 - **Session 45, Why Is This Here.** Started the third pump alone under ceiling ooze; found a second enhancement chamber. Pebbles wears Thimble's pants. Won 35 gp off Bog. In the pool, **watched Thimble explode** and woke holding him.
 - **Session 46, A Quick One.** Stunned the Tide Warden with his psionic dagger (33).
+- **Session 47, The Tide Warden.** Named the Tide Warden on the spot. Rode a water spirit into its core with a luck point for 27 sneak attack. 75 gp off the water slide.
+- **Session 48, Magic Mushroom Fun Pt. 2.** **Reached the Omnishroom**: a vault of four doors, he holds two of the four keys, the gold key is "above the lava pits, take the third track," and his sprout means "the power to absorb." Third leaf. **Rai Zeph knelt to him as the Kyn'Ruthar**, gave him a diamond, and asked him to go home to the elders. Cut Myra free with the Sun Blade.
+- **Session 49, The Rock God.** **The Rock God.** Grew huge, took the stone commander's greataxe, and, hasted, **headbutted through a wall** into the refinery. Disarmed an alarm trap; caught the keycard droid. "The face of the company."
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **The salamanders.** Claimed the title Kyn'Ruthar to them. The fire sages traced Nerevath's silhouette into his stone.
 - **Session 52, The Hollow Reliquary.**

@@ -195,7 +195,18 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] The lunar eclipse a few days ago, recorded in Abyssal (Session 45).
 - [ ] The aberration to the north, and the gray ooze (Sessions 45 to 46).
 - [ ] The pool's visions: "Stay," Alaric's brother, Wayne and Thimble, Bog's slug (Session 45).
-- [ ] The Tide Warden fight, mid-combat (Session 46).
+- [x] The Tide Warden fight, mid-combat (Session 46). Won in Session 47.
+- [ ] Who took the water slide's 25 gp and 67 sp; the second spectator (Session 47).
+- [ ] The vault of four doors, and the gold key "above the lava pits, take the third track" (Session 48).
+- [ ] Wayne's sprout: "the power to absorb" (Session 48).
+- [ ] Rai Zeph, Terry's, the Gilded Conservatory's healing, and the Goliath elders' call home (Session 48).
+- [ ] The wand of resurrection's weakened *Heal* (Session 48).
+- [ ] Bog's chaos charge from the mushroom pool (Session 48).
+- [ ] The planar diamond and the Feywild gates (Session 48).
+- [ ] The channeling chamber, its eight pedestals, and the chamber below (Session 49).
+- [ ] The silver refinery business: Myra, Bifflefapple, a contract (Session 49).
+- [ ] The star ruby (Session 49).
+- [ ] Aalyn above the lava lake, and the chest (Session 49).
 
 ## Setting
 - [ ] Hollowmere's and Vermillion Bay's exact place on the map.
