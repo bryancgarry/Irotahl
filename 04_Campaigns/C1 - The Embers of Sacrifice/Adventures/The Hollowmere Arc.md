@@ -31,6 +31,9 @@ The party's current arc, in the city of mists and the ruins beneath it.
 - [[Session 38 - Digging For Information]]
 - [[Session 39 - Escape From the Keep]]
 - [[Session 40 - The Elevator Down]]
+- [[Session 41 - A Man and His Goose]]
+- [[Session 42 - Tempting Fate]]
+- [[Session 43 - The Tempest Warden]]
 
 ## Threads
 - **The city.** V's Lounge, the Temple of 1000 Candles, the Cult of the Dark Moon, the missing patrons, and Vaelindra's egg. See [[Hollowmere]].

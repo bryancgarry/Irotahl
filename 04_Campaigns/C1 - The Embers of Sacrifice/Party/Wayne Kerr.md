@@ -282,6 +282,9 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 - **Session 38, Digging For Information.** Found a myth of **a dwarf named Jack wielding soulvite daggers** in the Celestial Archives. Followed Thimble into the restricted section and found *Soul Marks and Abyssal Bindings*.
 - **Session 39, Escape From the Keep.** Doesn't know what a devil is. Pebbles' coat is matted. Flicked Alaric's hat off with his mind. Escaped out the window, invisible.
 - **Session 40, The Elevator Down.** Beaned a stranger with an avocado pull and surged Thimble with a two-handed one. Collected 13 pebbles. Pulled the lift lever with his mind. Kicked a crippled construct down the shaft and set off the security. His psychic dagger can't touch the centurion.
+- **Session 41, A Man and His Goose.** **Spent his free natural 20 walking through a stone door.** Pebbles pickpocketed a boiler key. Threw Pebbles into the chasm by accident and dove after her: **her first word, "Dad," and the Feat of the Kyn'Ruthar.** Fell nearly 1,000 feet and pushed himself back up.
+- **Session 42, Tempting Fate.** Slotted the Steam Nexus key and solved the color-flow puzzle. Told Thimble to send it.
+- **Session 43, The Tempest Warden.** Summoned an air elemental from his gem. **Weightless Movement and a vent launch: his psionic dagger stunned the Tempest Warden** and brought it down.
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **The salamanders.** Claimed the title Kyn'Ruthar to them. The fire sages traced Nerevath's silhouette into his stone.
 - **Session 52, The Hollow Reliquary.**

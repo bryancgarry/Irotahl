@@ -40,7 +40,7 @@ tags:
 
 **Strong Legs and the sword**
 - Thimble showed Luna **Mr. Strong Legs' signet ring**. "He was one of the best of us." **She suggests returning it to Daggerford; the Strong Legs family will pay well for answers.**
-- Thimble gave Wayne **the +1 longsword** he'd hauled since then. Wayne nicked Thimble for 2 swinging it. **Alaric is proficient and took it.**
+- Thimble gave Wayne **the +1 longsword** he'd hauled since then. Wayne nicked Thimble for 2 swinging it. **Aalyn is proficient and took it.**
 
 **Aalyn's hair and the contract**
 - Aalyn told the room about V's: Talia, Bog's performance and private room, the naked man, Miss V (pale plum skin, glowing eyes). Thinking out loud he settled on tiefling, though she has no horns.
@@ -54,7 +54,7 @@ tags:
 
 **Morning, rain**
 - **Bog returned soaked.** He was "put under some sort of spell, that was kind of cool," and they'll probably have to kill "that purple lady." She touched him. **"I also told her all about you guys."** Aalyn works for her now, so he'd rather she lived. Bog will kill her "at some point."
-- **Alaric showed Aalyn the rod of resurrection** and a full page on it in his book. "Just be careful."
+- **Alaric showed Aalyn the rod of resurrection** and a full page on it in his book, and left it with him: "You do the heal stuff." "Just be careful."
 - **Thimble read the tome.** (The DM confirmed volume zero came from Malrik's vault.) The pages are blank until you pass an INT save (16 with advantage). Alaric felt the malice coming off it. Words began to flutter: **a new item appeared on Thimble's sheet**, and he sat studying, eyes rolled back.
 - Aalyn gave heroic inspiration to Alaric, Wayne and Thimble.
 - Wayne pulled at Pebbles across the room (she held firm), then **flicked Alaric's hat off with his mind** (Arcana 18 with advantage).
@@ -103,7 +103,7 @@ tags:
 > [!warning] Changes that affect Session 40
 > - Bog is free, with the "lounge misses you" compulsion planted. Vashara knows the party.
 > - Luna has been taken away. Corvin Hale leads the hunt for the party on the keep's grounds.
-> - Alaric has the Pale Codex and the +1 longsword. Aalyn has Papa Glabb's harp and songbook. Thimble has the tome, what it gave him, and *Soul Marks and Abyssal Bindings*.
+> - Alaric has the Pale Codex. Aalyn has the +1 longsword, the rod of resurrection, and Papa Glabb's harp and songbook. Thimble has the tome, what it gave him, and *Soul Marks and Abyssal Bindings*.
 > - Aalyn has the details on the four missing patrons.
 > - Alaric's ring holds *Cure Wounds* (2nd level) and a spell of his own. Alaric's 4th-level slot is spent.
 > - The party is at the Drunken Star, heading for the dwarven ruins.

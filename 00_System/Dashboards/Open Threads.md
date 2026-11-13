@@ -178,7 +178,16 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] The Pale Codex, and Papa Glabb's harp and songbook (Session 39).
 - [ ] The magical thread and the students in black (Session 40).
 - [ ] Bifflefapple's breakthrough on Nerevath, and Thimble's father (Session 40).
-- [ ] Durnhollow: the stone casket on the lift, the vault door, and Thimble's hidden surge (Session 40).
+- [ ] Durnhollow: the stone casket on the lift and the vault door (Session 40). Thimble's surge was six inches of hair (Session 41).
+- [ ] The vault's four capsules, the statue panel, and the soulvite shard Alaric holds (Sessions 41 to 43).
+- [ ] The bronze key (Session 41).
+- [ ] Pebbles speaks to Wayne psionically; Wayne's Feat of the Kyn'Ruthar (Session 41).
+- [ ] The Tome of Malcanthet as a focus against fiends, and whether she answers (Session 41).
+- [ ] The live steam charged by the Runelands' ley lines (Sessions 41 to 42).
+- [ ] Storm Song: attunement and its air slashes (Sessions 42 to 43).
+- [ ] Clausius Clapeyron's journal, the year 412 (Session 42).
+- [ ] Thimble at the brink, and "this world must atone" (Session 42).
+- [ ] The logistics for the floors below (Session 42).
 
 ## Setting
 - [ ] Hollowmere's and Vermillion Bay's exact place on the map.
