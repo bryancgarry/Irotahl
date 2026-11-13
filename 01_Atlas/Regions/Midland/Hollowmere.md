@@ -21,7 +21,7 @@ tags: [location, city]
 ```dataview
 LIST FROM "02_Factions & Figures/NPCs" WHERE contains(location, this.file.link)
 ```
-- The baroness, Selara Du'Cant (Obsidian Enclave advisor), Luna au Vermillion, Corvin Hale, Talia, Bastian Dray.
+- Baroness Elixni Vexthorne, Selara Du'Cant (Obsidian Enclave advisor), Luna au Vermillion, Corvin Hale, Talia, Bastian Dray.
 
 ## Questlines
 > [!info] DM Note

@@ -141,7 +141,7 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] Cinderward and the Glimmerstone professor on sabbatical (Session 31).
 - [ ] The airship and "the Heart of Never..." (Session 32); the heart of Nerevath, the goose alive, or dwarven ruins below the city (Session 33).
 - [ ] Luna's brother: the monster, the missing body, the chain link (Session 32).
-- [ ] Solara Du'Cant, Malrik's failed scrying, and her steering of Luna (Sessions 32 to 33).
+- [ ] Selara Du'Cant, Malrik's failed scrying, and her steering of Luna (Sessions 32 to 33).
 - [ ] V's and the lady who runs it (Session 32).
 - [ ] Bog's secret admirer from the Oakhollow time share (Session 32).
 - [ ] Wayne's feat: Magic Initiate or Telekinetic (Session 32).

@@ -37,14 +37,15 @@ tags:
   - Corvin Hale leads lowly knights and priestly, magic-wielding members of the order.
 
 **Aalyn and the baroness**
+- The baroness is **Elixni Vexthorne**.
 - No spare pamphlets. Aalyn *Message*d Wayne to snatch one from Lady Priscilla; Wayne asked out loud "Who's Lady Priscilla?" and she gave him hers.
 - **This is the third hunt** the city has sponsored. The beast has plagued their lands for a few days.
-- She says the region enjoys an unprecedented era of peace thanks to **the marriage of House Dawan and House Fern**. She would have died to be at the wedding. She loved **Rosalie's mother**, who she says is **"just on holiday, for some time."** Aalyn thought Rosalie's mother died when Rosalie was young.
+- She says the region enjoys an unprecedented era of peace thanks to **the marriage of House Darken and House Fern**. She would have died to be at the wedding. She loved **Rosalie's mother**, who she says is **"just on holiday, for some time."** Aalyn thought Rosalie's mother died when Rosalie was young.
 - She'll **grant Aalyn time after the hunt, if they succeed**, to hear about the wedding.
 - **Natural 20 Persuasion:**
   - The previous groups took **two different paths** up the mountain to where Nerevath was believed to be. Some are more dangerous than others. **Stick to one of those two** and it should be smooth sailing.
   - **A secret treasure chest in a lake up in the mountains** holds **a relic of her ancestors, who liked to fish there.** Bring it back and she may **increase the prize**.
-- Aalyn bowed lower than her. He offered Solara a handshake; she kissed his hand instead. "Mr. Ravaceran."
+- Aalyn bowed lower than her. He offered Selara a handshake; she kissed his hand instead. "Mr. Ravaceran."
 
 **The road**
 - Wayne opened **a psionic link** (two hours) for the party, and renewed it later on the climb. Aalyn told them about the lake chest; it isn't on the pamphlet.
@@ -73,7 +74,7 @@ tags:
 - Thimble told him they'd lift the tree and he'd be fine, and to close his eyes. **Bog lifted the tree** and **Thimble cast a 2nd-level *Chaos Bolt* that leapt three times** (force, then fire that cauterized the wounds, then lightning), killing him. Alaric walked away.
 - **Loot (Thimble):** a **Strong Legs signet ring** (some hundreds of gp), a **+1 longsword** (on Thimble's back; he can barely hold it), a **potion of superior healing**, and **a pamphlet from an earlier expedition**.
 - **His notes** describe a creature at the top of the mountains, in the same area, that doesn't match Nerevath: **a gray beast, not malicious, not the flying type.**
-- A d10 roll to see if someone has turned into a tree came up safe; it's a d8 next time.
+- Thimble rolled his wild magic surge (a d10, checking whether he's turned into a tree) and came up safe; it's a d8 next time.
 
 **The cold (5:30 in, about 3:30 p.m.)**
 - Light snow and dropping temperature. From here, **a Constitution save every hour** against the cold (DC 5, rising by 1 each hour).
@@ -82,7 +83,7 @@ tags:
 - Aalyn, scouting by air, found two side spots and they **marked both on the map**:
   - **A frozen lake**, past a rocky rise where trees grow again.
   - **An old mine** in the rocks to the right.
-- **Thimble's loot compass** (Investigation 20) pointed toward the lake, but not quite honed in, as if **something in the mine was disturbing it**. *(The DM confirmed at the table that the compass upgrade from the trader was never actually done.)*
+- **Thimble's loot compass** (Investigation 20) pointed toward the lake, but not quite honed in, as if **something in the mine was disturbing it**. *(At the table the DM said the compass upgrade from the trader hadn't been done yet. DM, after the fact: it should have happened, and is still to be applied.)*
 - They skipped both to save time and strength.
 
 **The great frozen lake (4:30 p.m.)**
@@ -115,7 +116,7 @@ tags:
 > - Wayne's psionic link was renewed around 3:30 into the climb.
 > - Thimble carries Tobias's signet ring, a +1 longsword, a potion of superior healing and the old pamphlet.
 > - The lower lake and the old mine are marked on the map.
-> - The tree roll is a d8 next time.
+> - Thimble's wild magic surge roll is a d8 next time.
 
 > [!warning] Open from Session 34
 > - The baroness's relic in the lake, and a bigger prize.

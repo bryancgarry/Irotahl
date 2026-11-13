@@ -175,7 +175,7 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
   - **Vision:** a child kept out of the Heptarion in Syfaeril's capital. His older brother read him "The Fawn and the Moon": "Little brother, I see you even when you think I don't."
 - **Session 31, Welcome to Hollowmere.** Got a pass in the works for the Celestial Archives. Sent Rec after the watchers. *Moat of Hell* on the ambush, and the ring's Chaos Bolt dropped a wererat off a wall. Found Kagra's postcard: the orphanage.
 - **Session 32, Exploring the City.** Showed the group the candle patch again. Bifflefapple knows his father. Learned the airship needs ether power: "the Heart of Never..."
-- **Session 33, Friends and Lovers.** Heard Professor Lyra call Wayne a hollow husk. Took Solara's component pouch while she was held, then gave it back. Missed the archives for the hunt.
+- **Session 33, Friends and Lovers.** Heard Professor Lyra call Wayne a hollow husk. Took Selara's component pouch while she was held, then gave it back. Missed the archives for the hunt.
 - **Session 34, The Hunt Begins.** Navigated, picked the river path, mended the rigged rope bridge as he crossed and saw it rigged before it fell. Walked away from the mercy kill. Refroze the cracking ice and built an ice sled.
 - **Hollowmere.** *(To fill in from earlier sessions.)*
 - **Session 53, What Is Left of You.**
