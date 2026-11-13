@@ -62,7 +62,7 @@ tags:
 - They got back on in a midair catch. Alaric told no one about the egg; asked what was in the hole: "Nothing. Bunch of gold." His voice cracked.
 
 **The rainbow eggs**
-- Thimble told the others about the eggs. They swung by the remorhaz lake: **the big remorhaz floats dead with its belly blown open. Four of the six eggs are eaten.** Aalyn swooped down and **took the last two**, about ostrich-egg size.
+- Thimble told the others about the eggs. They swung by the remorhaz lake: **the big remorhaz floats dead with its belly blown open. Four of the six eggs are eaten.** Aalyn swooped down and **took the last two**, about ostrich-egg size, then handed them off. **Thimble holds them** (DM, after the fact).
 - Thimble: eat one and it's permanently +1 to a stat, or your insides explode.
 - Alaric minor-illusioned a chicken egg ("third egg") to cover himself.
 
@@ -98,8 +98,8 @@ tags:
 > - Level 7.
 > - Bog: tome of understanding and rod of resurrection (held by Alaric), belt of stone giant strength, silver heritage.
 > - Alaric: the silver dragon egg (secret), the dwarven treasure map.
-> - Aalyn: two rainbow eggs, a goose feather, 120 gp.
-> - Thimble: the snorkel gear and the cloak of the manta ray.
+> - Aalyn: a goose feather, 120 gp.
+> - Thimble: the two rainbow eggs, the snorkel gear and the cloak of the manta ray.
 > - Nerevath is Salvatore for an hour, a beast for 24 hours.
 > - The party split: Aalyn and Thimble to Hollow Hall; Alaric, Wayne and Bog to Cinderward.
 
