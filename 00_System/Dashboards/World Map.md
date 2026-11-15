@@ -6,9 +6,9 @@ tags: [dashboard, map]
 
 Drop the world map image into `00_System/Assets/Maps/`, then replace the example below with a real `leaflet` code block (change the fence from `text` to `leaflet`).
 
-```text
+```leaflet
 id: irotahl-world
-image: [[irotahl_world.png]]
+image: [[Irotahl_World.jpg]]
 height: 700px
 lat: 50
 long: 50

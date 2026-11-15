@@ -20,8 +20,9 @@ tags: [pc]
 
 ## The Truth
 > [!secret] Chaos-born
-> revealed:: false
-> Thimble was shaped out of raw chaos by his father, using the body of [[The Chaos Primordial]] (or a part of it). He does not know.
+> revealed:: partial
+> Thimble was shaped out of raw chaos by his father, using the body of [[The Chaos Primordial]] (or a part of it).
+> **Revealed so far:** Malcanthet called him "a chaos born" in front of the party (Session 21). **Still hidden:** what it means, and that his father made him.
 
 > [!secret] What the chaos-born can do
 > revealed:: false

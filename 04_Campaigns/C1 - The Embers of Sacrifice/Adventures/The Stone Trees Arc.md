@@ -12,8 +12,8 @@ tags: [adventure]
 The campaign's opening arc. The party went into [[The Tall Oak Forest]] outside [[Oakhollow]] to stop the Godspire, a [[Lithoweaves|lithoweave]], from calcifying the world.
 
 ## Key Events
-- Baron Fern invoked an Ember of Sacrifice to save his daughter and offered up the party, branding everyone but Bogtrotter (around sessions 2 and 3). See [[Abyssal Brands]].
-- The Bridge King's ascension beneath the Grand Cathedral, performed by [[Malrik Greene]] with the same Ember. [[Tiberius Blackfang]] intervened.
+- Baron Fern invoked an Ember of Sacrifice to save his daughter and offered up the party, branding everyone but Bogtrotter (Sessions 1 and 2, unrecorded). See [[Abyssal Brands]].
+- The party met the Bridge King and took his crown and his troll, Bragthar (Session 3). His ascension came later, in [[The Mystery Beneath Oakhollow Arc]].
 - The party stopped the Godspire. It collapsed like a black hole and vanished.
 
 ## Recorded Sessions
@@ -25,6 +25,6 @@ The campaign's opening arc. The party went into [[The Tall Oak Forest]] outside 
 - [[Session 8 - Gnomes and Fireballs]]
 
 ## How It Ties to the Godhand
-> [!secret] What they witnessed
-> revealed:: false
-> The Bridge King became [[Graz'zt]] at the Fifth Moon Darkening, completing the Godhand. The players don't know this.
+> [!secret] The goblin on the bridge
+> revealed:: partial
+> The Bridge King they robbed here became [[Graz'zt]] at the Fifth Moon Darkening, completing the Godhand. The party saw him rise in Session 21. They don't know about the Moon Darkening.

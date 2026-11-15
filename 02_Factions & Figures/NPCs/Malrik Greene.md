@@ -15,8 +15,8 @@ tags: [npc, apostle, villain]
 > Former Obsidian Enclave advisor to the court of [[Oakhollow]].
 
 > [!secret] Graz'zt's apostle
-> revealed:: false
-> Malrik performed the Bridge King's ascension beneath the Grand Cathedral. Graz'zt's first act was to make him his apostle and pull him into the Abyss. The players do not know what became of him.
+> revealed:: true
+> Malrik performed the Bridge King's ascension beneath the Grand Cathedral. Graz'zt's first act was to make him his apostle and pull him into the Abyss. The party watched it happen (Session 21). What he does as an apostle is still open.
 
 ## Played
 - **Session 6.** Found tortured in a blood-rune cage at the Bloodlancer camp in the [[The Tall Oak Forest|Tall Oak Forest]], with three levels of exhaustion. Freed and healed by the party.
@@ -34,5 +34,5 @@ tags: [npc, apostle, villain]
 - **Session 19.** Demanded his mask back and the gemstone on Wayne's neck. Said he has seen and dreamt the future, that he is trying to prevent the world's destruction, that he has "the vessel" ready, and asked how they plan to defeat the Godhand. Woke the chamber's guardians. See [[Session 19 - The Fight Begins]].
 - **Session 20.** Called Alaric "Son." When Talula took the gemstone: "No, no, no. You don't know what you've done." Bog knocked him out, and Aalyn tied him up with the chains. See [[Session 20 - The Ascension]].
 - **Session 21.** Aalyn healed him in Graz'zt's domain. Seeing the Godhand: "No. Oh no." He searched for something the party had already taken. "It wasn't supposed to be like this." Graz'zt made him his apostle (blue skin, red eyes, a tusked boar-like head, blue flame) and sent him into the Abyss. See [[Session 21 - The Godhand]].
-- **Session 22.** His bag of holding held three greater healing potions, rings of water walking and jumping, a rune of recall, the illusionary battery, an incomplete Abyssal grimoire, refractory schematics, and an aetherstone order to D. Bronzebottom of Glimmerstone. His charts mark another gemstone off Midland's southern coast. See [[Session 22 - A Long Night Ends]].
+- **Session 22.** His bag of holding held three greater healing potions, rings of water walking and jumping, a rune of recall, the illusionary battery, an incomplete Abyssal grimoire, refractory schematics, and an aetherstone order to D. Bronzebottom of Glimmerstone. His charts mark another gemstone in the sea between Midland and Syfaeril (forgotten coastal ruins or a wreck). See [[Session 22 - A Long Night Ends]].
 - **Session 23.** The repaired solar refractory showed his prophecy: a darkness invading the world, rifts in the skies, and demons flying in from above and below. His grimoire is the introductory volume to the Godhand tomes. See [[Session 23 - Magic and Religion]].

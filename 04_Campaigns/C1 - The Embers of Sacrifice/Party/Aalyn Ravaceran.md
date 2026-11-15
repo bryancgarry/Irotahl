@@ -137,7 +137,7 @@ tags: [pc]
 - **The night in the woods.** Under the tree he and Sumina used to sit beneath, in falling snow, he thought about staying there to freeze. Then he heard her voice: make the world better, and she could come back to him, forever. He promised to bring her back no matter the cost. That's all he remembers.
 - He wandered and played for years, always feeling watched or followed. In the town of **Silverwind** he met **Rosalie**, Princess of [[Oakhollow]] and daughter of [[Baron Fern]], who gave him her heirloom winged boots. He ran away from her.
 - In Oakhollow he crossed paths with **Ino Silvertone**, a rival bard he has beef with.
-- He came back for her wedding to **Sir Romulus Darken, Prince of Darkstone** (Prince Darkin), met the party there, and got branded when Fern turned. Rosalie was stabbed during the attack and did not survive.
+- He came back for her wedding to **Sir Romulus Darken, Prince of Darkstone**, met the party there, and got branded when Fern turned. Rosalie was stabbed during the attack and held suspended in red magic. She died the night Graz'zt rose (Session 22).
 - His ex, [[Talia]], works at V's Lounge in Hollowmere.
 - In the void beneath the Reliquary, he heard **Sumina's song** and saw her soul before Lolth erupted from a nest of webs, hissed "*Insolent child*," and dragged her back.
 

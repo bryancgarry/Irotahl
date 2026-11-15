@@ -18,8 +18,9 @@ Raw chaos, shaped by causality, collided with [[The Order Primordial]] and ignit
 > Its body lies calcified on the western shores of Midland. The gnomes of [[Glimmerstone]] carved their city into it without ever knowing what it was. Its mines yield pure [[Aetherstone]].
 
 > [!secret] Thimble is chaos-born
-> revealed:: false
-> [[Thimblewick Danglesworth|Thimble]] was shaped out of raw chaos by his father, using the Chaos Primordial's body (or a part of it). Thimble does not know.
+> revealed:: partial
+> [[Thimblewick Danglesworth|Thimble]] was shaped out of raw chaos by his father, using the Chaos Primordial's body (or a part of it).
+> **Revealed so far:** Malcanthet called him "a chaos born" in front of the party (Session 21). **Still hidden:** what it means, and that his father made him.
 
 ## Connections
 - The final battle of [[The Sundering of Planes]] was fought on the site that is now Glimmerstone, and [[The Second Sundering]] begins there.

@@ -25,7 +25,19 @@ Bogtrotter is the only member of the party **not** branded. The Reliquary's bran
 > Open: why he was spared, and whether being unbranded matters later (for example, whether the Abyss can claim him at all, or whether that makes him the party's anchor).
 
 ## Personal Quest Hooks
-- 
+*Gathered from the table. His backstory is still blank, so check with Gabe before building on these.*
+- **Kin of the silver.** [[Vaelindra]] called him kin and woke a silver heritage in him: cold breath at will (Session 36). Why does a bronze dragonborn carry silver?
+- **"Who made a dragonborn?"** The Godhand's horned one, [[Baphomet]], was fascinated by him (Session 21).
+- **The bronze dragon in the obelisk** at the Godspire ruins, which he shattered with lightning (Session 6).
+- **Unbranded.** Tiberius wasn't surprised he was spared (Session 11), and Malcanthet was curious (Session 21).
+- **"The lounge misses you."** [[Vashara]]'s compulsion, and the scales she plucked from his back (Session 39). He wants to kill "that purple lady."
+- **Chaos-charged.** The mushroom pool supercharged him, and he can wild magic surge (Session 48).
+- **Doran,** the dwarven smith who makes armor like Tiberius's (Session 23).
+- **His secret admirer** from the Oakhollow time share (Session 32), and Gorgonzola at V's (Session 37).
+- **The bone naga's fluid** he drank in Session 20. Effect unknown.
+
+> [!info] DM Note
+> Options for why he's unbranded are in [[Story Planning]] (the Vyrmor section).
 
 ## Notable Items
 - **Ring of Jumping.** Casts *jump*.

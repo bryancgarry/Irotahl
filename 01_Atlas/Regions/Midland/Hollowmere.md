@@ -24,14 +24,19 @@ LIST FROM "02_Factions & Figures/NPCs" WHERE contains(location, this.file.link)
 - Baroness Elixni Vexthorne, Selara Du'Cant (Obsidian Enclave advisor), Luna au Vermillion, Corvin Hale, Talia, Bastian Dray.
 
 ## Questlines
-> [!info] DM Note
-> Status as of around session 38. Verify against recent sessions.
+As of Session 54. See [[Quest Log]] for what the party knows.
+- **V's Lounge.** Miss V, who gave her name as Vashara, handed Aalyn four missing patrons: Garret Wulloch, Oswin Tetch, [[Bastian Dray]], and Pitor Senn. Aalyn signed her contract unread. Bog carries her "the lounge misses you" compulsion. [[Talia]] works there.
+- **Lolth's Spool.** [[Lolth]] challenged Aalyn to find it before "the others." Students on campus have taken to wearing strange black thread.
+- **The Temple of 1000 Candles.** Beloved for its healing miracles. Candles keep turning up on the party's enemies.
+- **The Gilded Conservatory.** [[Rai Zeph]] stays in the city to warn people away from its healing.
+- **Luna's arrest.** The Chain Lords took [[Luna au Vermillion|Luna]] after the archives break-in. [[Corvin Hale]] now commands the Silver Knights and is hunting the party.
+- **Selara and the baroness.** A truce with [[Selara Du'Cant|Selara]]: "Do not push the baroness."
+- **The airship.** Professor Bifflefapple's ship needs dwarven air compression from [[Durnhollow]].
+- **Vaelindra's egg.** Alaric has it. Her approach is foreshadowed by unusual cold over the city.
 
-- **V's Lounge.** Vashara runs it as a front for wendigo experiments and a body-supply arrangement with the Temple of 1000 Candles. Talia (Aalyn's ex) works there willingly. Bastian Dray is alive and held beneath the lounge.
-- **The Temple of 1000 Candles.** Conducting a five-anchor-point, city-wide lycanthropy ritual using the Spool of Lolth's Thread.
-- **The Cult of the Dark Moon.** Sleeper cells using coded symbols and dead drops, with no visible public presence.
-- **The missing patrons.** An open sandbox investigation of four missing patrons.
-- **Vaelindra's egg.** An adult silver dragon whose egg Alaric stole. Discovery is foreshadowed by unusual cold weather over Hollowmere.
+> [!secret] Behind the questlines
+> revealed:: false
+> V's Lounge fronts Vashara's wendigo experiments and a body-supply arrangement with the Temple. Bastian Dray is alive in the cold room behind the wine. The Temple's inner circle runs a five-anchor-point lycanthropy ritual on the Spool of Lolth's Thread. The Cult of the Dark Moon hasn't surfaced at the table yet.
 
 > [!secret] Vashara is Malcanthet's apostle
 > revealed:: false

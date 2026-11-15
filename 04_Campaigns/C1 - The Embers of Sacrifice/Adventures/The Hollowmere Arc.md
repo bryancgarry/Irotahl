@@ -43,10 +43,16 @@ The party's current arc, in the city of mists and the ruins beneath it.
 - [[Session 50 - Into the Inferno]]
 - [[Session 50.5 - The Wayne and Thimble Episode]]
 
+## The Hollow Reliquary
+- [[Session 52 - The Hollow Reliquary]]
+- [[Session 53 - What Is Left of You]]
+- [[Session 54 - The Heart of the Void]]
+- [[Session 55]]
+
 ## Threads
-- **The city.** V's Lounge, the Temple of 1000 Candles, the Cult of the Dark Moon, the missing patrons, and Vaelindra's egg. See [[Hollowmere]].
+- **The city.** V's Lounge and the missing patrons, Lolth's Spool, the Temple of 1000 Candles, Luna's arrest, Selara and the baroness, and Vaelindra's egg. See [[Hollowmere]] and [[Quest Log]].
 - **[[Durnhollow]].** The three-layer megadungeon beneath the city. The party needs an air compression device for airship repair.
-- **[[The Hollow Reliquary]].** An optional side piece of Durnhollow, in the lava lake beyond the city. Session 52.
+- **[[The Hollow Reliquary]].** An optional side piece of Durnhollow, in the lava lake beyond the city. Sessions 52 to 55.
 
 ## How It Ties to the Godhand
 > [!secret] Three Godhand in one city
@@ -60,4 +66,4 @@ The party's current arc, in the city of mists and the ruins beneath it.
 4. Resolving V's Lounge and the Temple's ritual.
 
 > [!info] DM Note
-> City threads are as of around session 38. Update with where things stand now.
+> Threads updated through Session 54.

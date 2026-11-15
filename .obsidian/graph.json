@@ -1,7 +1,7 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -13,6 +13,20 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "tag:#session  ",
+      "color": {
+        "a": 1,
+        "rgb": 16239475
+      }
+    },
+    {
+      "query": "tag:#godhand  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
     }
   ],
   "collapse-display": false,
@@ -21,10 +35,10 @@
   "nodeSizeMultiplier": 1.66513170731707,
   "lineSizeMultiplier": 1.66513170731707,
   "collapse-forces": false,
-  "centerStrength": 0.375609756097561,
-  "repelStrength": 19.8694010815223,
-  "linkStrength": 1,
-  "linkDistance": 500,
-  "scale": 0.25883865621816177,
+  "centerStrength": 0.157073170731707,
+  "repelStrength": 20,
+  "linkStrength": 0.981268292682927,
+  "linkDistance": 30,
+  "scale": 0.1316872427983528,
   "close": false
 }

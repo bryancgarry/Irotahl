@@ -36,8 +36,9 @@ The next major arc of the campaign takes place here. When the party arrives, the
 > [[The Second Sundering]] starts here. The city's politics are its cover.
 
 > [!secret] Thimble is chaos-born
-> revealed:: false
-> Thimble's father shaped him out of raw chaos using the Primordial's body (or a part of it). Thimble does not know.
+> revealed:: partial
+> Thimble's father shaped him out of raw chaos using the Primordial's body (or a part of it).
+> **Revealed so far:** Malcanthet called him "a chaos born" in front of the party (Session 21). **Still hidden:** what it means, and that his father made him.
 
 > [!info] DM Note
 > Open: how Thimble's father, the revolution, the World Games, and the Luminarch's event connect.

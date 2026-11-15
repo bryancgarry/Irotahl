@@ -19,8 +19,9 @@ Abyssal scripture speaks of it only in religious terms, as "the Mother's house o
 > The Sanctum is [[Malcanthet]]'s house of making in the Abyss, where her hollowers perfected the art of [[Hollowing and Petrification|hollowing]] and where Naki-Uthai was hollowed into [[The First Hollow Vessel]]. The Reliquary honored the Vessel. The Sanctum made him. When the Sundering broke the world, it was flung through the planes like [[The Hollow Reliquary]] and came to rest in Drak'mor.
 
 > [!secret] What happened to Wayne here
-> revealed:: false
+> revealed:: partial
 > Malcanthet reached through Wayne's Void Trial mark with a projection or vestige and began hollowing him where the first Vessel was made. His body was stilled into stone. The piercing of his mind never finished.
+> **Revealed so far:** Wayne knows the winged Godhand is the one who turned him to stone (Session 21). **Still hidden:** what this place is, and that she reached him through his trial mark.
 
 ## Seeds
 - The Hollow Reliquary's stone book names the Sanctum and shows its sigil (guaranteed).

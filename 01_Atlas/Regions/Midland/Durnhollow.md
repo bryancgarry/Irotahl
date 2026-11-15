@@ -59,11 +59,14 @@ The Soulvite Colossus fight on the top floor. A [[Lithoweaves|lithoweave]] rests
 Dwemer-inspired constructs: Dwarven Spiders, Spheres, Centurions, Ballista, and Surge Elementals. Wendigos.
 
 ## Party Objectives
-> [!info] DM Note
-> Status as of around session 38. Verify against recent sessions.
+As of Session 54. See [[Quest Log]] for the party's side.
+- Find an air compression device for Bifflefapple's airship.
+- Open the vault of four doors: the air and water shards are taken, fire and earth remain, and the party holds the bronze and silver keys. The gold key is "above the lava pits, third track."
+- Restore power on the lava floor to bring back the elevator.
 
-- Find an air compression device for airship repair.
-- Caelum au Vermillion is undergoing an irreversible transformation into a pseudo-apostle in the deepest room.
+> [!secret] Caelum in the deepest room
+> revealed:: false
+> [[Caelum au Vermillion]], likely Luna's brother, is undergoing an irreversible transformation into a pseudo-apostle in the deepest room. Not yet found.
 
 ## Nearby
 - [[The Hollow Reliquary]], in the lava lake in the spans beyond the city.
