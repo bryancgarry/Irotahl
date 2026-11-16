@@ -23,3 +23,10 @@ tags: [npc, ally]
 - In [[Session 33 - Friends and Lovers]] Dame said the knights fear rather than love her, and that Selara steers her. She told Thimble of the Temple of 1000 Candles and asked him to wait a week to heal. Her tailor from the chalet will come to the keep.
 - In [[Session 38 - Digging For Information]] she came down when the archives' alarm went off and covered for the party after Thimble's appeal. "We might have to accelerate our plans." Then: "What's a devil?"
 - In [[Session 39 - Escape From the Keep]] she has never heard of devils. She expects to lose her rank when the Chain Lords summon her, and planned to take the party down the mag lift to Durnhollow, where she has tracked an arcane signature. Next morning she was led away in handcuffs to a carriage.
+
+> [!secret] Why the Chain Lords summoned her
+> revealed:: false
+> Three reasons together:
+> - Her obsession with finding out what happened to her brother, [[Caelum au Vermillion|Caelum]].
+> - The Tome of Malcanthet going missing from the Silver Keep's archives on her watch.
+> - A turn in support among her own knights, led by [[Corvin Hale]].

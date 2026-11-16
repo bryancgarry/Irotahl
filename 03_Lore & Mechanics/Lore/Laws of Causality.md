@@ -19,5 +19,9 @@ Scholars and cultists speak of the Mandate: causality bent into predetermined gr
 > revealed:: false
 > From his chains, [[The Heart of Entropy|Tharizdun]] presses on causality and steers events in the world toward his release. The Godhand are, without knowing it, his instruments.
 
+> [!secret] Causality belongs to Time
+> revealed:: false
+> Causality is the work of [[The Time Primordial]], the living third primordial. At [[Creation]], Time turned the frozen clash of Order and Chaos into a sequence of events, and every cause and effect since runs on it.
+
 ## Connections
 - Causality carries each of the [[Embers of Sacrifice]] to a bearer whose fate fits it.

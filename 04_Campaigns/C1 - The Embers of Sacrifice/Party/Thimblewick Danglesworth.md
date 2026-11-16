@@ -21,12 +21,21 @@ tags: [pc]
 ## The Truth
 > [!secret] Chaos-born
 > revealed:: partial
-> Thimble was shaped out of raw chaos by his father, using the body of [[The Chaos Primordial]] (or a part of it).
+> Thimble was shaped out of raw chaos by his father, using the Glimmerstone fragment of [[The Chaos Primordial]]'s body.
 > **Revealed so far:** Malcanthet called him "a chaos born" in front of the party (Session 21). **Still hidden:** what it means, and that his father made him.
 
-> [!secret] What the chaos-born can do
+> [!secret] Kin of the obyriths
 > revealed:: false
-> Like the Dragonborn of *Skyrim*, who alone can consume dragon souls, Thimble will be able to **consume demon souls**, or any soul tied to [[The Chaos Primordial]]. This is lore for the [[The Glimmerstone Arc|Glimmerstone arc]].
+> The obyriths were beings of pure chaos, born from the chaos spilled when the Chaos Primordial clashed with Order at [[Creation]]. Thimble is made of the same stuff. That's why Malcanthet recognized him on sight. He is kin to the Five.
+
+> [!secret] What the chaos-born is for
+> revealed:: false
+> Thimble's cosmic role is **restoring the cosmological order and relinking the planes**. The planes crystallized out of chaos shaped at Creation, so chaos is what their pathways are made of. He already tore a hole through Graz'zt's domain with ley-line power (Session 21), and he was drawn to the rifts between planes on the Reliquary's murals (Session 53).
+> Working idea: [[The Lattice of Heaven]] failed partly because it was pure order. Reconnecting it in the finale means weaving chaos back in alongside order, and Thimble is the one who can.
+> To workshop: how the pathways were sundered in the first place (see [[The Sundering of Planes]]), and how his power grows. This is lore for the [[The Glimmerstone Arc|Glimmerstone arc]] and beyond.
+
+> [!info] DM Note
+> Retired: Thimble consuming demon souls like Skyrim's Dragonborn. That power now belongs to [[Wayne Kerr|Wayne]] as the Kyn'Ruthar.
 
 > [!secret] The gallery memory (Session 54)
 > revealed:: false

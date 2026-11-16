@@ -18,5 +18,9 @@ tags: [npc, godhand]
 > revealed:: false
 > His influence is strongest in [[Drak'mor]], where the Gor'Drak Dominion operates under his apostle [[Oughan Gor'Drak]]. The Tome of Orcus is in Drak'mor.
 
+> [!secret] His rebirth
+> revealed:: false
+> Reborn at the Fourth [[Moon Darkenings|Moon Darkening]], about 1,000 years ago. The orc tribes began uniting under [[Oughan Gor'Drak]] soon after, and [[Durnhollow]] fell not long after that. Dark times follow a Darkening.
+
 ## Played
 - In [[Session 21 - The Godhand]] he loomed at the back of Graz'zt's domain, knocked Aalyn out with a blood blast, and laughed as he threw blood bursts after the fleeing party.

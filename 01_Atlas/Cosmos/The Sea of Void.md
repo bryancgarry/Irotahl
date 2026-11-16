@@ -11,9 +11,9 @@ A living darkness that pools in the deepest places of [[The Abyss]]. It moves li
 
 It has no will of its own. It answers only to whoever holds it, and [[Malcanthet]] draws on it for her art of [[Hollowing and Petrification|hollowing]].
 
-> [!secret] It seeps from the Shard of Evil
+> [!secret] It seeps from the Shard
 > revealed:: false
-> The Sea of Void seeps from the Shard of Evil at the bottom of the Abyss, a sliver of [[The Eternal Void]] itself. No one in the world knows this. It quietly ties [[The First Hollow Vessel]] to [[The Heart of Entropy|Tharizdun]] and to Campaign 3.
+> The Sea of Void seeps from the Shard at the bottom of the Abyss, a fragment that may come from the end of Time itself ([[The Eternal Void|the Devourer]]). No one in the world knows this. It quietly ties [[The First Hollow Vessel]] to [[The Heart of Entropy|Tharizdun]] and to Campaign 3.
 
 ## Connections
 - The [[The Void Heart|Void Heart]] is a pendant filled with it.

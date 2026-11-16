@@ -19,7 +19,7 @@ Her agents work through [[The Cult of the Dark Moon]]: sleeper cells, coded symb
 
 > [!secret] Her origin
 > revealed:: false
-> Lolth was once an Archfey of [[Arborea]], twin sister to Queen Titania. Her obyrith essence awoke in her after the Sundering had ended, at the First [[Moon Darkenings|Moon Darkening]]. Her fall draws on Araushnee: betrayal of her own court and a forbidden affair with [[Fenmarel]], who was cast out into [[Limbo]] for it. Details open.
+> Lolth was once an Archfey of [[Arborea]], twin sister to Queen Titania. Her obyrith soul took flesh in her about 1,000 years after the Sundering had ended, at the First [[Moon Darkenings|Moon Darkening]], about 4,000 years ago. Her fall draws on Araushnee: betrayal of her own court and a forbidden affair with [[Fenmarel]], who was cast out into [[Limbo]] for it. Details open.
 
 > [!secret] Verenestra
 > revealed:: false

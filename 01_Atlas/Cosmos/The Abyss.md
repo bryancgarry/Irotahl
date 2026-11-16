@@ -13,11 +13,11 @@ The deep. A realm of demons whose upper reaches bleed into the world at places o
 ## What Actually Happened
 The Abyss is layered and vast, deepening over the ages. Its deeper layers are inaccessible to mortal travel by conventional means. [[The Godhand]] dwell in its depths, free within their domain but unable to hold a physical presence in the material plane except during [[Moon Darkenings]].
 
-Souls bearing an [[Abyssal Brands|Abyssal Brand]] do not pass through [[The Pale Goddess]] at death. They are delivered intact and aware to the Abyss.
+Souls bearing an [[Abyssal Brands|Abyssal Brand]] never reach their gods or afterlives at death. They are delivered intact and aware to the Abyss.
 
 > [!secret] Its origin
 > revealed:: false
-> The Abyss grew from the Shard of Evil, around [[The Heart of Entropy|Tharizdun]]. It is his, not the Godhand's.
+> The Abyss grew from the Shard, around [[The Heart of Entropy|Tharizdun]]. It is his, not the Godhand's. The obyriths are not its natives: they are beings of chaos, children of [[The Chaos Primordial]], who made it their home.
 
 ## Notable Features
 - [[The Sea of Void]] pools in its deepest places.

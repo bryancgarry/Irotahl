@@ -22,3 +22,7 @@ tags: [npc]
 - [[Session 34 - The Hunt Begins]]: took the forest path.
 - [[Session 37 - Back From The Hunt]]: "I look forward to working with you," to the baroness. "Thin ice you're walking on, gentlemen." Hexed by Aalyn, bounced off Thimble and fell flat. Selara called him the vice captain.
 - [[Session 39 - Escape From the Keep]]: with Luna arrested, he took command of the knights: "Let's go grab the hooligans."
+
+> [!secret] He turned the knights against Luna
+> revealed:: false
+> Corvin led the turn in support among the Silver Knights that helped get [[Luna au Vermillion|Luna]] summoned by the Chain Lords. He didn't just inherit command after her arrest. He worked for it.

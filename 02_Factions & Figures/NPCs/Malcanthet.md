@@ -17,6 +17,10 @@ tags: [npc, godhand]
 ## Motivation
 She wants a new Hollow Vessel, a new champion of the Abyss. She has chosen [[Wayne Kerr]].
 
+> [!secret] Her rebirth
+> revealed:: false
+> Reborn at the Third [[Moon Darkenings|Moon Darkening]], about 2,000 years ago. By the time [[Vashara]] opened the Reliquary about 1,000 years ago, she had long been back.
+
 > [!secret] Hollowing is her art
 > revealed:: false
 > Perfected in [[The Soul Sanctum]], with [[The Sea of Void]] as her medium. See [[Hollowing and Petrification]].

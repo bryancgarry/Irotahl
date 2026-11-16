@@ -17,6 +17,14 @@ Nothing. The Lattice is entirely forgotten.
 >
 > The Lattice reached the world through nodes, the machines now called [[Lithoweaves]]. Each node drew chaos out of the world and turned it into stillness, sending it along the Lattice's strands to the order planes.
 
+> [!secret] Gathering Order (working idea)
+> revealed:: false
+> [[The Order Primordial]] was shattered and scattered at [[Creation]]. The lawful planes may have woven the Lattice partly to gather it back together, which would explain why the lithoweaves draw chaos out of the world. Campaign 2 material.
+
+> [!secret] Why it failed (working idea)
+> revealed:: false
+> The Lattice was pure order. It stilled and drained chaos, and that brittleness is part of why Tharizdun could shatter it. Reconnecting it in the finale means weaving chaos back in alongside order, which is where [[Thimblewick Danglesworth|Thimble]] comes in.
+
 ## Connections
 - Shattered in [[The Shattering of Spheres]].
 - Its remnants chain [[The Heart of Entropy|Tharizdun]].

@@ -15,11 +15,11 @@ Scholars, cultists, and the oldest scriptures speak of a vast presence at the ab
 
 > [!secret] The Heart is Tharizdun, in chains
 > revealed:: false
-> A sliver of [[The Eternal Void]], the Shard of Evil, corrupted Tharizdun into chaos incarnate, and the Abyss grew around him. During [[The Shattering of Spheres]] he broke [[The Lattice of Heaven]]. Heaven and Hell could not destroy him, only still him, so they chained him at the bottom of the Abyss with the Lattice's remnants. The surviving [[Lithoweaves]] are the stakes that hold the chains.
+> The Shard, a fragment that fell from beyond all things (possibly from the end of Time, [[The Eternal Void|the Devourer]]), corrupted Tharizdun into chaos incarnate, and the Abyss grew around him. During [[The Shattering of Spheres]] he broke [[The Lattice of Heaven]]. Heaven and Hell could not destroy him, only still him, so they chained him at the bottom of the Abyss with the Lattice's remnants. The surviving [[Lithoweaves]] are the stakes that hold the chains.
 
 > [!secret] Tharizdun is the Mandate
 > revealed:: false
-> From his chains, Tharizdun presses on causality and steers events toward his release. The Godhand believe the Mandate is impersonal and that they are its instruments by right. They are, without knowing it, his instruments. Reveal this near the end of the campaign, not mid-campaign.
+> From his chains, Tharizdun presses on causality and steers events toward his release. Causality is the domain of [[The Time Primordial]], so the Mandate is Tharizdun leaning on a living primordial's power. The Godhand believe the Mandate is impersonal and that they are its instruments by right. They are, without knowing it, his instruments. Reveal this near the end of the campaign, not mid-campaign.
 
 > [!secret] Abyssal scripture on the Shard
 > revealed:: false

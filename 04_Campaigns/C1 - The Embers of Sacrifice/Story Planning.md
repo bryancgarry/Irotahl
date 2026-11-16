@@ -19,7 +19,7 @@ tags: [planning]
 Whatever order the areas come in, each one should move at least one of these forward.
 
 - **The Second Sundering.** All five of [[The Godhand]] are reborn, and the Abyss is uniting to finish the invasion. Every area should show a piece of that: a front organization, an apostle, a lithoweave waking, a place where the Abyss bleeds through. See [[The Second Sundering]].
-- **The brands.** Every branded PC finds a personal way to break their [[Abyssal Brands|Abyssal Brand]] and its soul contract. Bogtrotter being unbranded is its own mystery. Each area should give at least one PC a real step on that road.
+- **The brands.** Every branded PC finds a personal way to break their [[Abyssal Brands|Abyssal Brand]] and its soul contract. Bogtrotter dodged his with three natural 20s. Each area should give at least one PC a real step on that road.
 - **The lithoweaves.** Every [[Lithoweaves|lithoweave]] that runs feeds [[The Heart of Entropy|Tharizdun]]. Each one the party finds or stops is a quiet piece of the finale, where the [[The Lattice of Heaven|Lattice]]'s strands get reconnected.
 - **The hidden top of the hierarchy.** The Godhand believe they serve an impersonal Mandate. They serve Tharizdun. Hold the reveal for near the end. Until then, use only what Abyssal scripture already says (the "pale seed," "the one who caught it became the Deep").
 - **Fixed endpoint.** Some or all of the Godhand fall, the Lattice is reconnected, and the party confronts Tharizdun, opening the way for the lawful planes in Campaign 2.
@@ -43,14 +43,14 @@ The Godhand are the main antagonists, but other powers can show up more as the s
 | [[Orcus]] | Dominion over death. | The Gor'Drak Dominion, the Bloodlancers on the Eastern Shores | Wayne's homeland |
 | [[Graz'zt]] | Ambition. To be more than a goblin under a bridge. | Oakhollow, Malrik, anywhere politics rot | Everyone who saw him rise |
 | [[The Heart of Entropy\|Tharizdun]] | Release. Presses on causality from his chains. | Every running lithoweave | Hidden until the end |
-| [[The Pale Goddess]] (Sehanine) | Souls that reach her. | The Holy Chain Knights, Lunstar | Every branded soul is one stolen from her |
+| [[The Pale Goddess]] (Sehanine) | Souls that reach her. One of several moon deities, and a member of the elven pantheon. | The Holy Chain Knights, Lunstar | Every branded soul is one that never reaches its god |
 | Titania and [[Arborea]] | Verenestra back. An old score with her twin. | Fey crossings, Syfaeril | Aalyn |
 | [[Fenmarel]] and [[Limbo]] | Open. An outcast never forgiven. | The Fenwyn vault, the Deck, the wolves | Alaric |
 | Annam, [[Memnor]], [[Ysgard]] | Memnor's betrayal stays buried. Annam's lost son. | Drak'mor, the floating mountain fragments, Nythkael | Wayne |
 | [[Elemental Plane of Fire]] | The Reliquary gone. | [[The Fire Sages of Vistro]] | Wayne, Thimble |
 
 > [!tip] Idea: the Pale Goddess as an ally of the brand-breakers
-> Branded souls bypass her at death, so every brand is a soul taken from her. She's the one power in the world with a reason to want brands broken. Her favor (through a shrine, a dream, or the Chain Knights) could be one route for a PC's brand, without her ever being a solved answer.
+> Branded souls never reach her at death, so every branded elf is a soul taken from her. She has a reason to want brands broken. Her favor (through a shrine, a dream, or the Chain Knights) could be one route for a PC's brand, without her ever being a solved answer.
 
 > [!tip] Idea: Jack came from beyond the severed planes
 > Jack is "from another world" in a world cut off from the lawful planes. If he crossed from one of them, he's a living hint at Campaign 2 walking around in Campaign 1. Keep it buried, but it explains why he's hunting the Godhand.
@@ -89,10 +89,7 @@ Each area has: **Premise**, **Getting There**, **Leads Onward**, **Story Ties**,
 - **Idea: the missing patrons are among the wendigos.** The four missing patrons were the raw material. Bastian Dray, in the cold room, was next in line. That makes the wendigo fights personal and quiet.
 - **The Temple ritual shows the Abyss uniting.** A Baphomet temple running its ritual on Lolth's Spool is the first sign that the Godhand are cooperating. The Spool's thread shows only in moonlight, so the five anchors fire on a bright night.
 - **Idea: the Temple's healing is real.** People really are cured there, and the city loves it. Shutting it down costs Hollowmere something, which keeps the tone tragic.
-- **Why the Chain Lords took Luna.** Established: she let the party into the archives' restricted section, and Talia heard that "the powers that be wanted her out." Options for what's really behind it, to choose from or blend:
-  - **(a) Guilt by blood.** Her brother, the Imperator before her, is likely [[Caelum au Vermillion|Caelum]], changing into a pseudo-apostle in Durnhollow's deepest room. The arcane signature she tracked is him. The Chain Lords treat her as compromised.
-  - **(b) The lost Tome.** The Silver branch once held the Tome of Malcanthet, and Thimble freed it from their archives. Luna answers for the loss, and the party is why the Chain Lords are looking.
-  - **(c) Selara's hand.** Selara steers Luna, and wanted her out of the way before "all will be revealed in time."
+- **Why the Chain Lords took Luna** *(decided)*. Three reasons together: her obsession with what happened to her brother [[Caelum au Vermillion|Caelum]], the Tome of Malcanthet going missing from the Silver Keep on her watch, and a turn in support among her own knights led by [[Corvin Hale]]. Caelum is Vashara's pseudo-vessel in Durnhollow's deepest room: in practice a buffed-up wendigo with a huge greatsword in one hand.
 - **The airship.** If the compression mechanism comes out cracked, Bifflefapple needs one more rare part. That part can point at whichever area you want next (Aetherstone, a Hellhammer smith, a Runestone component).
 
 **Open Questions.** How Luna's detainment looks now. Whether Atul survives. Whether Vashara dies, flees, or finds some kind of peace.
@@ -114,7 +111,7 @@ Each area has: **Premise**, **Getting There**, **Leads Onward**, **Story Ties**,
 
 **Leads Onward**
 - [[The Second Sundering]] begins here, so this city can be where the war stops being a rumor.
-- Thimble learns what he is and what he can do (consume demon souls).
+- Thimble learns what he is: kin to the obyriths, and the one who can relink the planes.
 - The eladrin's oldest blades were cut from [[Aetherstone]], which points at [[Arborea]] and the old fey.
 - **Idea:** the World Games bring delegations from every continent. Use them to introduce NPCs for any future area: Goliaths of Drak'mor, Vyrmor dragonborn, Calenthian elves, even Gor'Drak orcs.
 
@@ -214,11 +211,7 @@ Each area has: **Premise**, **Getting There**, **Leads Onward**, **Story Ties**,
 **Story Ties.** Baphomet, Godhand of the labyrinth and the beast, fits jungle ruins. Fenmarel's outcasts may have saved the dragons in the Sundering.
 
 **Foundation Ideas**
-- **Why Bog is unbranded.** Options:
-  - **(a)** His soul was already pledged elsewhere, to a dragon or a Dragonlord's oath, so the Ember had nothing to take.
-  - **(b)** Causality spared him on purpose. He's the one soul the Abyss can't weigh, which makes him the party's anchor.
-  - **(c)** Dragon blood resists the Abyss, a gift from the dragons who fought the Sundering. His silver heritage, and the bronze dragon he saw in the Godspire's obelisk, could both point here.
-  - **(d)** Someone *made* him, as Baphomet suspects, and whatever he was made from can't be claimed.
+- **Why Bog is unbranded** *(decided)*. No hidden cause: he rolled three natural 20s in a row to resist the brand at the ritual. His silver heritage and Baphomet's interest are still open hooks.
 - **Idea: the vanished civilization tended the Lattice.** Its ruins hold the best surviving records of what lithoweaves really are.
 - **Tiberius as the road not taken.** A branded survivor already hunting the Godhand alone, showing the party what they could become.
 
@@ -294,7 +287,7 @@ Each area has: **Premise**, **Getting There**, **Leads Onward**, **Story Ties**,
 
 **Getting There**
 - Luna's arrest, and Corvin Hale's hunt for the party.
-- Luna's brother, likely Caelum.
+- Luna's brother, Caelum, Vashara's pseudo-vessel.
 - [[Dame]], the one friendly knight left.
 - How the Silver branch came to hold the Tome of Malcanthet.
 
@@ -336,11 +329,11 @@ Where each PC's story has the most to gain.
 
 | PC | Main threads | Areas that serve them |
 | --- | --- | --- |
-| [[Wayne Kerr\|Wayne]] | The stone, Hollow Vessel or Kyn'Ruthar, the Soul Armor, Jack | Drak'mor, Syfaeril (Silath Shal), Ysgard, Hollowmere (Vashara as mirror) |
+| [[Wayne Kerr\|Wayne]] | The stone, Hollow Vessel or Kyn'Ruthar, consuming demon souls, the Soul Armor, Jack | Drak'mor, Syfaeril (Silath Shal), Ysgard, Hollowmere (Vashara as mirror) |
 | [[Aalyn Ravaceran\|Aalyn]] | Sumina and Lolth, the thread, his mother | Syfaeril, Arborea, Oakhollow, Hollowmere (the Spool, the Cult) |
 | [[Alaric Fenwyn\|Alaric]] | Fenril, the Fenwyn origin, Vaelindra, the wolves | Syfaeril, Limbo, Vyrmor, Glimmerstone (the mountain of every color) |
-| [[Thimblewick Danglesworth\|Thimble]] | His father, being chaos-born, the Tome, "Little spark" | Glimmerstone, anywhere Malcanthet reaches |
-| [[Bogtrotter]] | Why he's unbranded, his silver heritage, Vashara's compulsion | Vyrmor, Hollowmere, Glimmerstone (the World Games) |
+| [[Thimblewick Danglesworth\|Thimble]] | His father, being chaos-born (kin to the obyriths), relinking the planes, the Tome, "Little spark" | Glimmerstone, anywhere Malcanthet reaches |
+| [[Bogtrotter]] | His silver heritage, Baphomet's interest, Vashara's compulsion | Vyrmor, Hollowmere, Glimmerstone (the World Games) |
 
 > [!info] DM Note
 > Bogtrotter's backstory is still blank, but the table has handed him plenty: the silver heritage, Baphomet's interest, Vashara's compulsion, and his chaos charge. It's worth a short talk with Gabe before building much around him.

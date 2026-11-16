@@ -11,7 +11,9 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] [[The Soul Sanctum]]: Wayne's next destination after the Reliquary. Its interior, what remains inside, and whether its hollowers still labor there.
 
 ## Cosmology and History
-- [ ] Which Godhand rose at the Second, Third, and Fourth [[Moon Darkenings]], and when the first three happened.
+- [x] Which Godhand rose at the Second, Third, and Fourth [[Moon Darkenings]]: Baphomet, Malcanthet, Orcus, about 1,000 years apart.
+- [ ] How the pathways between the planes were sundered at the end of [[The Sundering of Planes]]. More complicated than one side doing it; needs its own discussion.
+- [ ] Where [[The Time Primordial]] is, and how it relates to the Devourer.
 - [ ] Where the real helm of the Hollow Vessel is. The Remnant wore a calcified copy (Session 54).
 - [ ] Where the Godspire went when it vanished. See [[Lithoweaves]].
 - [ ] The details of [[Lolth]]'s fall.
@@ -20,7 +22,7 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] Where and how the party learns of Memnor's betrayal.
 
 ## Party
-- [ ] Why Bogtrotter is unbranded, and whether that matters later.
+- [x] Why Bogtrotter is unbranded: three natural 20s in a row at the ritual.
 - [ ] Each branded party member's personal way to break their [[Abyssal Brands|Abyssal Brand]]. Wayne's is [[The Soul Armor]].
 - [x] Where the Soul Armor is. Two halves, like the Kingsoul: the first at the bottom of [[The Rikk Borgar]], the second found by walking the Tyrn'Haka.
 - [ ] Whether Wayne carried the first half of the Soul Armor out of the Rikk Borgar, and where the Tyrn'Haka ends.
@@ -34,7 +36,8 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] Where the other [[The Void Heart|Void Heart]] fragments are, and what each adds.
 - [ ] The scene at the bottom of [[The Rikk Borgar]].
 - [ ] The Glimmerstone arc: Thimble as chaos-born, his father's role, and how the city's politics, the World Games, and the Luminarch's event connect.
-- [ ] How and when Thimble learns he can consume demon souls (souls tied to the Chaos Primordial), like Skyrim's Dragonborn.
+- [ ] How and when Wayne first consumes a demon soul as the Kyn'Ruthar, and what it grants.
+- [ ] Thimble's role relinking the planes: how his power grows and how it ties to the Lattice.
 
 ## Early Sessions (backfill)
 - [ ] The Bridge King's riddle answers (Session 3). Never said on the recording.
@@ -228,11 +231,19 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 
 ## Later Campaigns
 - [ ] The Shattering's details and Tharizdun's pre-Shard identity (Campaign 2).
-- [ ] The Eternal Void (Campaign 3).
+- [ ] The Devourer, the end of Time (Campaign 3). See [[The Eternal Void]].
+- [ ] What happened to the Order Primordial (Campaign 2).
 
 ## Retired Ideas
 For reference, so they don't creep back in:
 - The Obsidian Dragon Primordial.
+- The Eternal Void as a separate entity older than creation (folded into Time as the Devourer).
+- The moon as the Order Primordial's body (it's the Chaos Primordial's soul).
+- Embers as splinters of the Shard (they're calcified chaos-souls).
+- The obyriths as void-tainted chaos (they're simply beings of chaos).
+- The Hollow Vessel cutting the planar pathways.
+- Thimble consuming demon souls (now Wayne's power).
+- Bog unbranded for a hidden cosmic reason (it was three natural 20s).
 - The Heart of Entropy as the Order Primordial's dead core and a blind engine of suffering, or as a forge.
 - The Lithoweave as a natural leyline network.
 - The Godhand as purely ascended mortals.

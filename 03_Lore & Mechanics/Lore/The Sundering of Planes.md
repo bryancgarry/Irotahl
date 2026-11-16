@@ -16,9 +16,14 @@ With the lawful planes gone and [[The Heart of Entropy|Tharizdun]] chained, the 
 
 **Ysgard and its giants were the heart of the war.** Its giants held the line against the Five. Beside them fought Arborea and its eladrin, the Beastlands, and the mortal peoples of the world.
 
-**The end.** The final battle was fought at the site that is now [[Glimmerstone]]. The giants, the eladrin, and the mortal peoples prevailed in defending the material plane, at terrible cost.
+**The end.** About 5,000 years ago, the final battle was fought at the site that is now [[Glimmerstone]]. The giants, the eladrin, and the mortal peoples prevailed in defending the material plane, at terrible cost.
+
+**Who the obyriths were.** Beings of chaos, children of [[The Chaos Primordial]] born from the raw chaos spilled at [[Creation]]. The last battle being fought on the Glimmerstone fragment of the Primordial's body may not be coincidence: the Five were drawn back to the chaos they came from.
 
 **The aftermath.** The Sundering tore the chaotic planes and the material plane from their places in the cosmos, cutting them off from one another and from the Astral Sea. Fragments of the Abyss raised in other places were flung through space and time into the world, among them [[The Hollow Reliquary]] and [[The Soul Sanctum]].
+
+> [!info] DM Note: how the pathways were torn
+> Open, and to be worked out in its own discussion. It should be more complicated than one side doing it. The Hollow Vessel was a warrior in the war, not the one who cut the pathways. Thimble's interest in the rifts shown on the Reliquary's murals (Session 53) is a thread to expand.
 
 > [!secret] The First Hollow Vessel
 > revealed:: false
@@ -26,7 +31,7 @@ With the lawful planes gone and [[The Heart of Entropy|Tharizdun]] chained, the 
 
 > [!secret] The obyriths became the Godhand
 > revealed:: false
-> Facing defeat, the five greatest obyriths sealed their essences into the most powerful [[Embers of Sacrifice]] as a failsafe. They have since been reborn as [[The Godhand]].
+> Facing defeat, the five greatest obyriths sealed their souls into the most powerful [[Embers of Sacrifice]] as a failsafe. They have since been reborn as [[The Godhand]].
 
 > [!secret] Fenmarel's outcasts
 > revealed:: false

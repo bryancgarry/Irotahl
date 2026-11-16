@@ -16,7 +16,7 @@ The oldest catastrophe in memory. Scholars agree something broke the structure o
 
 > [!secret] Tharizdun broke the Lattice
 > revealed:: false
-> [[The Heart of Entropy|Tharizdun]], corrupted by the Shard of Evil, shattered [[The Lattice of Heaven]] and cracked the cosmological structure of the world. Heaven and Hell, at great cost, chained him at the bottom of [[The Abyss]]. Chaos incarnate cannot be destroyed, only stilled, so they bound him with the Lattice's remnants.
+> [[The Heart of Entropy|Tharizdun]], corrupted by the Shard, shattered [[The Lattice of Heaven]] and cracked the cosmological structure of the world. Heaven and Hell, at great cost, chained him at the bottom of [[The Abyss]]. Chaos incarnate cannot be destroyed, only stilled, so they bound him with the Lattice's remnants.
 
 > [!secret] The cosmos split along order and chaos
 > revealed:: false

@@ -21,8 +21,9 @@ tags: [pc]
 ## Abyssal Brand
 Bogtrotter is the only member of the party **not** branded. The Reliquary's brand reactions (warm, cold, burning) don't apply to him.
 
-> [!info] DM Note
-> Open: why he was spared, and whether being unbranded matters later (for example, whether the Abyss can claim him at all, or whether that makes him the party's anchor).
+> [!secret] Why he's unbranded
+> revealed:: false
+> No hidden cause. He was at the ritual with everyone else, and **rolled three natural 20s in a row** to resist the brand. If it ever needs an in-world framing, causality simply couldn't take hold of him that night.
 
 ## Personal Quest Hooks
 *Gathered from the table. His backstory is still blank, so check with Gabe before building on these.*
@@ -37,7 +38,7 @@ Bogtrotter is the only member of the party **not** branded. The Reliquary's bran
 - **The bone naga's fluid** he drank in Session 20. Effect unknown.
 
 > [!info] DM Note
-> Options for why he's unbranded are in [[Story Planning]] (the Vyrmor section).
+> Why he's unbranded is settled: three natural 20s at the ritual. The other hooks above are still open.
 
 ## Notable Items
 - **Ring of Jumping.** Casts *jump*.

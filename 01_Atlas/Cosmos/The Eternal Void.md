@@ -1,21 +1,21 @@
 ---
 type: lore
-category: primordial
-aliases: [Eternal Void]
+category: entity
+aliases: [Eternal Void, The Devourer, The End of Time]
 campaigns: [C3]
 tags: [lore, cosmos]
 ---
-# The Eternal Void
+# The Devourer
 
 > [!info] DM Note
-> The antagonist of Campaign 3. In Campaign 1 it should stay almost entirely unknown. Keep it out of all player-facing text.
+> The antagonist of Campaign 3. Keep it out of all player-facing text in Campaign 1. This note used to describe the Eternal Void as an entity older than creation. That version is retired: the end-of-all-things role is now tied to [[The Time Primordial|Time]]. The old name "Eternal Void" can survive as one of its names.
 
 ## What It Is
-An entity older than creation, dwelling in the Aether before the world existed. Its only purpose was to keep the Aether unformed. When the [[The Order Primordial|Order]] and [[The Chaos Primordial|Chaos]] Primordials collided and made [[Creation|Irotahl]], the Void saw reality as an error to be corrected.
+The end of Time. When an age runs out, the Devourer eats the world. It is bound up with [[The Time Primordial]] (an aspect, a firstborn, or simply what Time becomes at its end; undecided), the way Alduin is bound to Akatosh in *The Elder Scrolls*.
 
-## The Sealing
-The two Primordials, already dying from the effort of creation, performed the only act of cooperation they ever shared. They sealed the Void back into the deep Aether, and both were extinguished doing it.
-
-> [!secret] The seal leaked
+> [!secret] The Shard
 > revealed:: false
-> The sealing was not perfect. A sliver of the Void, the Shard of Evil, slipped into the world and corrupted [[The Heart of Entropy|Tharizdun]]. [[Embers of Sacrifice]] are splinters of that Shard, and [[The Sea of Void]] seeps from it. All three quietly tie Campaign 1 to Campaign 3.
+> The Shard that corrupted [[The Heart of Entropy|Tharizdun]] may be a fragment of the Devourer, a piece of the end of Time that fell into the world early. Keep this ambiguous. [[The Sea of Void]] seeps from that Shard.
+
+## Connections
+- [[The Time Primordial]], [[The Heart of Entropy]], [[The Sea of Void]]

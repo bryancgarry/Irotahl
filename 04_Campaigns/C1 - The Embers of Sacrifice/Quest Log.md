@@ -183,7 +183,7 @@ Known to the party, but not being chased right now.
 > revealed:: false
 > Threads the party doesn't know about yet, to surface when the time is right:
 > - **Vaelindra** is coming for her egg. Watch the cold over Hollowmere.
-> - **Caelum au Vermillion**, likely Luna's brother, is changing in Durnhollow's deepest room.
+> - **Caelum au Vermillion**, Luna's brother, is Vashara's pseudo-vessel in Durnhollow's deepest room.
 > - **The Cult of the Dark Moon**, Lolth's sleeper cells, hasn't surfaced at the table yet.
 > - **Lolth's answer** to Aalyn reaching for Sumina. The thread is her lever.
 > - **Malcanthet's tether** through Wayne's mark and the Shell.

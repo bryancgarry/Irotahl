@@ -11,11 +11,14 @@ tags: [lore, cosmos]
 In myth, one of two great powers that made the world and died making it. No one knows where its body lies.
 
 ## What Actually Happened
-Its collision with [[The Chaos Primordial]] ignited [[Creation|Irotahl]] into being. Together they sealed [[The Eternal Void]] away and were extinguished.
+Its clash with [[The Chaos Primordial]] ignited [[Creation|Irotahl]] into being. Struck by the power of chaos, it suffered the mirror of Chaos's fate: where Chaos froze, Order came apart.
 
-> [!secret] The moon is its body
+> [!secret] Shattered and scattered
 > revealed:: false
-> The Order Primordial's body is [[The Moon]]. Its light is order, and it holds the barrier between [[The Abyss]] and the material plane a little firmer every night it shines. [[The Pale Goddess]] is not connected to it.
+> Order was shattered and its pieces scattered. Where they went is a Campaign 2 discovery. One working idea: the lawful planes wove [[The Lattice of Heaven]] partly to gather Order back together, which is why the [[Lithoweaves]] draw chaos out of the world.
+
+> [!info] DM Note
+> Retired: the moon as Order's body. The moon is now the Chaos Primordial's soul.
 
 ## Connections
-- The lawful planes that wove [[The Lattice of Heaven]] carried its order forward.
+- The lawful planes that wove [[The Lattice of Heaven]] carried its order forward. See [[The Lost Heavens]].

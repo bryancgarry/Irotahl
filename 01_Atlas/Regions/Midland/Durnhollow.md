@@ -66,7 +66,7 @@ As of Session 54. See [[Quest Log]] for the party's side.
 
 > [!secret] Caelum in the deepest room
 > revealed:: false
-> [[Caelum au Vermillion]], likely Luna's brother, is undergoing an irreversible transformation into a pseudo-apostle in the deepest room. Not yet found.
+> [[Caelum au Vermillion]], Luna's brother, is Vashara's experiment in the deepest room: a pseudo-vessel, in practice a buffed-up wendigo with a huge greatsword in one hand. Not yet found.
 
 ## Nearby
 - [[The Hollow Reliquary]], in the lava lake in the spans beyond the city.

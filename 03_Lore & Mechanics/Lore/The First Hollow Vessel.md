@@ -31,6 +31,11 @@ Among the Goliaths, Kyn'Ruthar is also the title earned by those who survive the
 > revealed:: false
 > The giant souls inside him remembered his name, the one Malcanthet had taken. Enough of his own people in him, and he came back to himself. He turned on his makers and drained the obyriths in turn. His betrayal was central to the obyriths' collapse.
 
+> [!secret] Why consuming souls turned him, and won't turn Wayne
+> revealed:: false
+> The Vessel was **hollow**. His own soul had been darkened and emptied, so the giant souls he drank had a place to stay. They filled him, and because they were his kin, they remembered him, outweighed Malcanthet's leash, and turned him. Becoming someone else wasn't a side effect of consuming. It was the giants' doing.
+> [[Wayne Kerr|Wayne]] is not hollow. His soul is whole, anchored by the Kyn'Ruthar spark. When he consumes a demon soul he burns it like fuel. Nothing moves in, and demon souls have no kinship to him, so there is nothing to remember. The power is clean.
+
 > [!secret] His true name at the table
 > revealed:: false
 > Reveal the name Naki-Uthai only if Wayne rolls a natural 20 on a very specific check or does something incredible. Otherwise, save it for later.

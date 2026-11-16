@@ -17,7 +17,7 @@ Abyssal scripture puts it as a promise: *the offered are marked, and the mark is
 
 > [!secret] What the brand does
 > revealed:: false
-> A branded soul is claimed for [[The Abyss]]. At death it bypasses [[The Pale Goddess]] and is delivered intact and aware to the claiming power.
+> A branded soul is claimed for [[The Abyss]]. At death it never reaches whatever afterlife or god it would have gone to, and is delivered intact and aware to the claiming power.
 
 ## The Party's Brands
 In Sessions 1 and 2, at Rosalie's wedding in [[Oakhollow]], Baron Fern invoked an Ember to save his injured daughter and offered up the party. He was not the Ember's match, so his bargain only half held: his daughter was held in a temporary stasis rather than healed. She has since died. Aalyn, Alaric, Thimble, and Wayne were branded. [[Bogtrotter]] is the only member of the party without a brand.

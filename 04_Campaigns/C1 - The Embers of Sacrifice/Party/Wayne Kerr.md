@@ -113,6 +113,12 @@ tags: [pc]
 > The Hollow Vessel was **Naki-Uthai**, a son of Annam All-Father, given to Malcanthet by his brother [[Memnor]]. Annam struck his name from the Ordning. The Goliaths still honor him as the Brave Climber, god of the Endless Climb, with no idea he was real. Hollowed in the Soul Sanctum with his mother Othea's corrupted pendant as a leash, he was sent against [[Ysgard]] and drank his own kin's souls, until the souls inside him remembered his name and he turned on his makers.
 > **Kyn'Ruthar**, "void walker," is what his victims called him, and the name that survived in Goliath stories. **The Hollow Vessel** is the name only the Abyss uses. Wayne's own people's god of the Endless Climb is the Hollow Vessel.
 
+> [!secret] The Kyn'Ruthar consumes demon souls
+> revealed:: false
+> The Hollow Vessel drank the souls of giants and grew stronger. As the Kyn'Ruthar, Wayne will be able to **consume demon souls** the same way, like the Dragonborn of *Skyrim* consuming dragon souls.
+> **It's a clean power.** The Vessel turned because he was hollow: his own soul had been emptied, so the giant souls he drank stayed in him, and as his kin they remembered him and turned him. Wayne's soul is whole, anchored by the Kyn'Ruthar spark. He burns what he consumes like fuel. Nothing moves in, and demon souls have no kinship to him. See [[The First Hollow Vessel]].
+> Open: how and when he first does it, and what it grants.
+
 > [!secret] Jack
 > revealed:: false
 > Jack is from another world. He's a very powerful figure on a quest to defeat [[The Godhand]], and he is looking for a way home. Wayne knows Jack came from somewhere else, but not the rest.
@@ -120,7 +126,7 @@ tags: [pc]
 
 > [!secret] What the brand really does
 > revealed:: false
-> At death, a branded soul bypasses [[The Pale Goddess]] and is delivered intact and aware to the Abyss. Wayne doesn't know this yet.
+> At death, a branded soul never reaches its gods or afterlife, and is delivered intact and aware to the Abyss. Wayne doesn't know this yet.
 
 > [!secret] He said yes
 > revealed:: false
