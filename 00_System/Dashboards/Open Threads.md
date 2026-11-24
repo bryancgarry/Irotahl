@@ -29,7 +29,9 @@ Undecided lore and loose ends. Check items off as they get settled, and move the
 - [ ] **Feat of the Hollow Vessel** for Wayne: an ability befitting the Vessel and the Void Heart, like Shade Step. Design in a separate chat.
 - [ ] **Void-touched feat** for Wayne and Thimble: a small permanent buff and a small permanent drawback.
 - [ ] Whether Wayne's resistance to the Stilling (Session 54) becomes a trait, and what his ebony stone means.
-- [ ] Which item the Shell of the Void Heart displaces from Wayne's full attunement.
+- [x] Which item the Shell displaces: none. If Wayne accepts, it's implanted and uses no attunement slot.
+- [ ] Wayne's answer to Malcanthet in Session 55, and the [[Become the Hollow Vessel]] questline's Glimmerstone objectives (plan with the Glimmerstone arc).
+- [ ] Thimble and Malcanthet's invitation ("come and find me"): his own temptation in the Glimmerstone arc.
 - [ ] Aalyn's gold cloak: does Sumina's protection last beyond the Reliquary?
 - [ ] The Kindred Flame: what the 50 gp offering is, and what the fused Nerevath and Vistro summon becomes.
 - [ ] Hit points on level-up: maybe max HP on alternating levels. Decide at a table pow-wow.

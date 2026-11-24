@@ -192,6 +192,7 @@ Branded at [[Oakhollow]] along with everyone in the party except [[Bogtrotter]].
 > Long-term plans for Wayne: gear, abilities, companions, and story beats. Nothing here has happened yet.
 
 ### Story Arcs and Beats
+- **[[Become the Hollow Vessel]].** Malcanthet's questline, offered in Session 55: take the Shell into his chest, then be the stitch that holds the Glimmerstone gateway open for the Second Sundering. Mind, soul, and brand come after.
 - **Session 55: the kickoff of his true journey.** Malcanthet's dialogue sets him on the road to becoming another fully realized Hollow Vessel, now that he holds the Shell. In the same scene he learns he is the **Kyn'Ruthar**, through the full memory of the bottom of his Void Trial, where he found the first half of the Soul Armor. Vistro reacts to the Shell.
 - **Return to the Soul Sanctum**, now knowing what it is.
 - **The other Void Heart fragments.** Each one stronger, each one tightening the leash.

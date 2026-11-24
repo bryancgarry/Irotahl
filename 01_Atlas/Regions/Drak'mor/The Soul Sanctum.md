@@ -25,7 +25,7 @@ Abyssal scripture speaks of it only in religious terms, as "the Mother's house o
 
 ## Seeds
 - The Hollow Reliquary's stone book names the Sanctum and shows its sigil (guaranteed).
-- Malcanthet sends Wayne here from the Reliquary's Seat.
+- Malcanthet sends Wayne here eventually, as Stage 3 of [[Become the Hollow Vessel]] (after Glimmerstone).
 
 > [!info] DM Note
-> Wayne's next destination after the Reliquary. Open: its interior, what remains inside, and whether its hollowers still labor there.
+> Stage 3 of Wayne's questline, after Glimmerstone. Open: its interior, what remains inside, and whether its hollowers still labor there.

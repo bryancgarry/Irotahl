@@ -23,7 +23,7 @@ With the lawful planes gone and [[The Heart of Entropy|Tharizdun]] chained, the 
 **The aftermath.** The Sundering tore the chaotic planes and the material plane from their places in the cosmos, cutting them off from one another and from the Astral Sea. Fragments of the Abyss raised in other places were flung through space and time into the world, among them [[The Hollow Reliquary]] and [[The Soul Sanctum]].
 
 > [!info] DM Note: how the pathways were torn
-> Open, and to be worked out in its own discussion. It should be more complicated than one side doing it. The Hollow Vessel was a warrior in the war, not the one who cut the pathways. Thimble's interest in the rifts shown on the Reliquary's murals (Session 53) is a thread to expand.
+> Open, and to be worked out in its own discussion. It should be more complicated than one side doing it. The Hollow Vessel was a warrior in the war, not the one who cut the pathways. Thimble's interest in the rifts shown on the Reliquary's murals (Session 53) is a thread to expand. **One piece is settled:** [[Ysgard]] tore away from the material plane at the battlefield that is now the bottom of [[The Rikk Borgar]], during the same battle where the Hollow Vessel turned (shown in Session 55).
 
 > [!secret] The First Hollow Vessel
 > revealed:: false

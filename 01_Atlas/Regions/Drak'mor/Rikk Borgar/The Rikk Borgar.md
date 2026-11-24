@@ -28,5 +28,10 @@ The Goliaths' most sacred rite. Only warriors chosen by the Volkarr attempt it: 
 > revealed:: false
 > The first half of [[The Soul Armor]] lies at the bottom. Wayne found it during his trial. The full memory of the bottom comes back to him in [[Session 55]], and with it the knowledge that he is the Kyn'Ruthar.
 
+> [!secret] The bottom is a battlefield
+> revealed:: false
+> The bottom of the Rikk Borgar is a battlefield of [[The Sundering of Planes]]: grey earth, giant shields and bones, and above it a torn sky. **[[Ysgard]] broke away from the material plane here**, and the floating mountain pieces that ring the Rikk Borgar are its torn edges. **It is also where [[The First Hollow Vessel]] turned.** A stone remnant of him still stands mid-turn in the middle of the field, blade half-raised against his own kin and half-swung toward five shadows burned into the ground, the first half of [[The Soul Armor]] clutched in his other hand.
+> When young Wayne reached the bottom, Malcanthet's voice offered him her stone and he took it, and at the same moment the remnant's eyes found him and a spark went into him. He came out carrying both. That's what a Kyn'Ruthar really is: a vessel that chose.
+
 > [!info] DM Note
-> The scene at the bottom is played as a memory in Session 55. It should be a mind-blowing reveal for Wayne. Optional: the floating mountain pieces could be fragments of [[Ysgard]] that fell when the world broke.
+> Played as a memory in [[Session 55]], shown to Wayne by Malcanthet herself as part of her pitch. She isn't hiding the choice; she's sure he'll choose her. Ysgard tearing away here is one piece of the open question of how the planes were sundered, not the whole answer.
