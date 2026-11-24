@@ -15,7 +15,7 @@ tags:
 
 > [!info] DM Note
 > Picks up the instant Session 54 ended. Wayne is holding the Shell, the Reliquary has lost its anchor, and Malcanthet is at his shoulder. **This session is the kickoff of Wayne's true journey**, then the party finishes the Reliquary and goes back into Durnhollow.
-> This plan covers far more than one night. **Part One** (sections 0 to 4) is the Reliquary and its aftermath. **Part Two** (sections 5 to 12) is the lava floor of Durnhollow, run as a sandbox. Whatever isn't reached carries over to Session 56.
+> This plan covers far more than one night. **Part One** (sections 0 to 4) is the Reliquary and its aftermath. **Part Two** (sections 5 to 11) is the lava floor of Durnhollow, run as a sandbox. Whatever isn't reached carries over to Session 56.
 
 > [!important] Where things stand
 > - **Wayne holds the [[Shell of the Void Heart]].** His stone is a deeper ebony since he broke out of the Stilling. If he accepts Malcanthet's offer, the Shell is implanted and uses no attunement slot. Hollowing 0.
@@ -36,7 +36,7 @@ tags:
 | 2. Lolth | 10 to 15 min |
 | 3. The Collapse | 30 min |
 | 4. Vistro and the salamanders | 15 min |
-| 5 to 12. The lava floor | The rest of the night, and Session 56 |
+| 5 to 11. The lava floor | The rest of the night, and Session 56 |
 
 ---
 
@@ -207,35 +207,35 @@ Three checks, any order. Each describes a stretch of the climb.
 
 ### To Wayne: the admiration
 
-- **(Circling him):** "Look at you, mon cher. Look at what you have done. They tried to make you still, my poor broken shadow, and you came back *harder*. Darker." *(She runs a finger down the ebony of his arm.)* "*Magnifique.*"
-- **(The proof):** "You know how many have stood where you stand? Pilgrims, champions, little kings. They all became stone and stayed stone. You?" *(A delighted laugh.)* "You broke out of it. Not with fear. With a *memory*. Of an old man and a pot of soup." *(Softer.)* "Even I did not see that coming. I like to be surprised. It happens so rarely now."
-- **(The diagnosis):** "You feel it, non? The stone, it does not hurt anymore. It fits you. You have stopped fighting your own skin. Your body is finished, chéri. It is a shell, a beautiful one." *(She taps his chest, where a heart would be.)* "But a cathedral with nothing inside is only a tomb."
-- **(The two yeses):** "Twice now you have said yes to me. The needle waited for you, and you let it in. The blade asked you to let go, and you let go. Nobody has said yes to me twice since *him*."
-- **(The regret):** "I left you unfinished, in the house where I made you. It is my one regret. It must ache, to be half of something."
+> - **(Circling him):** "Look at you, mon cher. Look at what you have done. They tried to make you still, my poor broken shadow, and you came back *harder*. Darker." *(She runs a finger down the ebony of his arm.)* "*Magnifique.*"
+> - **(The proof):** "You know how many have stood where you stand? Pilgrims, champions, little kings. They all became stone and stayed stone. You?" *(A delighted laugh.)* "You broke out of it. Not with fear. With a *memory*. Of an old man and a pot of soup." *(Softer.)* "Even I did not see that coming. I like to be surprised. It happens so rarely now."
+> - **(The diagnosis):** "You feel it, non? The stone, it does not hurt anymore. It fits you. You have stopped fighting your own skin. Your body is finished, chéri. It is a shell, a beautiful one." *(She taps his chest, where a heart would be.)* "But a cathedral with nothing inside is only a tomb."
+> - **(The two yeses):** "Twice now you have said yes to me. The needle waited for you, and you let it in. The blade asked you to let go, and you let go. Nobody has said yes to me twice since *him*."
+> - **(The regret):** "I left you unfinished, in the house where I made you. It is my one regret. It must ache, to be half of something."
 
-- **(The memory):** "You remember now, non? Where we met." *(Delighted.)* "I gave it back to you. A gift."
+> - **(The memory):** "You remember now, non? Where we met." *(Delighted.)* "I gave it back to you. A gift."
 
 ### What the memory meant
 
-- **(The field):** "That is where his world broke from yours. The giants fell back into their sky and the sky tore away behind them. And there, in the middle of it all, my masterpiece *turned*." *(Bitter, for one breath.)* "He chose wrong. He was weak at the end. All those voices inside him, his brothers, his cousins, whispering his name until he forgot whose he was."
-- **(The choice, to Wayne):** "He gave you something, the old ghost. A little spark. I know. I saw. I let it happen." *(She tilts her head.)* "Because a vessel that cannot choose is only a tool. And I do not want a tool, mon cher. I want what he should have been. I want the one who chooses *me*."
-- **(If Wayne asks about the armor, or the spark):** "Old things. Broken things. You can spend your life climbing after a dead man's leftovers." *(A shrug.)* "Or you can have *everything*."
+> - **(The field):** "That is where his world broke from yours. The giants fell back into their sky and the sky tore away behind them. And there, in the middle of it all, my masterpiece *turned*." *(Bitter, for one breath.)* "He chose wrong. He was weak at the end. All those voices inside him, his brothers, his cousins, whispering his name until he forgot whose he was."
+> - **(The choice, to Wayne):** "He gave you something, the old ghost. A little spark. I know. I saw. I let it happen." *(She tilts her head.)* "Because a vessel that cannot choose is only a tool. And I do not want a tool, mon cher. I want what he should have been. I want the one who chooses *me*."
+> - **(If Wayne asks about the armor, or the spark):** "Old things. Broken things. You can spend your life climbing after a dead man's leftovers." *(A shrug.)* "Or you can have *everything*."
 
 ### The offer
 
-- **(The power):** "I am offering you the heart he lost. Take it into you, and I will give you power you do not even have the words to want. You will walk through walls like they are fog. You will walk through *armies* like they are fog."
-- **(The shape of it, a little):** "A vessel is made in three parts, chéri. A body, a mind, a soul. The body, you have given me already. The rest, we will do together. Slowly. With love."
-- **(The first step):** "Go to the west. To the mountain that shines and is not a mountain. My brothers and sisters are gathering there, and when the mountain opens, I need *you* standing in the wound." *(Fond.)* "You will know the place when you see it. The heart will pull you there."
-- **(If Wayne asks what happens there):** "The world opens, a little. Like a door." *(She leaves it there.)*
-- **(The brand):** *(She touches the mark on him, almost tenderly.)* "This ugly thing? It belongs to my brother, the one you robbed on his bridge. He has a long memory." *(A smile in her voice.)* "But the Five share everything now. Finish what we start, and he will give you to me, and I will burn it off you myself. No more mark. No more promise to anyone but me."
+> - **(The power):** "I am offering you the heart he lost. Take it into you, and I will give you power you do not even have the words to want. You will walk through walls like they are fog. You will walk through *armies* like they are fog."
+> - **(The shape of it, a little):** "A vessel is made in three parts, chéri. A body, a mind, a soul. The body, you have given me already. The rest, we will do together. Slowly. With love."
+> - **(The first step):** "Go to the west. To the mountain that shines and is not a mountain. My brothers and sisters are gathering there, and when the mountain opens, I need *you* standing in the wound." *(Fond.)* "You will know the place when you see it. The heart will pull you there."
+> - **(If Wayne asks what happens there):** "The world opens, a little. Like a door." *(She leaves it there.)*
+> - **(The brand):** *(She touches the mark on him, almost tenderly.)* "This ugly thing? It belongs to my brother, the one you robbed on his bridge. He has a long memory." *(A smile in her voice.)* "But the Five share everything now. Finish what we start, and he will give you to me, and I will burn it off you myself. No more mark. No more promise to anyone but me."
 
 > [!secret] What she left out
 > revealed:: false
 > - "The heart will pull you there": the Shell was the Reliquary's anchor, the stitch that held an Abyssal house in the material plane. Planted in the wound at Glimmerstone, it stitches the Abyss to the world and holds the gateway open. **Wayne is the door.** See [[Become the Hollow Vessel]].
 > - The brand comes off because a vessel needs no brand. It is already hers.
 
-**If Wayne is defiant:** "Bien sûr. Be angry. He was angry too, at first." *(Patient.)* "I have waited five thousand years. I can wait for you to finish being angry."
-**If Wayne is curious:** "Ask me anything, mon cher. I will tell you the truth. I always tell the truth." *(Beat.)* "It is the most effective lie there is."
+> **If Wayne is defiant:** "Bien sûr. Be angry. He was angry too, at first." *(Patient.)* "I have waited five thousand years. I can wait for you to finish being angry."
+> **If Wayne is curious:** "Ask me anything, mon cher. I will tell you the truth. I always tell the truth." *(Beat.)* "It is the most effective lie there is."
 
 ### To Thimble
 
@@ -247,14 +247,14 @@ Three checks, any order. Each describes a stretch of the climb.
 >
 > Something changes. The warmth goes out of the air all at once. Every surface of her liquid body bristles into fine black needles, the way the void did in the Mind trial when someone thought too hard, and then, slowly, they smooth back down.
 
-- **(The Tome):** "And here is my little thief." *(Every word precise.)* "You have something of mine, petit voleur. A room of my own house, torn out and bound in ink." *(Closer.)* "It watches me, you know. Every hour I live, it writes me down."
-- **(His obsession):** "You read it at night, when the others sleep. I feel your little fingers on my name. On my *true* name." *(Not angry. Interested.)* "You are hungry, non? Not for gold. Not for spells. For the thing *under* the words."
-- **(What she felt in him):** "When your light went out in the trial, I reached for what was under it. To take it, the way I take everyone." *(A pause. For the first time she sounds uncertain.)* "There was nothing to hold. It *moved*. It smelled like the beginning. Like us, before we were anything at all." *(Very quiet.)* "What did he make you out of, little thief?"
-- **(If Thimble asks who "he" is):** "Ask your father. He is the one who looked." *(That's all she'll give.)*
-- **(If Thimble asks about the rifts, the planes, the murals):** *(Amused.)* "The walls between the worlds? Oh, chéri. Things like you and me were born before there were walls."
-- **(The temptation):** "You want what is in that book? It is power, petit. The kind that does not ask permission. But a book is only a door." *(Her face tilts, studying him.)* "And you, I think, are already something on the other side of it."
-- **(Home):** "You are going home soon, I think. The shining mountain. It will be so glad to see you." *(Softly.)* "It remembers what you are made of."
-- **(The warning, or the invitation):** "Read it, then. Every page. Every page you read reads a little more of you. I cannot take it from you." *(Beat.)* "But when you are tired of reading, little thief, come and find me. I will teach you the parts the book is too afraid to say."
+> - **(The Tome):** "And here is my little thief." *(Every word precise.)* "You have something of mine, petit voleur. A room of my own house, torn out and bound in ink." *(Closer.)* "It watches me, you know. Every hour I live, it writes me down."
+> - **(His obsession):** "You read it at night, when the others sleep. I feel your little fingers on my name. On my *true* name." *(Not angry. Interested.)* "You are hungry, non? Not for gold. Not for spells. For the thing *under* the words."
+> - **(What she felt in him):** "When your light went out in the trial, I reached for what was under it. To take it, the way I take everyone." *(A pause. For the first time she sounds uncertain.)* "There was nothing to hold. It *moved*. It smelled like the beginning. Like us, before we were anything at all." *(Very quiet.)* "What did he make you out of, little thief?"
+> - **(If Thimble asks who "he" is):** "Ask your father. He is the one who looked." *(That's all she'll give.)*
+> - **(If Thimble asks about the rifts, the planes, the murals):** *(Amused.)* "The walls between the worlds? Oh, chéri. Things like you and me were born before there were walls."
+> - **(The temptation):** "You want what is in that book? It is power, petit. The kind that does not ask permission. But a book is only a door." *(Her face tilts, studying him.)* "And you, I think, are already something on the other side of it."
+> - **(Home):** "You are going home soon, I think. The shining mountain. It will be so glad to see you." *(Softly.)* "It remembers what you are made of."
+> - **(The warning, or the invitation):** "Read it, then. Every page. Every page you read reads a little more of you. I cannot take it from you." *(Beat.)* "But when you are tired of reading, little thief, come and find me. I will teach you the parts the book is too afraid to say."
 
 > [!secret] What this sets up
 > revealed:: false
@@ -299,7 +299,7 @@ Three checks, any order. Each describes a stretch of the climb.
 > [!readaloud]
 > As she turns to go, her featureless face passes over Aalyn, and lingers just long enough to be an insult.
 
-- **(To Aalyn, dismissive):** "And Lolth's little songbird. She lets you out so far from the web." *(A soft laugh.)* "How trusting of her."
+> - **(To Aalyn, dismissive):** "And Lolth's little songbird. She lets you out so far from the web." *(A soft laugh.)* "How trusting of her."
 
 > [!readaloud]
 > The liquid of her body collapses all at once, a held breath let go, and is gone.
@@ -346,34 +346,40 @@ Three checks, any order. Each describes a stretch of the climb.
 ### To Aalyn
 
 **The fury**
-- "You used my *string*." *(She reaches out and touches the golden bowstring, and its light dims under her finger.)* "The gift I put in your hand. You used it to reach *past* me, for something of *mine*." *(Click, click.)* "Did you think I wouldn't feel it pull? Did you think I was *asleep*?"
-- "I felt every inch of it, songbird. Every note. You plucked my web like a child plucking a harp, and you thought you were *clever*."
+
+> - "You used my *string*." *(She reaches out and touches the golden bowstring, and its light dims under her finger.)* "The gift I put in your hand. You used it to reach *past* me, for something of *mine*." *(Click, click.)* "Did you think I wouldn't feel it pull? Did you think I was *asleep*?"
+> - "I felt every inch of it, songbird. Every note. You plucked my web like a child plucking a harp, and you thought you were *clever*."
 
 **Belittling him**
-- "Look at you. Covered in another woman's gold." *(The gold cloak.)* "A little bird in borrowed feathers, singing in a dead giant's house. Is that what you are now?"
-- "You were a *wreck* when I found you, pet. A boy in the snow with nothing left. Everything you are, I wove. Your voice. Your luck. Your *breath*." (*...your breath.*)
-- "'*Make the world a better place.*'" *(His own promise, repeated slowly, mocking.)* "And how is that going? A dead princess. A city in mist. A brand you can't read." *(Beat.)* "Better for whom, little bird?"
+
+> - "Look at you. Covered in another woman's gold." *(The gold cloak.)* "A little bird in borrowed feathers, singing in a dead giant's house. Is that what you are now?"
+> - "You were a *wreck* when I found you, pet. A boy in the snow with nothing left. Everything you are, I wove. Your voice. Your luck. Your *breath*." (*...your breath.*)
+> - "'*Make the world a better place.*'" *(His own promise, repeated slowly, mocking.)* "And how is that going? A dead princess. A city in mist. A brand you can't read." *(Beat.)* "Better for whom, little bird?"
 
 **Sumina**
-- "She is not yours. She was never yours." *(Very close.)* "You think you lost a girl from your village under a winter tree." *(Her head tilts.)* "You have *no idea* what you lost. And you never will, unless I decide you may."
+
+> - "She is not yours. She was never yours." *(Very close.)* "You think you lost a girl from your village under a winter tree." *(Her head tilts.)* "You have *no idea* what you lost. And you never will, unless I decide you may."
 
 **Her power over him** *(the thread tightens; no damage, real pain)*
 > [!readaloud]
 > The thread around your throat pulls, gently at first, then not gently at all. You can't breathe. You can't make a sound. You're on your knees before you know you've fallen, and she's looking down at you the way you'd look at something on the bottom of your boot.
 
-- "There. Feel that? That is the whole of your leash." (*...your leash.*) "It has always been there. It will always be there. I can pull it whenever I like, wherever you are, and no one in this world can cut it."
-- "Your little devil-woman asked you a question once. '*You are already promised. To whom?*'" *(She lets the thread go slack, just enough for him to gasp.)* "To *me*. In the snow. You just don't remember saying it."
-- *(If anyone else moves to help him, she doesn't look away from Aalyn.)* "Sit down. This doesn't concern you." *(The thread tightens again.)* "It concerns my *property*."
+> - "There. Feel that? That is the whole of your leash." (*...your leash.*) "It has always been there. It will always be there. I can pull it whenever I like, wherever you are, and no one in this world can cut it."
+> - "Your little devil-woman asked you a question once. '*You are already promised. To whom?*'" *(She lets the thread go slack, just enough for him to gasp.)* "To *me*. In the snow. You just don't remember saying it."
+> - *(If anyone else moves to help him, she doesn't look away from Aalyn.)* "Sit down. This doesn't concern you." *(The thread tightens again.)* "It concerns my *property*."
 
 **The task**
-- "I gave you *one* thing to do. One. A little spindle of my thread, in your city of mists, in the hands of men who light candles." *(Click, click.)* "And instead you climb a dead giant's tower and *sing*."
-- "Bring me the spindle. Before the others do."
+
+> - "I gave you *one* thing to do. One. A little spindle of my thread, in your city of mists, in the hands of men who light candles." *(Click, click.)* "And instead you climb a dead giant's tower and *sing*."
+> - "Bring me the spindle. Before the others do."
 
 **The bargain**
-- "Bring it to me, and I'll let you hear her sing. Once. All the way through." *(Beat.)* "Defy me again, and I'll let you hear her *scream*." *(A small, delighted shrug.)* "I don't mind which. You choose."
+
+> - "Bring it to me, and I'll let you hear her sing. Once. All the way through." *(Beat.)* "Defy me again, and I'll let you hear her *scream*." *(A small, delighted shrug.)* "I don't mind which. You choose."
 
 **If Aalyn pushes back, threatens her, or insults her**
-- The thread drops him flat. "*It* speaks." *(Cold, quiet.)* "Do it again, and I'll take your voice for a year, and you can see how well a bard does without one."
+
+> - The thread drops him flat. "*It* speaks." *(Cold, quiet.)* "Do it again, and I'll take your voice for a year, and you can see how well a bard does without one."
 
 **Optional mechanical weight**
 - The golden bowstring's light **dims**. Until Aalyn makes progress on the spindle, *Lolth's Bowstring* won't unlock its next ability. The item says its abilities grow as his connection to her grows. This is her holding it back.
@@ -439,7 +445,8 @@ Three checks, any order. Each describes a stretch of the climb.
 
 **Atul for the rest of the Collapse**
 - Once per stage, he can give **one character an automatic success** by hauling, shielding, or throwing them. He's a stone dwarf king; make it look like it.
-- He talks the whole way, short and gruff: *"Left."* *"Mind the edge."* *"I've held worse than this. I held a wedding."*
+
+> - He talks the whole way, short and gruff: *"Left."* *"Mind the edge."* *"I've held worse than this. I held a wedding."*
 
 ### Stage 3: The Cracked Sphere
 
@@ -538,19 +545,22 @@ Check the Clock when the party is through the doors.
 > All around the lake, on their basalt pillars, the fire sages are lifting their heads. For the first time in their lives, their hands are still.
 
 **Dialog**
-- **(Long silence first):** "It's gone." *(Not a question.)* "The thing our fathers held for an age, and you..." *(He can't finish.)*
-- **(If told the Abyss took it home):** "Then it went home. And we..." *(He looks at his sages.)* "We don't have to hold the fire anymore."
-- **(If Wayne carries the Shell, or it's in his chest):** *(Every flame on Vistro leans away from Wayne.)* "You carry what we held." *(Quiet.)* "Our fathers' fathers held that fire for an age, and you carry it like it's nothing. Tell me why I shouldn't hold the fire around *you*." *(Tense, not hostile. Wayne's answer decides how the salamanders see him from here on.)*
-- **(If a sage died holding the doors):** "Then he's the last of us to hold it. We'll sing him first."
-- **(On the future):** "We were dragged here. We stayed because we had to. Now..." *(He looks up, toward the city above.)* "Now I suppose we'll have to learn what we want."
-- **(Old Ash Tongue, if he's with them):** Vistro and Ash Tongue share one look. "*You.*" "*Me.*" Then, grudgingly, Vistro laughs.
+
+> - **(Long silence first):** "It's gone." *(Not a question.)* "The thing our fathers held for an age, and you..." *(He can't finish.)*
+> - **(If told the Abyss took it home):** "Then it went home. And we..." *(He looks at his sages.)* "We don't have to hold the fire anymore."
+> - **(If Wayne carries the Shell, or it's in his chest):** *(Every flame on Vistro leans away from Wayne.)* "You carry what we held." *(Quiet.)* "Our fathers' fathers held that fire for an age, and you carry it like it's nothing. Tell me why I shouldn't hold the fire around *you*." *(Tense, not hostile. Wayne's answer decides how the salamanders see him from here on.)*
+> - **(If a sage died holding the doors):** "Then he's the last of us to hold it. We'll sing him first."
+> - **(On the future):** "We were dragged here. We stayed because we had to. Now..." *(He looks up, toward the city above.)* "Now I suppose we'll have to learn what we want."
+> - **(Old Ash Tongue, if he's with them):** Vistro and Ash Tongue share one look. "*You.*" "*Me.*" Then, grudgingly, Vistro laughs.
 
 **Atul's army**
 - The island is going under, and Atul's petrified soldiers are going with it. The rafts can carry some of them, but not all.
 - **If the party asks:** Vistro orders the rafts to haul statues. **Group Persuasion or Athletics DC 13** (the party helping load). Success: about half the army is saved and laid on the shore of the Lava Docks. Failure: a few dozen.
 - **If Atul is with them:** he doesn't ask. He starts carrying his soldiers to the rafts one at a time, and Vistro watches the stone king do it and then orders every raft to help. Two kings, one of fire and one of stone, saying almost nothing. Let it breathe.
-  - **Atul:** "Your people kept my wife's sin in a cage for a thousand years. Durnhollow owes you more than it can pay."
-  - **Vistro:** "Durnhollow is dead, stone king." *(Beat.)* "Pay me anyway."
+
+>   - **Atul:** "Your people kept my wife's sin in a cage for a thousand years. Durnhollow owes you more than it can pay."
+>   - **Vistro:** "Durnhollow is dead, stone king." *(Beat.)* "Pay me anyway."
+
 - **If Atul was lost:** the party may want to save his army for him. Let them. It matters later.
 
 **Rewards for ridding the world of the temple**
@@ -793,8 +803,10 @@ Once all three orbs are in their cradles, two characters work each orb's panels.
 
 **Not enough hands.** Five players and six panels: someone runs two panels (one check per turn, alternating), or a helper takes one.
 - **Atul (if he survived):** he runs any one panel with **advantage**, and his Containment checks automatically succeed. He also knows both ratios by heart and what each one means.
-  - "Three to one, Clapeyron's way. It makes good steel that doesn't think." *(Pause.)* "One to one is my wife's way. It makes steel that loves you back." *(He doesn't say which he'd choose.)*
-  - If the party is losing control: "Ease off the silver! You're feeding it faster than it can hold!"
+
+>   - "Three to one, Clapeyron's way. It makes good steel that doesn't think." *(Pause.)* "One to one is my wife's way. It makes steel that loves you back." *(He doesn't say which he'd choose.)*
+>   - If the party is losing control: "Ease off the silver! You're feeding it faster than it can hold!"
+
 - **A salamander (Vistro's labor boon):** works one Channeling panel at **+5**.
 
 **When all three orbs are locked**
